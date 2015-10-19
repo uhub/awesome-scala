@@ -872,6 +872,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [al3x/zookeeper-client](https://github.com/al3x/zookeeper-client) - A ZooKeeper client library in Scala.
 * [adriaanm/scala-virtualized-tutorial](https://github.com/adriaanm/scala-virtualized-tutorial) - Tutorial programs that illustrate how to use scala-virtualized
 * [TinkoffCreditSystems/ScalaDatabase](https://github.com/TinkoffCreditSystems/ScalaDatabase) - Scala Database wrapper based on JDBC
+* [mrkaspa/Neo4S](https://github.com/mrkaspa/Neo4S) - Neo4S is an Neo ORM for Scala it uses the AnormCypher ibrary
 * [PredictionIO/PredictionIO](https://github.com/PredictionIO/PredictionIO) - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.
 * [playframework/playframework](https://github.com/playframework/playframework) - Play Framework
 * [apache/spark](https://github.com/apache/spark) - Mirror of Apache Spark
