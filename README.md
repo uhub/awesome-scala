@@ -1,4 +1,4 @@
-#awesome-scala
+# awesome-scala
 
 A curated list of awesome Scala frameworks, libraries and software.
 
@@ -7,15 +7,15 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & github API compatibility
 * [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
 * [scalaz/scalaz](https://github.com/scalaz/scalaz) - An extension to the core Scala library for functional programming.
-* [sbt/sbt](https://github.com/sbt/sbt) - sbt, the interactive build tool
-* [ornicar/lila](https://github.com/ornicar/lila) - lichess.org: the forever free, adless and open source chess server.
 * [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+* [ornicar/lila](https://github.com/ornicar/lila) - lichess.org: the forever free, adless and open source chess server.
+* [sbt/sbt](https://github.com/sbt/sbt) - sbt, the interactive build tool
 * [fpinscala/fpinscala](https://github.com/fpinscala/fpinscala) - Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"
 * [gatling/gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Load Test Tool
 * [scala-js/scala-js](https://github.com/scala-js/scala-js) - Scala.js, the Scala to JavaScript compiler
 * [twitter/scalding](https://github.com/twitter/scalding) - A Scala API for Cascading
-* [spray/spray](https://github.com/spray/spray) - A suite of scala libraries for building and consuming RESTful web services on top of Akka: lightweight, asynchronous, non-blocking, actor-based, testable
 * [scala-native/scala-native](https://github.com/scala-native/scala-native) - Your favourite language gets closer to bare metal.
+* [spray/spray](https://github.com/spray/spray) - A suite of scala libraries for building and consuming RESTful web services on top of Akka: lightweight, asynchronous, non-blocking, actor-based, testable
 * [scalatra/scalatra](https://github.com/scalatra/scalatra) - Tiny Scala high-performance, async web framework, inspired by Sinatra
 * [scalanlp/breeze](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
 * [milessabin/shapeless](https://github.com/milessabin/shapeless) - Generic programming for Scala
@@ -27,10 +27,11 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [mesos/spark](https://github.com/mesos/spark) - Lightning-fast cluster computing in Java, Scala and Python.
 * [twitter/algebird](https://github.com/twitter/algebird) - Abstract Algebra for Scala
 * [GravityLabs/goose](https://github.com/GravityLabs/goose) - Html Content / Article Extractor in Scala - open sourced from Gravity Labs
+* [PkmX/lcamera](https://github.com/PkmX/lcamera) - A camera app using the new camera2 API in Android Lollipop
 * [lagom/lagom](https://github.com/lagom/lagom) - Reactive Microservices for the JVM
 * [rickynils/scalacheck](https://github.com/rickynils/scalacheck) - Property-based testing for Scala
-* [ensime/ensime-server](https://github.com/ensime/ensime-server) - ENSIME JVM Process
 * [lihaoyi/Ammonite](https://github.com/lihaoyi/Ammonite) - Scala Scripting
+* [ensime/ensime-server](https://github.com/ensime/ensime-server) - ENSIME JVM Process
 * [datastax/spark-cassandra-connector](https://github.com/datastax/spark-cassandra-connector) - DataStax Spark Cassandra Connector
 * [non/spire](https://github.com/non/spire) - Powerful new number types and numeric abstractions for Scala.
 * [lift/framework](https://github.com/lift/framework) - Lift Framework
@@ -43,36 +44,36 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [json4s/json4s](https://github.com/json4s/json4s) - A single AST to be used by other scala json libraries
 * [sksamuel/elastic4s](https://github.com/sksamuel/elastic4s) - Non blocking, type safe DSL and Scala client for Elasticsearch
 * [getquill/quill](https://github.com/getquill/quill) - Compile-time Language Integrated Queries for Scala
+* [outworkers/phantom](https://github.com/outworkers/phantom) - Schema safe, type-safe, reactive Scala driver for Cassandra/Datastax Enterprise
 * [kamon-io/Kamon](https://github.com/kamon-io/Kamon) - The Open Source tool for monitoring applications running on the JVM
 * [scala/pickling](https://github.com/scala/pickling) - Fast, customizable, boilerplate-free pickling support for Scala
+* [coursier/coursier](https://github.com/coursier/coursier) - Pure Scala Artifact Fetching
 * [lihaoyi/Metascala](https://github.com/lihaoyi/Metascala) - A JVM written in Scala
 * [eligosource/eventsourced](https://github.com/eligosource/eventsourced) - A library for building reliable, scalable and distributed event-sourced applications in Scala
-* [twitter/ostrich](https://github.com/twitter/ostrich) - A stats collector & reporter for Scala servers
-* [sbt/sbt-native-packager](https://github.com/sbt/sbt-native-packager) - SBT Native Packager
-* [vkostyukov/scalacaster](https://github.com/vkostyukov/scalacaster) - Purely Functional Algorithms and Data Structures in Scala
 * [pathikrit/better-files](https://github.com/pathikrit/better-files) - Simple, safe and intuitive Scala I/O
-* [circe/circe](https://github.com/circe/circe) - Yet another JSON library for Scala
-* [alexarchambault/coursier](https://github.com/alexarchambault/coursier) - Pure Scala Artifact Fetching
-* [outworkers/phantom](https://github.com/outworkers/phantom) - Reactive type-safe Scala driver for Cassandra/Datastax Enterprise
-* [scala/async](https://github.com/scala/async) - An asynchronous programming facility for Scala
 * [japgolly/scalajs-react](https://github.com/japgolly/scalajs-react) - Facebook's React on Scala.js
+* [sbt/sbt-native-packager](https://github.com/sbt/sbt-native-packager) - SBT Native Packager
+* [circe/circe](https://github.com/circe/circe) - Yet another JSON library for Scala
+* [vkostyukov/scalacaster](https://github.com/vkostyukov/scalacaster) - Purely Functional Algorithms and Data Structures in Scala
 * [tpolecat/doobie](https://github.com/tpolecat/doobie) - principled database access for scala
+* [twitter/ostrich](https://github.com/twitter/ostrich) - A stats collector & reporter for Scala servers
+* [scala/async](https://github.com/scala/async) - An asynchronous programming facility for Scala
 * [lihaoyi/scala.rx](https://github.com/lihaoyi/scala.rx) - An experimental library for Functional Reactive Programming in Scala
 * [functional-streams-for-scala/fs2](https://github.com/functional-streams-for-scala/fs2) - Compositional, streaming I/O library for Scala
+* [akka/reactive-kafka](https://github.com/akka/reactive-kafka) - Reactive Streams API for Apache Kafka
 * [scalikejdbc/scalikejdbc](https://github.com/scalikejdbc/scalikejdbc) - A tidy SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs.
 * [julien-truffaut/Monocle](https://github.com/julien-truffaut/Monocle) - Optics library for Scala
-* [akka/reactive-kafka](https://github.com/akka/reactive-kafka) - Reactive Streams API for Apache Kafka
 * [monix/monix](https://github.com/monix/monix) - Asynchronous, Reactive Programming for Scala and Scala.js.
-* [jdegoes/blueeyes](https://github.com/jdegoes/blueeyes) - A lightweight Web 3.0 framework for Scala, featuring a purely asynchronous architecture, extremely high-performance, massive scalability, high usability, and a functional, composable design.
-* [ReactiveMongo/ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking, Reactive MongoDB Driver for Scala
-* [playframework/play-slick](https://github.com/playframework/play-slick) - Slick Plugin for Play
 * [http4s/http4s](https://github.com/http4s/http4s) - A minimal, idiomatic Scala interface for HTTP
+* [ReactiveMongo/ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking, Reactive MongoDB Driver for Scala
+* [jdegoes/blueeyes](https://github.com/jdegoes/blueeyes) - A lightweight Web 3.0 framework for Scala, featuring a purely asynchronous architecture, extremely high-performance, massive scalability, high usability, and a functional, composable design.
+* [playframework/play-slick](https://github.com/playframework/play-slick) - Slick Plugin for Play
 * [unfiltered/unfiltered](https://github.com/unfiltered/unfiltered) - A toolkit for servicing HTTP requests in Scala
 * [nscala-time/nscala-time](https://github.com/nscala-time/nscala-time) - A new Scala wrapper for Joda Time based on scala-time
 * [wartremover/wartremover](https://github.com/wartremover/wartremover) - Flexible Scala code linting tool
-* [etaty/rediscala](https://github.com/etaty/rediscala) - Non-blocking, Reactive Redis driver for Scala (with Sentinel support)
-* [adamw/macwire](https://github.com/adamw/macwire) - Lightweight and Nonintrusive Scala Dependency Injection Library
 * [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL implementation
+* [adamw/macwire](https://github.com/adamw/macwire) - Lightweight and Nonintrusive Scala Dependency Injection Library
+* [etaty/rediscala](https://github.com/etaty/rediscala) - Non-blocking, Reactive Redis driver for Scala (with Sentinel support)
 * [ReactiveX/RxScala](https://github.com/ReactiveX/RxScala) - RxScala – Reactive Extensions for Scala – a library for composing asynchronous and event-based programs using observable sequences
 * [JetBrains/intellij-scala](https://github.com/JetBrains/intellij-scala) - Scala plugin for IntelliJ IDEA
 * [skinny-framework/skinny-framework](https://github.com/skinny-framework/skinny-framework) - :monorail: "Scala on Rails" - A full-stack web app framework for rapid development in Scala
@@ -80,789 +81,817 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [spray/spray-json](https://github.com/spray/spray-json) - A lightweight, clean and simple JSON implementation in Scala
 * [adamw/elasticmq](https://github.com/adamw/elasticmq) - Message queueing system with an actor-based Scala and Amazon SQS-compatible interfaces. Runs stand-alone or embedded.
 * [mohiva/play-silhouette](https://github.com/mohiva/play-silhouette) - Silhouette is an authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, CAS, Credentials, Basic Authentication, Two Factor Authentication or custom authentication schemes.
-* [etorreborre/specs2](https://github.com/etorreborre/specs2) - Software Specifications for Scala
 * [scalaj/scalaj-http](https://github.com/scalaj/scalaj-http) - Simple scala wrapper for HttpURLConnection.  OAuth included.
+* [etorreborre/specs2](https://github.com/etorreborre/specs2) - Software Specifications for Scala
 * [twitter/scrooge](https://github.com/twitter/scrooge) - A Thrift parser/generator
 * [scalatest/scalatest](https://github.com/scalatest/scalatest) - A testing tool for Scala and Java developers
 * [mongodb/casbah](https://github.com/mongodb/casbah) - Officially supported Scala Driver for MongoDB
 * [Astonex/Antox](https://github.com/Astonex/Antox) - Scala android client for Project Tox - secure p2p messaging
 * [spray/sbt-revolver](https://github.com/spray/sbt-revolver) - An SBT plugin for dangerously fast development turnaround in Scala
+* [47deg/macroid](https://github.com/47deg/macroid) - A modular functional UI language for Android
 * [sirthias/parboiled2](https://github.com/sirthias/parboiled2) - A macro-based PEG parser generator for Scala 2.10+
-* [densh/scala-offheap](https://github.com/densh/scala-offheap) - Experimental type-safe off-heap memory for Scala.
 * [MightyPirates/OpenComputers](https://github.com/MightyPirates/OpenComputers) - Home of the OpenComputers mod for Minecraft.
-* [NICTA/scoobi](https://github.com/NICTA/scoobi) - A Scala productivity framework for Hadoop.
-* [scalate/scalate](https://github.com/scalate/scalate) - Scalate is a Scala based template engine which supports HAML, Mustache and JSP, Erb and Velocity style syntaxes.
-* [squeryl/squeryl](https://github.com/squeryl/squeryl) - A Scala DSL for talking with databases with minimum verbosity and maximum type safety
-* [lihaoyi/scalatags](https://github.com/lihaoyi/scalatags) - ScalaTags is a small XML/HTML construction library for Scala.
+* [densh/scala-offheap](https://github.com/densh/scala-offheap) - Experimental type-safe off-heap memory for Scala.
 * [jacksu/utils4s](https://github.com/jacksu/utils4s) - scala、spark使用过程中，各种测试用例以及相关资料整理
+* [lihaoyi/scalatags](https://github.com/lihaoyi/scalatags) - ScalaTags is a small XML/HTML construction library for Scala.
+* [NICTA/scoobi](https://github.com/NICTA/scoobi) - A Scala productivity framework for Hadoop.
 * [factorie/factorie](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modeling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
+* [squeryl/squeryl](https://github.com/squeryl/squeryl) - A Scala DSL for talking with databases with minimum verbosity and maximum type safety
+* [scalate/scalate](https://github.com/scalate/scalate) - Scalate is a Scala based template engine which supports HAML, Mustache and JSP, Erb and Velocity style syntaxes.
+* [scodec/scodec](https://github.com/scodec/scodec) - Scala combinator library for working with binary data
 * [ochrons/scalajs-spa-tutorial](https://github.com/ochrons/scalajs-spa-tutorial) - Tutorial for creating a simple Single Page Application in ScalaJS
+* [alexarchambault/jupyter-scala](https://github.com/alexarchambault/jupyter-scala) - Lightweight Scala kernel for Jupyter / IPython 3
 * [sksamuel/scrimage](https://github.com/sksamuel/scrimage) - Scala image processing library
 * [scala-ide/scala-ide](https://github.com/scala-ide/scala-ide) - Scala IDE for Eclipse
-* [foundweekends/conscript](https://github.com/foundweekends/conscript) - Scala at your command
-* [scodec/scodec](https://github.com/scodec/scodec) - Scala combinator library for working with binary data
 * [lihaoyi/fastparse](https://github.com/lihaoyi/fastparse) - Writing Fast Parsers Fast in Scala
-* [alexarchambault/jupyter-scala](https://github.com/alexarchambault/jupyter-scala) - Lightweight Scala kernel for Jupyter / IPython 3
-* [paulp/policy](https://github.com/paulp/policy) - a fork of the scala compiler
+* [foundweekends/conscript](https://github.com/foundweekends/conscript) - Scala at your command
 * [scalastyle/scalastyle](https://github.com/scalastyle/scalastyle) - scalastyle
 * [mpilquist/simulacrum](https://github.com/mpilquist/simulacrum) - First class syntax support for type classes in Scala
+* [paulp/policy](https://github.com/paulp/policy) - a fork of the scala compiler
 * [seratch/AWScala](https://github.com/seratch/AWScala) - Using AWS SDK on the Scala REPL
-* [jsuereth/scala-arm](https://github.com/jsuereth/scala-arm) - This project aims to be the Scala Incubator project for Automatic-Resource-Management in the scala library
-* [scala-ide/scalariform](https://github.com/scala-ide/scalariform) - Scala source code formatter
+* [spotify/scio](https://github.com/spotify/scio) - A Scala API for Apache Beam and Google Cloud Dataflow
 * [fthomas/refined](https://github.com/fthomas/refined) - Simple refinement types for Scala
 * [scalameta/scalameta](https://github.com/scalameta/scalameta) - Your favourite language gets closer to bare meta.
+* [scala-ide/scalariform](https://github.com/scala-ide/scalariform) - Scala source code formatter
+* [jsuereth/scala-arm](https://github.com/jsuereth/scala-arm) - This project aims to be the Scala Incubator project for Automatic-Resource-Management in the scala library
 * [nulab/scala-oauth2-provider](https://github.com/nulab/scala-oauth2-provider) - OAuth 2.0 server-side implementation written in Scala
-* [spotify/scio](https://github.com/spotify/scio) - A Scala API for Google Cloud Dataflow and Apache Beam
+* [scalameta/scalafmt](https://github.com/scalameta/scalafmt) - Code formatter for Scala
 * [xitrum-framework/xitrum](https://github.com/xitrum-framework/xitrum) - Async and clustered Scala web framework and HTTP(S) server
-* [dickwall/subcut](https://github.com/dickwall/subcut) - Scala Uniquely Bound Classes Under Traits
-* [argonaut-io/argonaut](https://github.com/argonaut-io/argonaut) - Purely functional JSON parser and library in scala.
 * [marcuslonnberg/sbt-docker](https://github.com/marcuslonnberg/sbt-docker) - Create Docker images directly from sbt
-* [olafurpg/scalafmt](https://github.com/olafurpg/scalafmt) - Code formatter for Scala
-* [typesafehub/scala-logging](https://github.com/typesafehub/scala-logging) - Convenient and performant logging library for Scala wrapping SLF4J.
-* [scala/legacy-svn-scala](https://github.com/scala/legacy-svn-scala) - OBSOLETE, we're over there:
-* [Eliah-Lakhin/papa-carlo](https://github.com/Eliah-Lakhin/papa-carlo) - Constructor of incremental parsers in Scala
-* [matthiasn/sse-chat](https://github.com/matthiasn/sse-chat) - Chat example app using Server Sent Events plus REST calls. Scala, Play Framework 2.3, AngularJS or React (alternatively).
+* [argonaut-io/argonaut](https://github.com/argonaut-io/argonaut) - Purely functional JSON parser and library in scala.
+* [dickwall/subcut](https://github.com/dickwall/subcut) - Scala Uniquely Bound Classes Under Traits
 * [deanwampler/spark-scala-tutorial](https://github.com/deanwampler/spark-scala-tutorial) - A free tutorial for Apache Spark.
+* [typesafehub/scala-logging](https://github.com/typesafehub/scala-logging) - Convenient and performant logging library for Scala wrapping SLF4J.
+* [Eliah-Lakhin/papa-carlo](https://github.com/Eliah-Lakhin/papa-carlo) - Constructor of incremental parsers in Scala
+* [scala/legacy-svn-scala](https://github.com/scala/legacy-svn-scala) - OBSOLETE, we're over there:
+* [matthiasn/sse-chat](https://github.com/matthiasn/sse-chat) - Chat example app using Server Sent Events plus REST calls. Scala, Play Framework 2.3, AngularJS or React (alternatively).
 * [typelevel/squants](https://github.com/typelevel/squants) - The Scala API for Quantities, Units of Measure and Dimensional Analysis
 * [wix/accord](https://github.com/wix/accord) - Accord: A sane validation library for Scala
 * [cb372/scalacache](https://github.com/cb372/scalacache) - Simple caching in Scala
-* [tototoshi/scala-csv](https://github.com/tototoshi/scala-csv) - CSV Reader/Writer for Scala
 * [suzaku-io/diode](https://github.com/suzaku-io/diode) - Scala library for managing immutable application model
-* [dlwh/epic](https://github.com/dlwh/epic) - Epic is a high performance statistical parser written in Scala, along with a framework for building complex structured prediction models.
-* [scalapb/ScalaPB](https://github.com/scalapb/ScalaPB) - Protocol buffer compiler for Scala.
+* [tototoshi/scala-csv](https://github.com/tototoshi/scala-csv) - CSV Reader/Writer for Scala
 * [tpolecat/tut](https://github.com/tpolecat/tut) - doc/tutorial generator for scala
-* [rockymadden/stringmetric](https://github.com/rockymadden/stringmetric) - :dart: String metrics and phonetic algorithms for Scala (e.g. Dice/Sorensen, Hamming, Jaccard, Jaro, Jaro-Winkler, Levenshtein, Metaphone, N-Gram, NYSIIS, Overlap, Ratcliff/Obershelp, Refined NYSIIS, Refined Soundex, Soundex, Weighted Levenshtein).
 * [lloydmeta/enumeratum](https://github.com/lloydmeta/enumeratum) - A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations.
-* [earldouglas/xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) - Build J2EE Web applications in Scala
+* [scalapb/ScalaPB](https://github.com/scalapb/ScalaPB) - Protocol buffer compiler for Scala.
+* [dlwh/epic](https://github.com/dlwh/epic) - Epic is a high performance statistical parser written in Scala, along with a framework for building complex structured prediction models.
+* [rockymadden/stringmetric](https://github.com/rockymadden/stringmetric) - :dart: String metrics and phonetic algorithms for Scala (e.g. Dice/Sorensen, Hamming, Jaccard, Jaro, Jaro-Winkler, Levenshtein, Metaphone, N-Gram, NYSIIS, Overlap, Ratcliff/Obershelp, Refined NYSIIS, Refined Soundex, Soundex, Weighted Levenshtein).
+* [slamdata/matryoshka](https://github.com/slamdata/matryoshka) - Generalized recursion schemes and traversals for Scala.
 * [stripe/brushfire](https://github.com/stripe/brushfire) - Distributed decision tree ensemble learning in Scala
+* [earldouglas/xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) - Build J2EE Web applications in Scala
 * [dispatch/dispatch](https://github.com/dispatch/dispatch) - Scala library for accessing HTTP services
 * [scalafx/scalafx](https://github.com/scalafx/scalafx) - ScalaFX simplifies creation of JavaFX-based user interfaces in Scala.
-* [playframework/twirl](https://github.com/playframework/twirl) - The Play Scala Template Compiler
 * [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka) - Simple project to quickly start developing a web application using AngularJS and Akka HTTP, without the need to write login, user registration etc.
-* [scalameter/scalameter](https://github.com/scalameter/scalameter) - Microbenchmarking and performance regression testing framework for the JVM platform.
+* [playframework/twirl](https://github.com/playframework/twirl) - The Play Scala Template Compiler
 * [quantifind/wisp](https://github.com/quantifind/wisp) - Wisp Is Scala Plotting
+* [scalameter/scalameter](https://github.com/scalameter/scalameter) - Microbenchmarking and performance regression testing framework for the JVM platform.
 * [marconilanna/REPLesent](https://github.com/marconilanna/REPLesent) - A neat little tool to build presentations using the Scala REPL
-* [fwbrasil/activate](https://github.com/fwbrasil/activate) - Pluggable persistence in Scala
-* [scala-graph/scala-graph](https://github.com/scala-graph/scala-graph) - Graph for Scala is intended to provide basic graph functionality seamlessly fitting into the Scala Collection Library. Like the well known members of scala.collection, Graph for Scala is an in-memory graph library aiming at editing and traversing graphs, finding cycles etc. in a user-friendly way.
-* [slamdata/matryoshka](https://github.com/slamdata/matryoshka) - Generalized recursion schemes and traversals for Scala.
-* [FasterXML/jackson-module-scala](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson (http://wiki.fasterxml.com/JacksonHome) to support Scala-specific datatypes
-* [scalala/Scalala](https://github.com/scalala/Scalala) - Scalala has been superseded by dlwh/breeze. Scalala is a high performance numeric linear algebra library for Scala, with rich Matlab-like operators on vectors and matrices; a library of numerical routines; support for plotting.
-* [ruippeixotog/scala-scraper](https://github.com/ruippeixotog/scala-scraper) - A Scala library for scraping content from HTML pages
-* [mpollmeier/gremlin-scala](https://github.com/mpollmeier/gremlin-scala) - Scala wrapper for Apache TinkerPop 3 Graph DSL
 * [melrief/pureconfig](https://github.com/melrief/pureconfig) - A boilerplate-free library for loading configuration files
-* [brikis98/ping-play](https://github.com/brikis98/ping-play) - BigPipe streaming for the Play Framework
-* [twitter/scala_school2](https://github.com/twitter/scala_school2) - Scala School 2
-* [aselab/scala-activerecord](https://github.com/aselab/scala-activerecord) - ActiveRecord-like ORM library for Scala
-* [erikvanoosten/metrics-scala](https://github.com/erikvanoosten/metrics-scala) - The scala API for Dropwizard's Metrics.
-* [vmunier/play-with-scalajs-example](https://github.com/vmunier/play-with-scalajs-example) - Example application showing how you can integrate Play with Scala.js.
+* [scala-graph/scala-graph](https://github.com/scala-graph/scala-graph) - Graph for Scala is intended to provide basic graph functionality seamlessly fitting into the Scala Collection Library. Like the well known members of scala.collection, Graph for Scala is an in-memory graph library aiming at editing and traversing graphs, finding cycles etc. in a user-friendly way.
+* [fwbrasil/activate](https://github.com/fwbrasil/activate) - Pluggable persistence in Scala
+* [ruippeixotog/scala-scraper](https://github.com/ruippeixotog/scala-scraper) - A Scala library for scraping content from HTML pages
+* [FasterXML/jackson-module-scala](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson (http://wiki.fasterxml.com/JacksonHome) to support Scala-specific datatypes
+* [mpollmeier/gremlin-scala](https://github.com/mpollmeier/gremlin-scala) - Scala wrapper for Apache TinkerPop 3 Graph DSL
+* [scalala/Scalala](https://github.com/scalala/Scalala) - Scalala has been superseded by dlwh/breeze. Scalala is a high performance numeric linear algebra library for Scala, with rich Matlab-like operators on vectors and matrices; a library of numerical routines; support for plotting.
 * [Stratio/sparta](https://github.com/Stratio/sparta) - Real Time Analytics based on Spark Streaming
+* [vmunier/play-with-scalajs-example](https://github.com/vmunier/play-with-scalajs-example) - Example application showing how you can integrate Play with Scala.js.
+* [brikis98/ping-play](https://github.com/brikis98/ping-play) - BigPipe streaming for the Play Framework
+* [aselab/scala-activerecord](https://github.com/aselab/scala-activerecord) - ActiveRecord-like ORM library for Scala
+* [twitter/scala_school2](https://github.com/twitter/scala_school2) - Scala School 2
+* [erikvanoosten/metrics-scala](https://github.com/erikvanoosten/metrics-scala) - The scala API for Dropwizard's Metrics.
+* [scallop/scallop](https://github.com/scallop/scallop) - a simple Scala CLI parsing library
 * [softwaremill/supler](https://github.com/softwaremill/supler) - Rapid Form Development library. Use your favourite JS frontend & Scala backend frameworks.
 * [elodina/scala-kafka](https://github.com/elodina/scala-kafka) - Quick up and running using Scala for Apache Kafka
-* [mattpap/IScala](https://github.com/mattpap/IScala) - Scala backend for IPython
-* [scallop/scallop](https://github.com/scallop/scallop) - a simple Scala CLI parsing library
-* [xerial/sbt-pack](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
-* [scala/scala-dist](https://github.com/scala/scala-dist) - SBT project that packages the Scala distribution
-* [codahale/jerkson](https://github.com/codahale/jerkson) - [ABANDONED] The Scala applewood bacon to Jackson's chicken breast: JSON cordon bleu.
-* [typesafehub/zinc](https://github.com/typesafehub/zinc) - sbt's scala incremental compiler
-* [jonifreeman/sqltyped](https://github.com/jonifreeman/sqltyped) - Embedding SQL as an external DSL into Scala
 * [cvogt/cbt](https://github.com/cvogt/cbt) - CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala
-* [jorgeortiz85/scala-time](https://github.com/jorgeortiz85/scala-time) - A Scala wrapper for Joda Time
+* [mattpap/IScala](https://github.com/mattpap/IScala) - Scala backend for IPython
+* [xerial/sbt-pack](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
+* [codahale/jerkson](https://github.com/codahale/jerkson) - [ABANDONED] The Scala applewood bacon to Jackson's chicken breast: JSON cordon bleu.
+* [scala/scala-dist](https://github.com/scala/scala-dist) - SBT project that packages the Scala distribution
+* [typesafehub/zinc](https://github.com/typesafehub/zinc) - sbt's scala incremental compiler
 * [mbonaci/scala](https://github.com/mbonaci/scala) - Scala reference (as seen by Java developer)
+* [jonifreeman/sqltyped](https://github.com/jonifreeman/sqltyped) - Embedding SQL as an external DSL into Scala
 * [paulbutcher/ScalaMock](https://github.com/paulbutcher/ScalaMock) - Native Scala mocking framework
-* [mashupbots/socko](https://github.com/mashupbots/socko) - A Scala web server powered by Netty networking and AKKA processing.
+* [jorgeortiz85/scala-time](https://github.com/jorgeortiz85/scala-time) - A Scala wrapper for Joda Time
 * [lihaoyi/autowire](https://github.com/lihaoyi/autowire) - Macros for simple/safe RPCs between Scala applications, including ScalaJS/ScalaJVM
-* [scoverage/scalac-scoverage-plugin](https://github.com/scoverage/scalac-scoverage-plugin) - Scoverage Scala Code Coverage Core Libs
 * [NET-A-PORTER/scala-uri](https://github.com/NET-A-PORTER/scala-uri) - Simple scala library for building and parsing URIs
+* [scoverage/scalac-scoverage-plugin](https://github.com/scoverage/scalac-scoverage-plugin) - Scoverage Scala Code Coverage Core Libs
+* [mashupbots/socko](https://github.com/mashupbots/socko) - A Scala web server powered by Netty networking and AKKA processing.
 * [velvia/ScalaStorm](https://github.com/velvia/ScalaStorm) - Harness the power and elegance of Scala with nathanmarz's Storm real-time system
-* [twitter/cassie](https://github.com/twitter/cassie) - A Scala client for Cassandra
-* [paulp/psp-std](https://github.com/paulp/psp-std) - psp's non-standard standard library (for scala)
 * [jrudolph/akka-http-scala-js-websocket-chat](https://github.com/jrudolph/akka-http-scala-js-websocket-chat) - An example app that integrates akka-http and scala-js to implement a websocket chat
 * [typelevel/algebra](https://github.com/typelevel/algebra) - Experimental project to lay out basic algebra type classes
-* [scaldi/scaldi](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library
+* [twitter/cassie](https://github.com/twitter/cassie) - A Scala client for Cassandra
+* [paulp/psp-std](https://github.com/paulp/psp-std) - psp's non-standard standard library (for scala)
 * [akka-js/akka.js](https://github.com/akka-js/akka.js) - Akka, in Scala.js
-* [scala/scala-abide](https://github.com/scala/scala-abide) - Library for quick scala code checking and validation.
-* [scala-labs/scala-labs](https://github.com/scala-labs/scala-labs) - A collection of hands-on programming exercises aimed at teaching you to program in Scala
-* [pathikrit/scalgos](https://github.com/pathikrit/scalgos) - algorithms in scala
+* [scaldi/scaldi](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library
+* [ucb-bar/rocket-chip](https://github.com/ucb-bar/rocket-chip) - Rocket Chip Generator
 * [deanwampler/prog-scala-2nd-ed-code-examples](https://github.com/deanwampler/prog-scala-2nd-ed-code-examples) - The code examples used in Programming Scala, 2nd Edition (O'Reilly)
+* [pathikrit/scalgos](https://github.com/pathikrit/scalgos) - algorithms in scala
+* [scala/scala-abide](https://github.com/scala/scala-abide) - Library for quick scala code checking and validation.
 * [playforscala/sample-applications](https://github.com/playforscala/sample-applications) - Sample applications that go with the book Play for Scala
+* [scala-labs/scala-labs](https://github.com/scala-labs/scala-labs) - A collection of hands-on programming exercises aimed at teaching you to program in Scala
+* [adamw/quicklens](https://github.com/adamw/quicklens) - Modify deeply nested case class fields
 * [sorm/sorm](https://github.com/sorm/sorm) - A functional boilerplate-free Scala ORM
 * [lihaoyi/Scalatex](https://github.com/lihaoyi/Scalatex) - Programmable, Typesafe Document Generation
-* [ucb-bar/rocket-chip](https://github.com/ucb-bar/rocket-chip) - Rocket Chip Generator
-* [adamw/quicklens](https://github.com/adamw/quicklens) - Modify deeply nested case class fields
-* [eed3si9n/scalaxb](https://github.com/eed3si9n/scalaxb) - scalaxb is an XML data binding tool for Scala.
 * [greencatsoft/scalajs-angular](https://github.com/greencatsoft/scalajs-angular) - AngularJS Binding for Scala.js
+* [eed3si9n/scalaxb](https://github.com/eed3si9n/scalaxb) - scalaxb is an XML data binding tool for Scala.
 * [debasishg/sjson](https://github.com/debasishg/sjson) - Scala Json with capabilities for Scala Object Serialization
-* [lihaoyi/sourcecode](https://github.com/lihaoyi/sourcecode) - Scala library providing "source" metadata to your program, similar to Python's __name__, C++'s __LINE__ or Ruby's __FILE__.
 * [schauder/degraph](https://github.com/schauder/degraph) - Test and Visualize and Manage Dependencies of classes and packages in JVM Byte Code (think Scala and Java)
+* [lihaoyi/sourcecode](https://github.com/lihaoyi/sourcecode) - Scala library providing "source" metadata to your program, similar to Python's __name__, C++'s __LINE__ or Ruby's __FILE__.
+* [dwango/scala_text](https://github.com/dwango/scala_text) - Scala研修用テキスト
 * [nativelibs4java/ScalaCL](https://github.com/nativelibs4java/ScalaCL) - ScalaCL - run Scala on your GPU!
 * [SandroGrzicic/ScalaBuff](https://github.com/SandroGrzicic/ScalaBuff) - the scala protocol buffers (protobuf) compiler
 * [mesosphere/chaos](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 * [HairyFotr/linter](https://github.com/HairyFotr/linter) - Static Analysis Compiler Plugin for Scala
-* [nativelibs4java/Scalaxy](https://github.com/nativelibs4java/Scalaxy) - Compiler plugin goodies for Scala (continuation of non-OpenCL part of ScalaCL)
-* [dwango/scala_text](https://github.com/dwango/scala_text) - Scala研修用テキスト
-* [scala/scala-java8-compat](https://github.com/scala/scala-java8-compat) - A Java 8 compatibility kit for Scala.
 * [jrudolph/json-lenses](https://github.com/jrudolph/json-lenses) - A library to query and update JSON data in Scala.
-* [spray/twirl](https://github.com/spray/twirl) - The Play framework Scala template engine, stand-alone and packaged as an SBT plugin
-* [FaKod/neo4j-scala](https://github.com/FaKod/neo4j-scala) - Scala wrapper for Neo4j Graph Database
+* [scala/scala-java8-compat](https://github.com/scala/scala-java8-compat) - A Java 8 compatibility kit for Scala.
+* [nativelibs4java/Scalaxy](https://github.com/nativelibs4java/Scalaxy) - Compiler plugin goodies for Scala (continuation of non-OpenCL part of ScalaCL)
 * [scala/scala-parser-combinators](https://github.com/scala/scala-parser-combinators) - simple combinator-based parsing for Scala. formerly part of the Scala standard library, now a separate community-maintained module
-* [runarorama/scala-machines](https://github.com/runarorama/scala-machines) - A stream processing library for Scala
-* [strongtyped/fun-cqrs](https://github.com/strongtyped/fun-cqrs) - Fun.CQRS is a Scala CQRS/ES framework. It provides the basic blocks to build event driven aggregates with Event Sourcing.
-* [stevej/scala-json](https://github.com/stevej/scala-json) - Scala JSON toolkit. Originally from the Odersky "Stairway" Book, tightened up and tests added by Twitter, Inc.
-* [boundary/scalang](https://github.com/boundary/scalang) - Scalang is a scala wrapper that makes it easy to write services that interface with erlang.
+* [spray/twirl](https://github.com/spray/twirl) - The Play framework Scala template engine, stand-alone and packaged as an SBT plugin
 * [atnos-org/eff](https://github.com/atnos-org/eff) - Eff monad for cats - http://atnos-org.github.io/eff
-* [non/debox](https://github.com/non/debox) - Fast, deboxed, specialized data structures for Scala
-* [pauldijou/jwt-scala](https://github.com/pauldijou/jwt-scala) - JWT support for Scala. Bonus extensions for Play JSON and Json4s
-* [lihaoyi/utest](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala
+* [FaKod/neo4j-scala](https://github.com/FaKod/neo4j-scala) - Scala wrapper for Neo4j Graph Database
+* [strongtyped/fun-cqrs](https://github.com/strongtyped/fun-cqrs) - Fun.CQRS is a Scala CQRS/ES framework. It provides the basic blocks to build event driven aggregates with Event Sourcing.
+* [pauldijou/jwt-scala](https://github.com/pauldijou/jwt-scala) - JWT support for Scala. Bonus extensions for Play, Play JSON, Json4s, Circe and uPickle
+* [runarorama/scala-machines](https://github.com/runarorama/scala-machines) - A stream processing library for Scala
 * [47deg/fetch](https://github.com/47deg/fetch) - Simple & Efficient data access for Scala and Scala.js
-* [stew/dogs](https://github.com/stew/dogs) - data structures for pure functional programming in scala. see the completely incomplete documentation website:
-* [heathermiller/progfun-stats](https://github.com/heathermiller/progfun-stats) - Visualize statistics from the MOOC "Functional Programming Principles in Scala" using Scala!
-* [ensime/ensime-sbt](https://github.com/ensime/ensime-sbt) - Generates .ensime config files for SBT projects
-* [sbt/sbt-scalariform](https://github.com/sbt/sbt-scalariform) - sbt plugin adding support for source code formatting using Scalariform
-* [japgolly/scalacss](https://github.com/japgolly/scalacss) - Super type-safe CSS for Scala and Scala.JS.
+* [stevej/scala-json](https://github.com/stevej/scala-json) - Scala JSON toolkit. Originally from the Odersky "Stairway" Book, tightened up and tests added by Twitter, Inc.
 * [softwaremill/scala-clippy](https://github.com/softwaremill/scala-clippy) - Good advice for Scala compiler errors
+* [japgolly/scalacss](https://github.com/japgolly/scalacss) - Super type-safe CSS for Scala and Scala.JS.
+* [non/debox](https://github.com/non/debox) - Fast, deboxed, specialized data structures for Scala
+* [boundary/scalang](https://github.com/boundary/scalang) - Scalang is a scala wrapper that makes it easy to write services that interface with erlang.
+* [stew/dogs](https://github.com/stew/dogs) - data structures for pure functional programming in scala. see the completely incomplete documentation website:
 * [chrisokasaki/scads](https://github.com/chrisokasaki/scads) - Scala Algorithms and Data Structures
-* [nau/jscala](https://github.com/nau/jscala) - Scala macro that produces JavaScript from Scala code.
-* [sirthias/scala-ssh](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
-* [typesafehub/scalalogging](https://github.com/typesafehub/scalalogging) - Convenient and performant logging in Scala
-* [theiterators/reactive-microservices](https://github.com/theiterators/reactive-microservices) - Project showcasing different microservice communication styles using Scala, Akka, Play and other tools from Scala ecosystem
+* [sbt/sbt-scalariform](https://github.com/sbt/sbt-scalariform) - sbt plugin adding support for source code formatting using Scalariform
+* [lihaoyi/utest](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala
+* [ensime/ensime-sbt](https://github.com/ensime/ensime-sbt) - Generates .ensime config files for SBT projects
+* [heathermiller/progfun-stats](https://github.com/heathermiller/progfun-stats) - Visualize statistics from the MOOC "Functional Programming Principles in Scala" using Scala!
 * [deeplearning4j/nd4s](https://github.com/deeplearning4j/nd4s) - ND4S: N-Dimensional Arrays for Scala. Scientific Computing a la Numpy. Based on ND4J.
-* [fogus/baysick](https://github.com/fogus/baysick) - An embedded Insane-specific Language for Scala implementing the BASIC programming language
+* [theiterators/reactive-microservices](https://github.com/theiterators/reactive-microservices) - Project showcasing different microservice communication styles using Scala, Akka, Play and other tools from Scala ecosystem
+* [ThoughtWorksInc/DeepLearning.scala](https://github.com/ThoughtWorksInc/DeepLearning.scala) - A simple DSL for creating complex neural networks
+* [nau/jscala](https://github.com/nau/jscala) - Scala macro that produces JavaScript from Scala code.
+* [typesafehub/scalalogging](https://github.com/typesafehub/scalalogging) - Convenient and performant logging in Scala
+* [sirthias/scala-ssh](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
 * [debasishg/scala-redis-nb](https://github.com/debasishg/scala-redis-nb) - Implementation of a non blocking Redis client in Scala using Akka IO
+* [fogus/baysick](https://github.com/fogus/baysick) - An embedded Insane-specific Language for Scala implementing the BASIC programming language
+* [timowest/scalagen](https://github.com/timowest/scalagen) - Java to Scala transformation
 * [eligosource/eventsourced-example](https://github.com/eligosource/eventsourced-example) - A Scala web application demonstrating event-sourcing best practices
 * [codeport/scala](https://github.com/codeport/scala) - LascoDan(Korea Scala Group) scala study
 * [mDialog/smoke](https://github.com/mDialog/smoke) - Simple, asynchronous HTTP using Scala.
-* [timowest/scalagen](https://github.com/timowest/scalagen) - Java to Scala transformation
-* [ThoughtWorksInc/DeepLearning.scala](https://github.com/ThoughtWorksInc/DeepLearning.scala) - A DSL for creating complex neural networks
 * [harrah/browse](https://github.com/harrah/browse) - A Scala source code browser
-* [nbronson/scala-stm](https://github.com/nbronson/scala-stm) - A library-based Software Transactional Memory (STM) for Scala, coupled with transactional sets and maps
-* [jto/validation](https://github.com/jto/validation) - validation api extracted from play
-* [ceedubs/ficus](https://github.com/ceedubs/ficus) - Scala-friendly companion to Typesafe config - moved to https://github.com/iheartradio/ficus
-* [whisklabs/docker-it-scala](https://github.com/whisklabs/docker-it-scala) - Docker integration testing kit with Scala
-* [danielkorzekwa/bayes-scala](https://github.com/danielkorzekwa/bayes-scala) - Bayesian Networks in Scala
-* [sksamuel/scapegoat](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
-* [scala-blitz/scala-blitz](https://github.com/scala-blitz/scala-blitz) - Scala framework for efficient sequential and data-parallel collections -
 * [Algomancer/Full-Stack-Scala-Starter](https://github.com/Algomancer/Full-Stack-Scala-Starter) - Play 2.5, ScalaJS, Binding.scala starter project.
-* [djspiewak/anti-xml](https://github.com/djspiewak/anti-xml) - The scala.xml library has some very annoying issues.  Time for a clean-room replacement!
-* [lihaoyi/workbench-example-app](https://github.com/lihaoyi/workbench-example-app) - An example application written in ScalaJS using scala-js-dom and scala-js-workbench
-* [NewMotion/akka-rabbitmq](https://github.com/NewMotion/akka-rabbitmq) - RabbitMq client in Scala and Akka actors
-* [inca/circumflex](https://github.com/inca/circumflex) - [UNMAINTAINED] Circumflex — lightweight Scala-based Web application framework and ORM
+* [jto/validation](https://github.com/jto/validation) - validation api extracted from play
 * [typelevel/frameless](https://github.com/typelevel/frameless) - Expressive types for Spark.
-* [robey/configgy](https://github.com/robey/configgy) - simple config and logging setup for scala
+* [danielkorzekwa/bayes-scala](https://github.com/danielkorzekwa/bayes-scala) - Bayesian Networks in Scala
+* [whisklabs/docker-it-scala](https://github.com/whisklabs/docker-it-scala) - Docker integration testing kit with Scala
+* [sksamuel/scapegoat](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
+* [nbronson/scala-stm](https://github.com/nbronson/scala-stm) - A library-based Software Transactional Memory (STM) for Scala, coupled with transactional sets and maps
+* [ceedubs/ficus](https://github.com/ceedubs/ficus) - Scala-friendly companion to Typesafe config - moved to https://github.com/iheartradio/ficus
+* [scala-blitz/scala-blitz](https://github.com/scala-blitz/scala-blitz) - Scala framework for efficient sequential and data-parallel collections -
 * [playframework/play-mailer](https://github.com/playframework/play-mailer) - Play mailer plugin
-* [mariussoutier/PlayBasics](https://github.com/mariussoutier/PlayBasics) - Example code for my tutorial series about Play Framework 2.x
-* [qifun/stateless-future](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax.
-* [pniederw/expecty](https://github.com/pniederw/expecty) - Power assertions (as known from Groovy and Spock) for the Scala language.
-* [aztek/scala-workflow](https://github.com/aztek/scala-workflow) - Boilerplate-free syntax for effectful computations
+* [lihaoyi/workbench-example-app](https://github.com/lihaoyi/workbench-example-app) - An example application written in ScalaJS using scala-js-dom and scala-js-workbench
+* [djspiewak/anti-xml](https://github.com/djspiewak/anti-xml) - The scala.xml library has some very annoying issues.  Time for a clean-room replacement!
 * [scalaprops/scalaprops](https://github.com/scalaprops/scalaprops) - property based testing library for Scala
-* [mpilquist/Structures](https://github.com/mpilquist/Structures) - Functional type classes for Scala
-* [pathikrit/metarest](https://github.com/pathikrit/metarest) - Scala macros to generate RESTful Models
+* [NewMotion/akka-rabbitmq](https://github.com/NewMotion/akka-rabbitmq) - RabbitMq client in Scala and Akka actors
+* [mariussoutier/PlayBasics](https://github.com/mariussoutier/PlayBasics) - Example code for my tutorial series about Play Framework 2.x
+* [inca/circumflex](https://github.com/inca/circumflex) - [UNMAINTAINED] Circumflex — lightweight Scala-based Web application framework and ORM
+* [qifun/stateless-future](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax.
+* [robey/configgy](https://github.com/robey/configgy) - simple config and logging setup for scala
 * [lihaoyi/workbench](https://github.com/lihaoyi/workbench) - Tooling around scala-js
+* [pniederw/expecty](https://github.com/pniederw/expecty) - Power assertions (as known from Groovy and Spock) for the Scala language.
+* [mpilquist/Structures](https://github.com/mpilquist/Structures) - Functional type classes for Scala
+* [aztek/scala-workflow](https://github.com/aztek/scala-workflow) - Boilerplate-free syntax for effectful computations
+* [SidneyXu/AndroidDemoIn4Languages](https://github.com/SidneyXu/AndroidDemoIn4Languages) - Comparison among Java, Groovy, Scala, Kotlin in Android Development.
+* [pathikrit/metarest](https://github.com/pathikrit/metarest) - Scala macros to generate RESTful Models
+* [Ichoran/thyme](https://github.com/Ichoran/thyme) - Thyme is a microbenchmark utility for Scala.  It includes Parsley, a (simple) local profiling tool.
 * [pathikrit/sauron](https://github.com/pathikrit/sauron) - Yet another Scala lens macro
 * [krasserm/streamz](https://github.com/krasserm/streamz) - A combinator library for integrating Functional Streams for Scala (FS2), Akka Streams and Apache Camel
-* [Ichoran/thyme](https://github.com/Ichoran/thyme) - Thyme is a microbenchmark utility for Scala.  It includes Parsley, a (simple) local profiling tool.
 * [bwmcadams/hammersmith](https://github.com/bwmcadams/hammersmith) - Pure asynchronous MongoDB Driver for Scala.
-* [SidneyXu/AndroidDemoIn4Languages](https://github.com/SidneyXu/AndroidDemoIn4Languages) - Comparison among Java, Groovy, Scala, Kotlin in Android Development.
-* [rubbish/scala-koans](https://github.com/rubbish/scala-koans) - The Scala Koans
+* [sksamuel/avro4s](https://github.com/sksamuel/avro4s) - Avro schema generation and serialization / deserialization
 * [ornicar/scalachess](https://github.com/ornicar/scalachess) - Chess API written in scala. Immutable and free of side effects.
 * [Verizon/knobs](https://github.com/Verizon/knobs) - A reasonable configuration library for Scala
-* [jaceklaskowski/scalania](https://github.com/jaceklaskowski/scalania) - Learn Scala by examples
-* [pelotom/effectful](https://github.com/pelotom/effectful) - A syntax for type-safe effectful computations in Scala
-* [lihaoyi/acyclic](https://github.com/lihaoyi/acyclic) - Acyclic is a Scala compiler plugin to let you prohibit circular dependencies between files
-* [dunnololda/scage](https://github.com/dunnololda/scage) - game engine written in Scala
 * [unicredit/hbase-rdd](https://github.com/unicredit/hbase-rdd) - Spark RDD to read and write from HBase
-* [spray/spray-can](https://github.com/spray/spray-can) - A low-overhead, high-performance, fully async HTTP 1.1 server and client library implemented entirely in Scala on top of Akka
-* [bizreach/play2-hands-on](https://github.com/bizreach/play2-hands-on) - Play2 + Slickを使ってWebアプリケーションを作成するハンズオンです。
-* [yareally/android-scala-intellij-no-sbt-plugin](https://github.com/yareally/android-scala-intellij-no-sbt-plugin) - Directions on how to create a Scala based project in Intellij IDEA without having to resort to additional plugins or external building that cripples the nice features of the IDE.
-* [Livestream/scredis](https://github.com/Livestream/scredis) - Non-blocking, ultra-fast Scala Redis client built on top of Akka IO, used in production at Livestream
-* [sirthias/swave](https://github.com/sirthias/swave) - A lightweight Reactive Streams Infrastructure Toolkit for Scala.
-* [sksamuel/avro4s](https://github.com/sksamuel/avro4s) - Avro schema generation and serialization / deserialization
-* [CyberAgent/aeromock](https://github.com/CyberAgent/aeromock) - Lightweight mock web application server
-* [sstone/amqp-client](https://github.com/sstone/amqp-client) - Simple fault-tolerant AMQP client written in Scala and based on Akka and the RabbitMQ java client
-* [SpinGo/op-rabbit](https://github.com/SpinGo/op-rabbit) - The Opinionated RabbitMQ Library for Scala and Akka
-* [scala-js/scala-js-dom](https://github.com/scala-js/scala-js-dom) - statically typed dom wrappers for scala-js
-* [cloudify/sPDF](https://github.com/cloudify/sPDF) - Create PDFs from Scala using plain old HTML and CSS. Uses wkhtmltopdf on the back-end which renders HTML using Webkit.
+* [jaceklaskowski/scalania](https://github.com/jaceklaskowski/scalania) - Learn Scala by examples
 * [cakesolutions/scala-kafka-client](https://github.com/cakesolutions/scala-kafka-client) - Scala helper modules for operating the Apache Kafka client library (0.9.x - 0.10.x)
-* [sjrd/scala-js-example-app](https://github.com/sjrd/scala-js-example-app) - Example application built with Scala.js
-* [alexandrnikitin/bloom-filter-scala](https://github.com/alexandrnikitin/bloom-filter-scala) - Bloom filter for Scala, the fastest for JVM
-* [nrinaudo/kantan.csv](https://github.com/nrinaudo/kantan.csv) - CSV handling library for Scala
+* [lihaoyi/acyclic](https://github.com/lihaoyi/acyclic) - Acyclic is a Scala compiler plugin to let you prohibit circular dependencies between files
+* [rubbish/scala-koans](https://github.com/rubbish/scala-koans) - The Scala Koans
+* [pelotom/effectful](https://github.com/pelotom/effectful) - A syntax for type-safe effectful computations in Scala
+* [bizreach/play2-hands-on](https://github.com/bizreach/play2-hands-on) - Play2 + Slickを使ってWebアプリケーションを作成するハンズオンです。
+* [dunnololda/scage](https://github.com/dunnololda/scage) - game engine written in Scala
+* [yareally/android-scala-intellij-no-sbt-plugin](https://github.com/yareally/android-scala-intellij-no-sbt-plugin) - Directions on how to create a Scala based project in Intellij IDEA without having to resort to additional plugins or external building that cripples the nice features of the IDE.
+* [spray/spray-can](https://github.com/spray/spray-can) - A low-overhead, high-performance, fully async HTTP 1.1 server and client library implemented entirely in Scala on top of Akka
+* [SpinGo/op-rabbit](https://github.com/SpinGo/op-rabbit) - The Opinionated RabbitMQ Library for Scala and Akka
+* [sirthias/swave](https://github.com/sirthias/swave) - A lightweight Reactive Streams Infrastructure Toolkit for Scala.
+* [Livestream/scredis](https://github.com/Livestream/scredis) - Non-blocking, ultra-fast Scala Redis client built on top of Akka IO, used in production at Livestream
+* [cloudify/sPDF](https://github.com/cloudify/sPDF) - Create PDFs from Scala using plain old HTML and CSS. Uses wkhtmltopdf on the back-end which renders HTML using Webkit.
 * [vegas-viz/Vegas](https://github.com/vegas-viz/Vegas) - The missing MatPlotLib for Scala + Spark
+* [scala-js/scala-js-dom](https://github.com/scala-js/scala-js-dom) - statically typed dom wrappers for scala-js
+* [CyberAgent/aeromock](https://github.com/CyberAgent/aeromock) - Lightweight mock web application server
+* [alexandrnikitin/bloom-filter-scala](https://github.com/alexandrnikitin/bloom-filter-scala) - Bloom filter for Scala, the fastest for JVM
+* [deeplearning4j/ScalNet](https://github.com/deeplearning4j/ScalNet) - A Scala wrapper for Deeplearning4j, inspired by Keras. Scala + DL + Spark + GPUs
+* [sstone/amqp-client](https://github.com/sstone/amqp-client) - Simple fault-tolerant AMQP client written in Scala and based on Akka and the RabbitMQ java client
+* [sjrd/scala-js-example-app](https://github.com/sjrd/scala-js-example-app) - Example application built with Scala.js
+* [nrinaudo/kantan.csv](https://github.com/nrinaudo/kantan.csv) - CSV handling library for Scala
 * [tpolecat/atto](https://github.com/tpolecat/atto) - friendly little parsers
 * [planet42/Laika](https://github.com/planet42/Laika) - Text Markup Transformer for sbt and Scala applications, transforming Markdown and reStructuredText to HTML and PDF
 * [fwbrasil/bond](https://github.com/fwbrasil/bond) - Type-level validation for Scala
 * [coral-streaming/coral](https://github.com/coral-streaming/coral) - Coral is a real-time analytics and data science platform. It transforms streaming events and extract patterns from data via RESTful APIs. Built on Scala, Akka, Cassandra and Spray.
 * [scala-incubator/scala-io](https://github.com/scala-incubator/scala-io) - Repository for work on Scala Standard Library I/O components
-* [retronym/macrocosm](https://github.com/retronym/macrocosm) - Exploration of Scala macros
-* [paradigmatic/Configrity](https://github.com/paradigmatic/Configrity) - Simple, immutable and flexible configuration library for scala.
-* [peak6/scala-ssh-shell](https://github.com/peak6/scala-ssh-shell) - Your Scala SSH backdoor into the jvm
 * [fthomas/crjdt](https://github.com/fthomas/crjdt) - A conflict-free replicated JSON datatype (CRDT) in Scala
-* [acrosa/scala-redis](https://github.com/acrosa/scala-redis) - A scala library for connecting to a redis server, or a cluster of redis nodes using consistent hashing on the client side.
-* [storm-enroute/coroutines](https://github.com/storm-enroute/coroutines) - Scala coroutines implementation.
-* [mtkopone/scct](https://github.com/mtkopone/scct) - Scala Code Coverage Tool
-* [47deg/scala-android](https://github.com/47deg/scala-android) - Scala on Android Examples
+* [atware/sharedocs](https://github.com/atware/sharedocs) - An internal knowledge sharing app
+* [paradigmatic/Configrity](https://github.com/paradigmatic/Configrity) - Simple, immutable and flexible configuration library for scala.
 * [KyleU/boilerplay](https://github.com/KyleU/boilerplay) - Using the latest technology in the Scala ecosystem, Boilerplay is a reactive web application built on Play 2.5, ScalaJS, Silhouette 4, Sangria/GraphQL, and postgres-async. It provides a good starting point for whatever you want to build.
-* [Nutomic/ensichat](https://github.com/Nutomic/ensichat) - Project discontinued
+* [retronym/macrocosm](https://github.com/retronym/macrocosm) - Exploration of Scala macros
+* [peak6/scala-ssh-shell](https://github.com/peak6/scala-ssh-shell) - Your Scala SSH backdoor into the jvm
+* [zalando/grafter](https://github.com/zalando/grafter) - Grafter is a library to configure and wire Scala applications
+* [storm-enroute/coroutines](https://github.com/storm-enroute/coroutines) - Scala coroutines implementation.
+* [playframework/play-scala-websocket-example](https://github.com/playframework/play-scala-websocket-example) - Example Play Scala application showing WebSocket use with Akka actors
+* [concurrent-programming-in-scala/learning-examples](https://github.com/concurrent-programming-in-scala/learning-examples) - Code examples for the book Learning Concurrent Programming in Scala
+* [acrosa/scala-redis](https://github.com/acrosa/scala-redis) - A scala library for connecting to a redis server, or a cluster of redis nodes using consistent hashing on the client side.
+* [47deg/scala-android](https://github.com/47deg/scala-android) - Scala on Android Examples
+* [47deg/nine-cards-v2](https://github.com/47deg/nine-cards-v2) - An Open Source Android Launcher built with Scala on Android
+* [Tenchi2xh/Scurses](https://github.com/Tenchi2xh/Scurses) - Scurses, terminal drawing API for Scala, and Onions, a Scurses framework for easy terminal UI
+* [mtkopone/scct](https://github.com/mtkopone/scct) - Scala Code Coverage Tool
+* [MonsantoCo/cloudformation-template-generator](https://github.com/MonsantoCo/cloudformation-template-generator) - A type-safe Scala DSL for generating CloudFormation templates
 * [VaughnVernon/ReactiveMessagingPatterns_ActorModel](https://github.com/VaughnVernon/ReactiveMessagingPatterns_ActorModel) - The examples for the book "Reactive Messaging Patterns with the Actor Model--Applications and Integration in Scala and Akka"
 * [rssh/scala-gopher](https://github.com/rssh/scala-gopher) - Implementation of CSP constructions (Communication Sequence Process, i.e. go-like channels) in scala
-* [paypal/cascade](https://github.com/paypal/cascade) - Common Libraries & Patterns for Scala Apps @ PayPal
-* [concurrent-programming-in-scala/learning-examples](https://github.com/concurrent-programming-in-scala/learning-examples) - Code examples for the book Learning Concurrent Programming in Scala
-* [zalando/grafter](https://github.com/zalando/grafter) - Grafter is a library to configure and wire Scala applications
+* [Nutomic/ensichat](https://github.com/Nutomic/ensichat) - Project discontinued
+* [Verizon/quiver](https://github.com/Verizon/quiver) - A reasonable library for modeling multi-graphs in Scala
+* [henrikerola/scaladin](https://github.com/henrikerola/scaladin) - Scala API for Vaadin Framework
 * [xerial/sbt-sonatype](https://github.com/xerial/sbt-sonatype) - A sbt plugin for publishing Scala/Java projects to the Maven central.
 * [scala-hamsters/hamsters](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library
-* [axel22/Ctries](https://github.com/axel22/Ctries) - Scala implementation of the Ctrie datastructure.
-* [Tenchi2xh/Scurses](https://github.com/Tenchi2xh/Scurses) - Scurses, terminal drawing API for Scala, and Onions, a Scurses framework for easy terminal UI
+* [paypal/cascade](https://github.com/paypal/cascade) - Common Libraries & Patterns for Scala Apps @ PayPal
 * [marklister/product-collections](https://github.com/marklister/product-collections) - A very simple, strongly typed, scala framework for tabular data. A collection of tuples.  A strongly typed scala csv reader and writer.  A lightweight idiomatic dataframe / datatable alternative.
-* [lihaoyi/Scalite](https://github.com/lihaoyi/Scalite) - An experimental whitespace-delimited syntax for the Scala programming language
 * [ingoem/scala-react](https://github.com/ingoem/scala-react) - Scala.react is a reactive programming library for Scala.
-* [47deg/nine-cards-v2](https://github.com/47deg/nine-cards-v2) - An Open Source Android Launcher built with Scala on Android
-* [wookietreiber/scala-chart](https://github.com/wookietreiber/scala-chart) - Scala Chart Library
-* [twitter/tormenta](https://github.com/twitter/tormenta) - Scala extensions for Storm
-* [Nycto/Hasher](https://github.com/Nycto/Hasher) - A small Scala library for easily generating hashes (md5, sha1, sha256, sha512, crc32, bcrypt, hmacs, pbkdf2)
-* [henrikerola/scaladin](https://github.com/henrikerola/scaladin) - Scala API for Vaadin Framework
-* [GravityLabs/HPaste](https://github.com/GravityLabs/HPaste) - HBase DSL for Scala with MapReduce support
 * [garyaiki/Scala-Algorithms](https://github.com/garyaiki/Scala-Algorithms) - Scala translations of Robert Sedgewick's Java Algorthms
+* [axel22/Ctries](https://github.com/axel22/Ctries) - Scala implementation of the Ctrie datastructure.
+* [wookietreiber/scala-chart](https://github.com/wookietreiber/scala-chart) - Scala Chart Library
 * [vmunier/sbt-web-scalajs](https://github.com/vmunier/sbt-web-scalajs) - SBT plugin to use Scala.js along with any sbt-web server.
-* [playframework/play-websocket-scala](https://github.com/playframework/play-websocket-scala) - Example Play Scala application showing WebSocket use with Akka actors
-* [MonsantoCo/cloudformation-template-generator](https://github.com/MonsantoCo/cloudformation-template-generator) - A type-safe Scala DSL for generating CloudFormation templates
-* [mDialog/scala-zeromq](https://github.com/mDialog/scala-zeromq) - Thread-safe ZeroMQ for Scala
-* [xored/scala-js-react](https://github.com/xored/scala-js-react) - ScalaJS interface for Facebook React
 * [UdashFramework/udash-core](https://github.com/UdashFramework/udash-core) - Scala framework for building beautiful and maintainable web applications.
+* [lihaoyi/Scalite](https://github.com/lihaoyi/Scalite) - An experimental whitespace-delimited syntax for the Scala programming language
+* [Nycto/Hasher](https://github.com/Nycto/Hasher) - A small Scala library for easily generating hashes (md5, sha1, sha256, sha512, crc32, bcrypt, hmacs, pbkdf2)
 * [kxbmap/configs](https://github.com/kxbmap/configs) - Scala wrapper for Typesafe config
+* [GravityLabs/HPaste](https://github.com/GravityLabs/HPaste) - HBase DSL for Scala with MapReduce support
+* [xored/scala-js-react](https://github.com/xored/scala-js-react) - ScalaJS interface for Facebook React
+* [twitter/tormenta](https://github.com/twitter/tormenta) - Scala extensions for Storm
+* [mDialog/scala-zeromq](https://github.com/mDialog/scala-zeromq) - Thread-safe ZeroMQ for Scala
 * [GrahamLea/scala-spring-hibernate-maven-webapp](https://github.com/GrahamLea/scala-spring-hibernate-maven-webapp) - Code for kickstarting a webapp using Scala + Spring + Hibernate + Maven + Selenium WebDriver PageObject Web Tests
 * [bowler-framework/Bowler](https://github.com/bowler-framework/Bowler) - RESTful Web Framework based on Scala, built on top of Scalatra & Scalate
 * [widok/widok](https://github.com/widok/widok) - Reactive web framework for the JVM and Scala.js
 * [scala-records/scala-records](https://github.com/scala-records/scala-records) - Labeled records for Scala based on structural refinement types and macros.
-* [sjrd/scala-js-ts-importer](https://github.com/sjrd/scala-js-ts-importer) - TypeScript Importer for Scala.js
-* [dwhjames/datomisca](https://github.com/dwhjames/datomisca) - Datomisca: a Scala API for Datomic
-* [krasserm/eventsourcing-example](https://github.com/krasserm/eventsourcing-example) - Event sourcing example with Scala and Akka
-* [guillaumebort/scasm](https://github.com/guillaumebort/scasm) - A a dynamic x86_64 assembler in Scala — Code for the live coding session @ Devoxx france 2016
-* [softprops/courier](https://github.com/softprops/courier) - send electronic mail with scala
-* [MasseGuillaume/ScalaKata](https://github.com/MasseGuillaume/ScalaKata) - Moved
-* [folone/poi.scala](https://github.com/folone/poi.scala) - Excel meets scalaz
-* [pablosmedina/ckite](https://github.com/pablosmedina/ckite) - CKite - A JVM implementation of the Raft distributed consensus algorithm written in Scala
-* [ktonga/reactive-turtle](https://github.com/ktonga/reactive-turtle) - Scala and Akka for kids. A Functional Programming approach for the well known LOGO.
-* [bsadeh/scalastic](https://github.com/bsadeh/scalastic) - scala driver for elasticsearch
-* [bplawler/crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling
 * [underscoreio/doodle](https://github.com/underscoreio/doodle) - Compositional vector graphics in Scala / Scala.JS
-* [Sciss/ScalaCollider](https://github.com/Sciss/ScalaCollider) - A Scala sound synthesis library based on SuperCollider
-* [Verizon/quiver](https://github.com/Verizon/quiver) - A reasonable library for modeling multi-graphs in Scala
-* [tek/splain](https://github.com/tek/splain) - better implicit errors for scala
-* [prnicolas/ScalaMl](https://github.com/prnicolas/ScalaMl) - Source code, data files and utilities related to "Scala for Machine Learning"
+* [sjrd/scala-js-ts-importer](https://github.com/sjrd/scala-js-ts-importer) - TypeScript Importer for Scala.js
 * [manub/scalatest-embedded-kafka](https://github.com/manub/scalatest-embedded-kafka) - A library that provides an in-memory Kafka instance to run your ScalaTest specs against.
-* [typesafehub/migration-manager](https://github.com/typesafehub/migration-manager) - Scala Binary Compatibility validation tool
+* [folone/poi.scala](https://github.com/folone/poi.scala) - Excel meets scalaz
+* [krasserm/eventsourcing-example](https://github.com/krasserm/eventsourcing-example) - Event sourcing example with Scala and Akka
+* [softprops/courier](https://github.com/softprops/courier) - send electronic mail with scala
+* [pablosmedina/ckite](https://github.com/pablosmedina/ckite) - CKite - A JVM implementation of the Raft distributed consensus algorithm written in Scala
+* [guillaumebort/scasm](https://github.com/guillaumebort/scasm) - A a dynamic x86_64 assembler in Scala — Code for the live coding session @ Devoxx france 2016
+* [dwhjames/datomisca](https://github.com/dwhjames/datomisca) - Datomisca: a Scala API for Datomic
+* [bsadeh/scalastic](https://github.com/bsadeh/scalastic) - scala driver for elasticsearch
+* [47deg/freestyle](https://github.com/47deg/freestyle) - A cohesive & pragmatic framework of FP centric Scala libraries
+* [tek/splain](https://github.com/tek/splain) - better implicit errors for scala
+* [MasseGuillaume/ScalaKata](https://github.com/MasseGuillaume/ScalaKata) - Moved
+* [bplawler/crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling
 * [spirom/LearningSpark](https://github.com/spirom/LearningSpark) - Scala examples for learning to use Spark
+* [ktonga/reactive-turtle](https://github.com/ktonga/reactive-turtle) - Scala and Akka for kids. A Functional Programming approach for the well known LOGO.
+* [Sciss/ScalaCollider](https://github.com/Sciss/ScalaCollider) - A Scala sound synthesis library based on SuperCollider
+* [prnicolas/ScalaMl](https://github.com/prnicolas/ScalaMl) - Source code, data files and utilities related to "Scala for Machine Learning"
+* [typesafehub/migration-manager](https://github.com/typesafehub/migration-manager) - Scala Binary Compatibility validation tool
 * [sbt/sbt-protobuf](https://github.com/sbt/sbt-protobuf) - sbt plugin for compiling protobuf files
+* [bytedeco/javacv-examples](https://github.com/bytedeco/javacv-examples) - Examples of using JavaCV / OpenCV library on Java Virtual Machine
 * [hussachai/play-scalajs-showcase](https://github.com/hussachai/play-scalajs-showcase) - Play+Scala.js Showcase
+* [finagle/featherbed](https://github.com/finagle/featherbed) - Asynchronous Scala HTTP client using Finagle, Shapeless and Cats
 * [AnormCypher/AnormCypher](https://github.com/AnormCypher/AnormCypher) - Neo4j Scala library based on Anorm in the Play Framework
 * [47deg/scala-days-android](https://github.com/47deg/scala-days-android) - Official Android app for Scala Days
-* [finagle/featherbed](https://github.com/finagle/featherbed) - Asynchronous Scala HTTP client using Finagle, Shapeless and Cats
+* [iheartradio/kanaloa](https://github.com/iheartradio/kanaloa) - Make your service more resilient by providing protection against traffic oversaturation
 * [chenkelmann/actuarius](https://github.com/chenkelmann/actuarius) - A markdown processor for the JVM written in Scala.
-* [47deg/freestyle](https://github.com/47deg/freestyle) - A cohesive & pragmatic framework of FP centric Scala libraries
-* [sameersingh/scalaplot](https://github.com/sameersingh/scalaplot) - Library to plot graphs using a scala frontend, and various backends such as gnuplot, jfreegraph, matplotlib, etc.
 * [GenslerAppsPod/scalavro](https://github.com/GenslerAppsPod/scalavro) - A reflection-based Avro library in Scala.
-* [bytedeco/javacv-examples](https://github.com/bytedeco/javacv-examples) - Examples of using JavaCV / OpenCV library on Java Virtual Machine
-* [scala-ide/scala-ide-play2](https://github.com/scala-ide/scala-ide-play2) - Play 2 support for Scala IDE
-* [chandu0101/scalajs-react-components](https://github.com/chandu0101/scalajs-react-components) - Reusable scalajs-react components
+* [sameersingh/scalaplot](https://github.com/sameersingh/scalaplot) - Library to plot graphs using a scala frontend, and various backends such as gnuplot, jfreegraph, matplotlib, etc.
 * [hrj/abandon](https://github.com/hrj/abandon) - :relieved: Simple and Robust Accounting
 * [dwhjames/aws-wrap](https://github.com/dwhjames/aws-wrap) - Asynchronous Scala Clients for Amazon Web Services
+* [scala-ide/scala-ide-play2](https://github.com/scala-ide/scala-ide-play2) - Play 2 support for Scala IDE
+* [chandu0101/scalajs-react-components](https://github.com/chandu0101/scalajs-react-components) - Reusable scalajs-react components
 * [roboscala/sbt-robovm](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
-* [gideondk/Raiku](https://github.com/gideondk/Raiku) - A non-blocking - Akka IO driven - Riak client for Scala with a cute DSL
 * [johanandren/futiles](https://github.com/johanandren/futiles) - The missing utils for working with Scala Futures
+* [ilya-klyuchnikov/tapl-scala](https://github.com/ilya-klyuchnikov/tapl-scala) - Code of "Types and Programming Languages" book in Scala
+* [gideondk/Raiku](https://github.com/gideondk/Raiku) - A non-blocking - Akka IO driven - Riak client for Scala with a cute DSL
 * [tkawachi/sbt-doctest](https://github.com/tkawachi/sbt-doctest) - Doctest for scala
-* [meetup/archery](https://github.com/meetup/archery) - 2D R-Tree implementation in Scala
 * [japgolly/nyaya](https://github.com/japgolly/nyaya) - Random Data Generation and/or Property Testing in Scala & Scala.JS.
+* [meetup/archery](https://github.com/meetup/archery) - 2D R-Tree implementation in Scala
+* [fomkin/korolev](https://github.com/fomkin/korolev) - Single-page applications running on the server side
+* [agourlay/cornichon](https://github.com/agourlay/cornichon) - Scala DSL for testing HTTP JSON API
 * [yawaramin/scala-modules](https://github.com/yawaramin/scala-modules) - Experimental implementations of ML-style modules in Scala
 * [typelevel/discipline](https://github.com/typelevel/discipline) - Flexible law checking for Scala
-* [ilya-klyuchnikov/tapl-scala](https://github.com/ilya-klyuchnikov/tapl-scala) - Code of "Types and Programming Languages" book in Scala
-* [agourlay/cornichon](https://github.com/agourlay/cornichon) - Scala DSL for testing HTTP JSON API
 * [lucidsoftware/relate](https://github.com/lucidsoftware/relate) - Performant database access in Scala
+* [mukel/telegrambot4s](https://github.com/mukel/telegrambot4s) - Telegram Bot API Wrapper for Scala
 * [jasongoodwin/authentikat-jwt](https://github.com/jasongoodwin/authentikat-jwt) - JWT Scala Implementation - Claims based auth for Scala.
 * [pathikrit/dijon](https://github.com/pathikrit/dijon) - A Dynamically Typed Scala Json Library
 * [magarciaEPFL/scaladotnet](https://github.com/magarciaEPFL/scaladotnet) - Scala SDK (compiler and standard library) for .NET
-* [deeplearning4j/ScalNet](https://github.com/deeplearning4j/ScalNet) - A Scala wrapper for Deeplearning4j, inspired by Keras. Scala + DL + Spark + GPUs
-* [t3hnar/scala-bcrypt](https://github.com/t3hnar/scala-bcrypt) - Scala wrapper for jBcrypt + pom.xml inside
-* [nraychaudhuri/scalainaction](https://github.com/nraychaudhuri/scalainaction) - Code examples from scala in action book
-* [mybatis/scala](https://github.com/mybatis/scala) - The Scala version of MyBatis SQL Mapper
 * [gphat/wabisabi](https://github.com/gphat/wabisabi) - Scala Asynchronous ElasticSearch HTTP Client
-* [cassandra-scala/troy](https://github.com/cassandra-scala/troy) - Type-safe and Schema-safe Scala wrapper for Cassandra driver
+* [alexarchambault/case-app](https://github.com/alexarchambault/case-app) - Type-level & seamless command-line argument parsing for Scala
+* [t3hnar/scala-bcrypt](https://github.com/t3hnar/scala-bcrypt) - Scala wrapper for jBcrypt + pom.xml inside
+* [schemasafe/troy](https://github.com/schemasafe/troy) - Type-safe and Schema-safe Scala wrapper for Cassandra driver
+* [scala/scala-xml](https://github.com/scala/scala-xml) - The standard Scala XML library.
+* [mybatis/scala](https://github.com/mybatis/scala) - The Scala version of MyBatis SQL Mapper
+* [nraychaudhuri/scalainaction](https://github.com/nraychaudhuri/scalainaction) - Code examples from scala in action book
+* [melrief/PureCSV](https://github.com/melrief/PureCSV) - A type-safe and boilerplate-free CSV library for Scala
+* [combust/mleap](https://github.com/combust/mleap) - MLeap: Deploy Spark Pipelines to Production
 * [tristanjuricek/knockoff](https://github.com/tristanjuricek/knockoff) - A Markdown parser + object model in scala
 * [scalastyle/scalastyle-sbt-plugin](https://github.com/scalastyle/scalastyle-sbt-plugin) - scalastyle-sbt-plugin
-* [scala/scala-xml](https://github.com/scala/scala-xml) - The standard Scala XML library.
+* [playframework/play-scala-isolated-slick-example](https://github.com/playframework/play-scala-isolated-slick-example) - Example Play Slick Project
 * [lihaoyi/hands-on-scala-js](https://github.com/lihaoyi/hands-on-scala-js) - Better documentation for Scala.js
-* [mukel/telegrambot4s](https://github.com/mukel/telegrambot4s) - Telegram Bot API Wrapper for Scala
-* [fomkin/korolev](https://github.com/fomkin/korolev) - Single-page applications running on the server side
 * [bokeh/bokeh-scala](https://github.com/bokeh/bokeh-scala) - Scala bindings for Bokeh plotting library
-* [alexarchambault/case-app](https://github.com/alexarchambault/case-app) - Type-level & seamless command-line argument parsing for Scala
-* [lihaoyi/fansi](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
-* [foundweekends/pamflet](https://github.com/foundweekends/pamflet) - a publishing application for short texts
 * [sjrd/scala-js-actors](https://github.com/sjrd/scala-js-actors) - Actor system for Scala.js
-* [mwunsch/handlebars.scala](https://github.com/mwunsch/handlebars.scala) - A Scala implementation of the Handlebars templating language (a superset of Mustache).
-* [xdotai/diff](https://github.com/xdotai/diff) - Visually compare Scala data structures with out of the box support for arbitrary case classes.
-* [kclay/rethink-scala](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB
-* [heathermiller/spores](https://github.com/heathermiller/spores) - Scala Spores, safe mobile closures.
-* [w11k/scalamodules](https://github.com/w11k/scalamodules) - ScalaModules is an elegant and intuitive domain specific language for OSGi development written in the Scala programming  language.
 * [Sergey80/scala-samples](https://github.com/Sergey80/scala-samples) - There are pieces of scala code that explain Scala syntax and features
-* [scala-ide/scala-worksheet](https://github.com/scala-ide/scala-worksheet) - A Scala IDE plugin for a multi-line REPL (called worksheet)
-* [melrief/PureCSV](https://github.com/melrief/PureCSV) - A type-safe and boilerplate-free CSV library for Scala
+* [foundweekends/pamflet](https://github.com/foundweekends/pamflet) - a publishing application for short texts
+* [mwunsch/handlebars.scala](https://github.com/mwunsch/handlebars.scala) - A Scala implementation of the Handlebars templating language (a superset of Mustache).
+* [lihaoyi/fansi](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
 * [HouzuoGuo/schale](https://github.com/HouzuoGuo/schale) - A subprocess interface for Scala
+* [heathermiller/spores](https://github.com/heathermiller/spores) - Scala Spores, safe mobile closures.
+* [xdotai/diff](https://github.com/xdotai/diff) - Visually compare Scala data structures with out of the box support for arbitrary case classes.
+* [kenbot/goggles](https://github.com/kenbot/goggles) - Pleasant, yet principled Scala optics DSL
+* [kclay/rethink-scala](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB
+* [w11k/scalamodules](https://github.com/w11k/scalamodules) - ScalaModules is an elegant and intuitive domain specific language for OSGi development written in the Scala programming  language.
+* [scala-ide/scala-worksheet](https://github.com/scala-ide/scala-worksheet) - A Scala IDE plugin for a multi-line REPL (called worksheet)
 * [ornicar/scalex](https://github.com/ornicar/scalex) - [abandoned] Hoogle-like documentation search engine, for scala
 * [mgonto/factory_pal](https://github.com/mgonto/factory_pal) - A Scala framework for creating objects as test data. Say no to Mocks
-* [sisioh/scala-dddbase](https://github.com/sisioh/scala-dddbase) - Scala Library for Domain Driven-Design
-* [gnieh/diffson](https://github.com/gnieh/diffson) - A scala diff/patch library for Json
-* [bobye/neuron](https://github.com/bobye/neuron) - Scala library for neural networks
 * [transcendent-ai-labs/DynaML](https://github.com/transcendent-ai-labs/DynaML) - Scala Library/REPL for Machine Learning Research
-* [akisaarinen/rillit](https://github.com/akisaarinen/rillit) - Boilerplate-free Functional Lenses for Scala 2.10
+* [gnieh/diffson](https://github.com/gnieh/diffson) - A scala diff/patch library for Json
+* [ucb-bar/chisel3](https://github.com/ucb-bar/chisel3) - Chisel 3
+* [sisioh/scala-dddbase](https://github.com/sisioh/scala-dddbase) - Scala Library for Domain Driven-Design
 * [lloydmeta/schwatcher](https://github.com/lloydmeta/schwatcher) - File-watching library for Scala. Built on Java 7's WatchService, RxScala and Akka actors.
-* [johnynek/inliner](https://github.com/johnynek/inliner) - scala macros to inline idiomatic scala for maximum performance
-* [combust/mleap](https://github.com/combust/mleap) - MLeap: Deploy Spark Pipelines to Production
-* [Thangiee/Freasy-Monad](https://github.com/Thangiee/Freasy-Monad) - Easy way to create Free Monad using Scala macros with first-class Intellij support.
-* [neysofu/tyche](https://github.com/neysofu/tyche) - Statistics utilities for the JVM - in Scala!
-* [mikeyhu/scaladiagrams](https://github.com/mikeyhu/scaladiagrams) - Generate class diagrams from scala source code
-* [agemooij/riak-scala-client](https://github.com/agemooij/riak-scala-client) - An easy to use, non-blocking, fast Scala client library for interacting with Riak.
-* [w11k/slf4s](https://github.com/w11k/slf4s) - Simple Scala facade for SLF4J
-* [sirthias/scala-benchmarking-template](https://github.com/sirthias/scala-benchmarking-template) - SBT template project for creating Scala (micro-)benchmarks based on Caliper
+* [bobye/neuron](https://github.com/bobye/neuron) - Scala library for neural networks
 * [scalawarrior/scalawarrior](https://github.com/scalawarrior/scalawarrior) - Game written in Scala for learning Scala.
-* [scalafx/scalafx-ensemble](https://github.com/scalafx/scalafx-ensemble) - scalafx ensemble
-* [fehmicansaglam/tepkin](https://github.com/fehmicansaglam/tepkin) - Reactive MongoDB Driver for Scala
-* [wacai/config-annotation](https://github.com/wacai/config-annotation) - A refactor-friendly way to use typesafe's config by scala macro annotation
-* [guardian/scanamo](https://github.com/guardian/scanamo) - Simpler DynamoDB access for Scala
+* [johnynek/inliner](https://github.com/johnynek/inliner) - scala macros to inline idiomatic scala for maximum performance
 * [bioscala/bioscala](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
+* [alexarchambault/scalacheck-shapeless](https://github.com/alexarchambault/scalacheck-shapeless) - Generation of arbitrary case classes / ADTs instances with scalacheck and shapeless
+* [akisaarinen/rillit](https://github.com/akisaarinen/rillit) - Boilerplate-free Functional Lenses for Scala 2.10
+* [scalafx/scalafx-ensemble](https://github.com/scalafx/scalafx-ensemble) - scalafx ensemble
+* [scalacenter/scaladex](https://github.com/scalacenter/scaladex) - The Scala Package Index
+* [neysofu/tyche](https://github.com/neysofu/tyche) - Statistics utilities for the JVM - in Scala!
+* [guardian/scanamo](https://github.com/guardian/scanamo) - Simpler DynamoDB access for Scala
+* [mikeyhu/scaladiagrams](https://github.com/mikeyhu/scaladiagrams) - Generate class diagrams from scala source code
+* [leanovate/play-mockws](https://github.com/leanovate/play-mockws) - Mock WS client for Play Framework
+* [djspiewak/parseback](https://github.com/djspiewak/parseback) - A Scala implementation of parsing with derivatives
+* [agemooij/riak-scala-client](https://github.com/agemooij/riak-scala-client) - An easy to use, non-blocking, fast Scala client library for interacting with Riak.
+* [wacai/config-annotation](https://github.com/wacai/config-annotation) - A refactor-friendly way to use typesafe's config by scala macro annotation
+* [w11k/slf4s](https://github.com/w11k/slf4s) - Simple Scala facade for SLF4J
+* [Thangiee/Freasy-Monad](https://github.com/Thangiee/Freasy-Monad) - Easy way to create Free Monad using Scala macros with first-class Intellij support.
+* [sirthias/scala-benchmarking-template](https://github.com/sirthias/scala-benchmarking-template) - SBT template project for creating Scala (micro-)benchmarks based on Caliper
+* [fehmicansaglam/tepkin](https://github.com/fehmicansaglam/tepkin) - Reactive MongoDB Driver for Scala
+* [lastland/scala-forklift](https://github.com/lastland/scala-forklift) - Type-safe data migration tool for Slick, Git and beyond.
+* [OutWatch/outwatch](https://github.com/OutWatch/outwatch) - A functional and reactive UI framework based on Rx and VirtualDom
 * [jorgeortiz85/scala-javautils](https://github.com/jorgeortiz85/scala-javautils) - An set of utilities for dealing with Java and Scala collections.
 * [fractal/skeleton](https://github.com/fractal/skeleton) - Simple Scala project template
-* [djspiewak/parseback](https://github.com/djspiewak/parseback) - A Scala implementation of parsing with derivatives
 * [djspiewak/extreme-cleverness](https://github.com/djspiewak/extreme-cleverness) - A set of functional collections created, ported and modified for my tak at NE Scala 2011
-* [alexarchambault/scalacheck-shapeless](https://github.com/alexarchambault/scalacheck-shapeless) - Generation of arbitrary case classes / ADTs instances with scalacheck and shapeless
-* [lastland/scala-forklift](https://github.com/lastland/scala-forklift) - Type-safe data migration tool for Slick, Git and beyond.
 * [underscoreio/essential-macros](https://github.com/underscoreio/essential-macros) - Examples of simple Scala Macros
-* [scalacenter/scaladex](https://github.com/scalacenter/scaladex) - The Scala Package Index
+* [OlegYch/scastie](https://github.com/OlegYch/scastie) - Scala pastebin
 * [MfgLabs/commons-aws](https://github.com/MfgLabs/commons-aws) - Streaming / asynchronous Scala client for common AWS services
+* [mdedetrich/soda-time](https://github.com/mdedetrich/soda-time) - Scala/Scala.js port of JodaTime to Scala/Scala.js
+* [monix/shade](https://github.com/monix/shade) - Memcached client for Scala
 * [denisrosset/metal](https://github.com/denisrosset/metal) - Metal - fast unboxed data structures for Scala
 * [vert-x/mod-lang-scala](https://github.com/vert-x/mod-lang-scala) - Vert.x 2.x is deprecated - use instead
 * [sjrd/ozma](https://github.com/sjrd/ozma) - Extending Scala with Oz Concurrency
 * [scalan/scalan](https://github.com/scalan/scalan) - Generic framework for development of domain-specific compilers in Scala
-* [monix/shade](https://github.com/monix/shade) - Memcached client for Scala
-* [mdedetrich/soda-time](https://github.com/mdedetrich/soda-time) - Scala/Scala.js port of JodaTime to Scala/Scala.js
-* [lihaoyi/scala-js-fiddle](https://github.com/lihaoyi/scala-js-fiddle) - Source code for Scala.jsFiddle
+* [gzoller/ScalaJack](https://github.com/gzoller/ScalaJack) - Fast JSON parser/generator for Scala
 * [bmc/grizzled-scala](https://github.com/bmc/grizzled-scala) - A general-purpose library of miscellaneous stuff for Scala.
 * [anvie/blueprints-scala](https://github.com/anvie/blueprints-scala) - Tinkerpop Blueprints Scala
 * [lihaoyi/scala-js-games](https://github.com/lihaoyi/scala-js-games) - Some simple games ported to Scala-Js
 * [heroku/sbt-heroku](https://github.com/heroku/sbt-heroku) - An sbt plugin for deploying Heroku Scala applications
-* [gzoller/ScalaJack](https://github.com/gzoller/ScalaJack) - Fast JSON parser/generator for Scala
+* [zalando/scala-jsonapi](https://github.com/zalando/scala-jsonapi) - Scala support library for integrating the JSON API spec with Spray, Play! or Circe
+* [outr/youi](https://github.com/outr/youi) - Next generation user interface and application development in Scala and Scala.js for web, mobile, and desktop.
+* [lihaoyi/scala-js-fiddle](https://github.com/lihaoyi/scala-js-fiddle) - Source code for Scala.jsFiddle
 * [jsuereth/scala-in-depth-source](https://github.com/jsuereth/scala-in-depth-source) - The source code for the Scala In Depth book.
 * [harrah/sbinary](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types
+* [groz/interviews](https://github.com/groz/interviews) - Solutions to popular job interview problems in Scala
+* [eed3si9n/treehugger](https://github.com/eed3si9n/treehugger) - treehugger.scala is a library to code Scala programmatically.
 * [debasishg/scouchdb](https://github.com/debasishg/scouchdb) - CouchDB Driver and View Server in Scala
 * [cvogt/compossible](https://github.com/cvogt/compossible) - Scala Records: Extensible records and type-indexed maps
-* [zalando/scala-jsonapi](https://github.com/zalando/scala-jsonapi) - Scala support library for integrating the JSON API spec with Spray, Play! or Circe
-* [storm-enroute/macrogl](https://github.com/storm-enroute/macrogl) - Scala macro-based frontend for OpenGL for structured and efficient graphics code.
 * [runarorama/Malakov](https://github.com/runarorama/Malakov) - Markov Chains for Scala
 * [ReifyIt/basis](https://github.com/ReifyIt/basis) - Experimental foundation library for Scala focussed on efficiency and clean design
-* [outr/youi](https://github.com/outr/youi) - Next generation user interface and application development in Scala and Scala.js for web, mobile, and desktop.
-* [eed3si9n/treehugger](https://github.com/eed3si9n/treehugger) - treehugger.scala is a library to code Scala programmatically.
+* [JohnReedLOL/scala-trace-debug](https://github.com/JohnReedLOL/scala-trace-debug) - Macro based print debugging. Locates log statements in your IDE.
+* [gilbertw1/slack-scala-client](https://github.com/gilbertw1/slack-scala-client) - A scala library for interacting with the slack api and real time messaging interface
 * [alvaroc1/s2js](https://github.com/alvaroc1/s2js) - Scala to Javascript compiler
+* [Verizon/journal](https://github.com/Verizon/journal) - A reasonable logging library for Scala
+* [storm-enroute/macrogl](https://github.com/storm-enroute/macrogl) - Scala macro-based frontend for OpenGL for structured and efficient graphics code.
 * [spaced/scala-js-d3](https://github.com/spaced/scala-js-d3) - d3 facade types for Scala.js
 * [rklaehn/abc](https://github.com/rklaehn/abc) - Array-based immutable collections for scala
 * [oxlade39/STorrent](https://github.com/oxlade39/STorrent) - BitTorrent client written in Scala using Akka
-* [JohnReedLOL/scala-trace-debug](https://github.com/JohnReedLOL/scala-trace-debug) - Macro based print debugging. Locates log statements in your IDE.
-* [groz/interviews](https://github.com/groz/interviews) - Solutions to popular job interview problems in Scala
-* [atnos-org/eff-scalaz](https://github.com/atnos-org/eff-scalaz) - This project is deprecated !!! Please go to http://github.com/atnos-org/eff
-* [YannMoisan/hands-on-scalaz](https://github.com/YannMoisan/hands-on-scalaz) - Discover scalaz in a practical way
-* [Verizon/journal](https://github.com/Verizon/journal) - A reasonable logging library for Scala
-* [ucb-bar/chisel3](https://github.com/ucb-bar/chisel3) - Chisel 3
-* [OlegYch/scastie](https://github.com/OlegYch/scastie) - Scala pastebin
 * [MasseGuillaume/ScalaKata2](https://github.com/MasseGuillaume/ScalaKata2) - Interactive Playground
-* [gilbertw1/slack-scala-client](https://github.com/gilbertw1/slack-scala-client) - A scala library for interacting with the slack api and real time messaging interface
-* [twitter/naggati2](https://github.com/twitter/naggati2) - Protocol builder for netty using scala (DEPRECATED)
-* [msgpack/msgpack-scala](https://github.com/msgpack/msgpack-scala) - MessagePack serializer implementation for Scala / msgpack.org[Scala]
-* [longevityframework/longevity](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL
 * [Log4s/log4s](https://github.com/Log4s/log4s) - High-performance SLF4J wrapper for Scala.
 * [fommil/shapeless-for-mortals](https://github.com/fommil/shapeless-for-mortals) - :sparkles: Workshop material for the Scala eXchange 2015 talk "Shapeless for Mortals"
+* [atnos-org/eff-scalaz](https://github.com/atnos-org/eff-scalaz) - This project is deprecated !!! Please go to http://github.com/atnos-org/eff
+* [YannMoisan/hands-on-scalaz](https://github.com/YannMoisan/hands-on-scalaz) - Discover scalaz in a practical way
+* [OlivierBlanvillain/monadic-html](https://github.com/OlivierBlanvillain/monadic-html) - Tiny DOM binding library for Scala.js
+* [longevityframework/longevity](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL
+* [hmil/RosHTTP](https://github.com/hmil/RosHTTP) - Unified Scala.js + Scala HTTP client API
 * [codacy/scala-consul](https://github.com/codacy/scala-consul) - Consul API for scala
-* [ajhager/libgdx-sbt-project.g8](https://github.com/ajhager/libgdx-sbt-project.g8) - A g8 template for developing Scala games using libgdx.
+* [zalando/api-first-hand](https://github.com/zalando/api-first-hand) - API-First bootstrapping tool for building RESTful web services from a Swagger/OpenAPI spec
+* [twitter/naggati2](https://github.com/twitter/naggati2) - Protocol builder for netty using scala (DEPRECATED)
 * [scoverage/sbt-coveralls](https://github.com/scoverage/sbt-coveralls) - Sbt plugin for uploading Scala code coverage to coveralls
-* [sbt/sbt-scalabuff](https://github.com/sbt/sbt-scalabuff) - SBT plugin which generate case classes and support for serialization from Google Protocol Buffer definitions using ScalaBuff
 * [quantifind/Sumac](https://github.com/quantifind/Sumac) - Argument parsing in Scala
-* [okumin/akka-persistence-sql-async](https://github.com/okumin/akka-persistence-sql-async) - A journal and snapshot store plugin for akka-persistence using RDBMS.
+* [msgpack/msgpack-scala](https://github.com/msgpack/msgpack-scala) - MessagePack serializer implementation for Scala / msgpack.org[Scala]
 * [jdegoes/lambdaconf-2014-introgame](https://github.com/jdegoes/lambdaconf-2014-introgame) - Online material for the Introduction to Functional Game Programming with Scala workshop.
+* [ajhager/libgdx-sbt-project.g8](https://github.com/ajhager/libgdx-sbt-project.g8) - A g8 template for developing Scala games using libgdx.
 * [scala-yinyang/scala-yinyang](https://github.com/scala-yinyang/scala-yinyang) - Library for deep embedding of DSLs based on Scala macros.
+* [sbt/sbt-scalabuff](https://github.com/sbt/sbt-scalabuff) - SBT plugin which generate case classes and support for serialization from Google Protocol Buffer definitions using ScalaBuff
+* [okumin/akka-persistence-sql-async](https://github.com/okumin/akka-persistence-sql-async) - A journal and snapshot store plugin for akka-persistence using RDBMS.
+* [foursquare/fsqio](https://github.com/foursquare/fsqio) - A monorepo that holds all of Foursquare's opensource projects
+* [fomkin/pushka](https://github.com/fomkin/pushka) - Pure Scala serialization library with annotations
 * [scala-js/scala-js-jquery](https://github.com/scala-js/scala-js-jquery) - jQuery facade types for Scala.js
 * [outworkers/reactiveneo](https://github.com/outworkers/reactiveneo) - Reactive type-safe Scala driver for Neo4J
 * [outworkers/morpheus](https://github.com/outworkers/morpheus) - Reactive type-safe Scala driver for SQL databases
 * [oermolaev/simple-scala-rest-example](https://github.com/oermolaev/simple-scala-rest-example) - Example of simple REST Service on Scala
 * [chris-twiner/scalesXml](https://github.com/chris-twiner/scalesXml) - Alternate Scala XML library
+* [aloiscochard/scato](https://github.com/aloiscochard/scato) - An exploration of purely functional library design in Scala.
 * [zilverline/event-sourced-blog-example](https://github.com/zilverline/event-sourced-blog-example) - Example Scala blog application using event sourcing, memory image, and the Play! 2.0 framework.
+* [sbt/sbt-boilerplate](https://github.com/sbt/sbt-boilerplate) - sbt plugin for generating scala.Tuple/Function related boilerplate code
+* [norbert-radyk/spoiwo](https://github.com/norbert-radyk/spoiwo) - Scala POI Wrapper for the spreadsheet generation in Excel:
 * [chop-dbhi/dataexpress](https://github.com/chop-dbhi/dataexpress) - [NOT MAINTAINED] DataExpress is a simple, Scala-based cross database ETL toolkit supporting Postgres, MySql, Oracle, SQLServer, and Sqlite
+* [ucb-bar/riscv-boom](https://github.com/ucb-bar/riscv-boom) - Berkeley Out-of-Order Machine
 * [runarorama/latr](https://github.com/runarorama/latr) - A scala macro for reasonable lazy semantics
 * [GraphChi/graphchiDB-scala](https://github.com/GraphChi/graphchiDB-scala) - *Experimental* GraphChi-DB graph database with computational capabilities
 * [danluu/storrent](https://github.com/danluu/storrent) - Scala/akka Bittorrent client
 * [aloiscochard/sindi](https://github.com/aloiscochard/sindi) - Sindi - An IoC Container for Scala
-* [aloiscochard/scato](https://github.com/aloiscochard/scato) - An exploration of purely functional library design in Scala.
 * [valotrading/zeromq-scala-binding](https://github.com/valotrading/zeromq-scala-binding) - Scala binding for ZeroMQ
 * [travisbrown/type-provider-examples](https://github.com/travisbrown/type-provider-examples) - Macro-based type providers for Scala (examples)
-* [sbt/sbt-boilerplate](https://github.com/sbt/sbt-boilerplate) - sbt plugin for generating scala.Tuple/Function related boilerplate code
-* [norbert-radyk/spoiwo](https://github.com/norbert-radyk/spoiwo) - Scala POI Wrapper for the spreadsheet generation in Excel:
-* [fomkin/pushka](https://github.com/fomkin/pushka) - Pure Scala serialization library with annotations
-* [acrosa/Scala-TwitterStreamer](https://github.com/acrosa/Scala-TwitterStreamer) - Scala client for the Twitter streaming api
-* [typesafehub/akka-js](https://github.com/typesafehub/akka-js) - Implementation of Akka Actors for Scala.js.
-* [jstrachan/scopt](https://github.com/jstrachan/scopt) - simple scala command line options parsing
-* [hmil/RosHTTP](https://github.com/hmil/RosHTTP) - Unified Scala.js + Scala HTTP client API
-* [foursquare/fsqio](https://github.com/foursquare/fsqio) - A monorepo that holds all of Foursquare's opensource projects
-* [bmc/argot](https://github.com/bmc/argot) - A command-line parser for Scala
-* [stephentu/scala-sql-parser](https://github.com/stephentu/scala-sql-parser) - SQL parser written using Scala's parser combinator library
 * [quaich-project/quaich](https://github.com/quaich-project/quaich) - Scala Serverless Microframework for AWS Lambda, inspired by Amazon's Chalice (https://github.com/awslabs/chalice)
+* [DanielaSfregola/twitter4s](https://github.com/DanielaSfregola/twitter4s) - An asynchronous non-blocking Scala client for both the Twitter Rest and Streaming API
+* [acrosa/Scala-TwitterStreamer](https://github.com/acrosa/Scala-TwitterStreamer) - Scala client for the Twitter streaming api
 * [maxcellent/lamma](https://github.com/maxcellent/lamma) - Lamma schedule generator for Scala is a professional schedule generation library for periodic schedules like fixed income coupon payment, equity deravitive fixing date generation etc.
 * [klout/scoozie](https://github.com/klout/scoozie) - Scala DSL on top of Oozie XML
-* [OlivierBlanvillain/monadic-html](https://github.com/OlivierBlanvillain/monadic-html) - Tiny DOM binding library for Scala.js
+* [jstrachan/scopt](https://github.com/jstrachan/scopt) - simple scala command line options parsing
+* [bmc/argot](https://github.com/bmc/argot) - A command-line parser for Scala
+* [typesafehub/akka-js](https://github.com/typesafehub/akka-js) - Implementation of Akka Actors for Scala.js.
+* [takezoe/solr-scala-client](https://github.com/takezoe/solr-scala-client) - Solr Client for Scala
 * [miguno/akka-mock-scheduler](https://github.com/miguno/akka-mock-scheduler) - A mock Akka scheduler to simplify testing scheduler-dependent code
-* [agemooij/sbt-prompt](https://github.com/agemooij/sbt-prompt) - An SBT plugin for making your SBT prompt more awesome
-* [RadoBuransky/sonar-scoverage-plugin](https://github.com/RadoBuransky/sonar-scoverage-plugin) - Sonar plugin for Scala statement coverage tool
-* [OndraFiedler/spark-recommender](https://github.com/OndraFiedler/spark-recommender) - Scalable recommendation system written in Scala using the Apache Spark framework
 * [hempalex/scala-impatient](https://github.com/hempalex/scala-impatient) - My solutions for "Scala for the Impatient" exercises
-* [davidB/scala-archetype-simple](https://github.com/davidB/scala-archetype-simple) - a simple maven archetype for project in scala
+* [agemooij/sbt-prompt](https://github.com/agemooij/sbt-prompt) - An SBT plugin for making your SBT prompt more awesome
+* [yueeng/hacg](https://github.com/yueeng/hacg) - 琉璃神社 hacg android app by scala
+* [stephentu/scala-sql-parser](https://github.com/stephentu/scala-sql-parser) - SQL parser written using Scala's parser combinator library
+* [chandu0101/scalajs-react-native](https://github.com/chandu0101/scalajs-react-native) - build native mobile applications using scala.js and react-native - please check https://github.com/chandu0101/sri where future work is going to take place :)
 * [almoehi/reactive-docker](https://github.com/almoehi/reactive-docker) - A fully reactive scala client for the docker remote API.
 * [tpolecat/examples](https://github.com/tpolecat/examples) - Example usage of scalaz and uncommon Scala features.
-* [takezoe/solr-scala-client](https://github.com/takezoe/solr-scala-client) - Solr Client for Scala
-* [pocorall/scaloid-apidemos](https://github.com/pocorall/scaloid-apidemos) - A Scala port of well-known ApiDemos for Android
+* [scala/collection-strawman](https://github.com/scala/collection-strawman) - Experimenting with Scala Collections designs for Scala 2.13
+* [rjagerman/glint](https://github.com/rjagerman/glint) - Glint: High performance scala parameter server
+* [RadoBuransky/sonar-scoverage-plugin](https://github.com/RadoBuransky/sonar-scoverage-plugin) - Sonar plugin for Scala statement coverage tool
+* [OndraFiedler/spark-recommender](https://github.com/OndraFiedler/spark-recommender) - Scalable recommendation system written in Scala using the Apache Spark framework
 * [miloszpp/scala-ts](https://github.com/miloszpp/scala-ts) - Scala to TypeScript code generator
 * [milessabin/macro-compat](https://github.com/milessabin/macro-compat) - macro-compat is a small library which allows you to compile macros with Scala 2.10.x which are written to the Scala 2.11/2 macro API.
 * [lloydmeta/metascraper](https://github.com/lloydmeta/metascraper) - Scala library for scraping metadata from specified URLs (e.g. OpenGraph)
-* [dozed/fink](https://github.com/dozed/fink) - fink -- a scala based cms
-* [DanielaSfregola/twitter4s](https://github.com/DanielaSfregola/twitter4s) - An asynchronous non-blocking Scala client for both the Twitter Rest and Streaming API
-* [chandu0101/scalajs-react-native](https://github.com/chandu0101/scalajs-react-native) - build native mobile applications using scala.js and react-native - please check https://github.com/chandu0101/sri where future work is going to take place :)
-* [boundary/overlock](https://github.com/boundary/overlock) - Boundary's suite of concurrent scala utilities.
-* [yueeng/hacg](https://github.com/yueeng/hacg) - 琉璃神社 hacg android app by scala
-* [wasted/netflow](https://github.com/wasted/netflow) - Scala/Netty Netflow Collector used at wasted.io
+* [eed3si9n/gigahorse](https://github.com/eed3si9n/gigahorse) - Gigahorse is an HTTP client for Scala with Async Http Client or Lightbend Akka HTTP underneath.
+* [davidB/scala-archetype-simple](https://github.com/davidB/scala-archetype-simple) - a simple maven archetype for project in scala
 * [scalajs-io/nodejs](https://github.com/scalajs-io/nodejs) - Complete set of Scala.js bindings for Node.js, io.js,  Angular.js, many popular npm modules (mongodb, moment, rx, etc.) and the MEAN Stack (MongoDB, Express, Angular, Node and more). **With Examples**
+* [scalacenter/scalafix](https://github.com/scalacenter/scalafix) - Refactoring library and tool for Scala
+* [pocorall/scaloid-apidemos](https://github.com/pocorall/scaloid-apidemos) - A Scala port of well-known ApiDemos for Android
+* [nafg/slick-migration-api](https://github.com/nafg/slick-migration-api) - Schema manipulation dialects and DSL for Slick
+* [jokade/angulate2](https://github.com/jokade/angulate2) - Scala.js bindings for Angular
+* [epfl-lara/ScalaZ3](https://github.com/epfl-lara/ScalaZ3) - Binders and more to the Z3 SMT solver for Scala
+* [dozed/fink](https://github.com/dozed/fink) - fink -- a scala based cms
+* [adamw/scala-macro-debug](https://github.com/adamw/scala-macro-debug) - Scala macros for making debugging easier
+* [wasted/netflow](https://github.com/wasted/netflow) - Scala/Netty Netflow Collector used at wasted.io
 * [jrudolph/scala-world-2015](https://github.com/jrudolph/scala-world-2015) - Source code for the scala.world 2015 talk about akka-stream / akka-http
 * [jberkel/gist-it](https://github.com/jberkel/gist-it) - Android gist API client written in Scala
-* [epfl-lara/ScalaZ3](https://github.com/epfl-lara/ScalaZ3) - Binders and more to the Z3 SMT solver for Scala
-* [eed3si9n/gigahorse](https://github.com/eed3si9n/gigahorse) - Gigahorse is an HTTP client for Scala with Async Http Client or Lightbend Akka HTTP underneath.
+* [boundary/overlock](https://github.com/boundary/overlock) - Boundary's suite of concurrent scala utilities.
 * [zalando/beard](https://github.com/zalando/beard) - A lightweight, logicless templating engine, written in Scala and inspired by Mustache
+* [vmunier/akka-http-with-scalajs-example](https://github.com/vmunier/akka-http-with-scalajs-example) - Example application showing how you can integrate Akka HTTP with Scala.js.
 * [spring-projects/spring-integration-dsl-scala](https://github.com/spring-projects/spring-integration-dsl-scala) - Spring Integration Scala DSL
 * [sharfah/scala-coursera](https://github.com/sharfah/scala-coursera) - Functional Programming Principles in Scala (Sep 18th 2012)
 * [RichRelevance/scalaz-netty](https://github.com/RichRelevance/scalaz-netty) - A minimalist wrapper for Netty in terms of scalaz-stream
-* [nafg/slick-migration-api](https://github.com/nafg/slick-migration-api) - Schema manipulation dialects and DSL for Slick
 * [michelou/android-examples](https://github.com/michelou/android-examples) - Android samples written in Scala
 * [kogecoo/dl4j-examples-scala](https://github.com/kogecoo/dl4j-examples-scala) - a simple scala porting of https://github.com/deeplearning4j/dl4j-examples
 * [jokade/scalajs-angulate](https://github.com/jokade/scalajs-angulate) - ScalaJS binding for AngularJS.
-* [faubertin/scala-play-rest-example](https://github.com/faubertin/scala-play-rest-example) - RESTful API for a fictive user management microservice.
+* [gilt/sbt-newrelic](https://github.com/gilt/sbt-newrelic) - New Relic monitoring integration for SBT with sbt-native-packager
 * [AtomicScala/atomic-scala-examples](https://github.com/AtomicScala/atomic-scala-examples) - Examples from the book "Atomic Scala" 2nd Edition by Bruce Eckel & Dianne Marsh
 * [anurag/stripe-scala](https://github.com/anurag/stripe-scala) - Stripe Scala Library
-* [adamw/scala-macro-debug](https://github.com/adamw/scala-macro-debug) - Scala macros for making debugging easier
-* [rjagerman/glint](https://github.com/rjagerman/glint) - Glint: High performance scala parameter server
-* [OutWatch/outwatch](https://github.com/OutWatch/outwatch) - A functional and reactive UI framework based on Rx and VirtualDom
+* [Spinoco/fs2-http](https://github.com/Spinoco/fs2-http) - Http Server and client using fs2
+* [openmole/openmole](https://github.com/openmole/openmole) - Workflow engine for exploration of simulation models using high throughput computing
 * [goldmar/bitcoin-akka](https://github.com/goldmar/bitcoin-akka) - a client to btcwallet, written in Scala and built on akka
-* [gilt/sbt-newrelic](https://github.com/gilt/sbt-newrelic) - New Relic monitoring integration for SBT with sbt-native-packager
+* [faubertin/scala-play-rest-example](https://github.com/faubertin/scala-play-rest-example) - RESTful API for a fictive user management microservice.
 * [erikvanoosten/sentries](https://github.com/erikvanoosten/sentries) - Sentries - For easy fault handling in Scala programs
 * [dicarlo2/ScalaEquals](https://github.com/dicarlo2/ScalaEquals) - ScalaEquals. Never look up an equals/hashCode recipe again!
-* [Centaur/scalaconsole](https://github.com/Centaur/scalaconsole) - Scala REPL in a GUI
-* [vmunier/akka-http-with-scalajs-example](https://github.com/vmunier/akka-http-with-scalajs-example) - Example application showing how you can integrate Akka HTTP with Scala.js.
-* [pk11/sedis](https://github.com/pk11/sedis) - a thin scala wrapper for jedis (https://github.com/xetorthio/jedis)
-* [openmole/openmole](https://github.com/openmole/openmole) - Workflow engine for exploration of simulation models using high throughput computing
-* [jokade/angulate2](https://github.com/jokade/angulate2) - Scala.js bindings for Angular
-* [derekjw/fyrie-redis](https://github.com/derekjw/fyrie-redis) - A Redis client written in Scala, using Akka actors and non-blocking IO. Supports Redis 2.2.
 * [davidledwards/zookeeper](https://github.com/davidledwards/zookeeper) - A collection of Scala artifacts that make working with ZooKeeper enjoyable
-* [typelevel/scalaz-contrib](https://github.com/typelevel/scalaz-contrib) - Interoperability libraries & additional data structures and instances for Scalaz
-* [underscoreio/compose](https://github.com/underscoreio/compose) - Compositional music composition using Scala, SuperCollider, and Web Audio.
-* [scullxbones/akka-persistence-mongo](https://github.com/scullxbones/akka-persistence-mongo) - Implementation of akka-persistence storage plugins for mongodb
+* [Centaur/scalaconsole](https://github.com/Centaur/scalaconsole) - Scala REPL in a GUI
 * [scalafx/ProScalaFX](https://github.com/scalafx/ProScalaFX) - Pro JavaFX2 book source codes translated to ScalaFX
-* [scalacenter/scalafix](https://github.com/scalacenter/scalafix) - Refactoring library and tool for Scala
+* [pk11/sedis](https://github.com/pk11/sedis) - a thin scala wrapper for jedis (https://github.com/xetorthio/jedis)
+* [julienrf/endpoints](https://github.com/julienrf/endpoints) - Scala library to define HTTP-based communication protocols
+* [zenecture/neuroflow](https://github.com/zenecture/neuroflow) - A lightweight, scala based library for Artificial Neural Networks
+* [underscoreio/compose](https://github.com/underscoreio/compose) - Compositional music composition using Scala, SuperCollider, and Web Audio.
+* [typelevel/scalaz-contrib](https://github.com/typelevel/scalaz-contrib) - Interoperability libraries & additional data structures and instances for Scalaz
+* [japgolly/test-state](https://github.com/japgolly/test-state) - Scala Test-State.
+* [derekjw/fyrie-redis](https://github.com/derekjw/fyrie-redis) - A Redis client written in Scala, using Akka actors and non-blocking IO. Supports Redis 2.2.
+* [beloglazov/couchdb-scala](https://github.com/beloglazov/couchdb-scala) - A purely functional Scala client for CouchDB
+* [47deg/nine-cards-backend](https://github.com/47deg/nine-cards-backend) - An Open Source Android Launcher built with Scala on Android
+* [scullxbones/akka-persistence-mongo](https://github.com/scullxbones/akka-persistence-mongo) - Implementation of akka-persistence storage plugins for mongodb
 * [n8han/spde-examples](https://github.com/n8han/spde-examples) - Example projects in Spde, a Scala toolkit for Processing.org
 * [moonpolysoft/scromium](https://github.com/moonpolysoft/scromium) - An idiomatic scala library for interacting with cassandra
-* [bmc/classutil](https://github.com/bmc/classutil) - Scala-friendly, fast class-finder library (using ASM under the covers)
-* [zenecture/neuroflow](https://github.com/zenecture/neuroflow) - A lightweight, scala based library for Artificial Neural Networks
-* [stackmob/scalamachine](https://github.com/stackmob/scalamachine) - Webmachine in Scala
 * [fdimuccio/play2-sockjs](https://github.com/fdimuccio/play2-sockjs) - A SockJS server implementation for Play Framework.
+* [DanielaSfregola/random-data-generator](https://github.com/DanielaSfregola/random-data-generator) - Random generator of test data in Scala based on Scalacheck
+* [bmc/classutil](https://github.com/bmc/classutil) - Scala-friendly, fast class-finder library (using ASM under the covers)
+* [tonyskn/coursera-scala](https://github.com/tonyskn/coursera-scala) - My solutions to Coursera's "Functional Programming in Scala"
+* [stackmob/scalamachine](https://github.com/stackmob/scalamachine) - Webmachine in Scala
+* [sbt/zinc](https://github.com/sbt/zinc) - Scala incremental compiler library, originally part of sbt
+* [kifi/franz](https://github.com/kifi/franz) - Better Api for using SQS with Scala
+* [julianpeeters/avro-scala-macro-annotations](https://github.com/julianpeeters/avro-scala-macro-annotations) - Compile-time tools for working with Avros in Scala
 * [dimafeng/testcontainers-scala](https://github.com/dimafeng/testcontainers-scala) - Docker containers for testing in scala
 * [deanwampler/scala-hadoop](https://github.com/deanwampler/scala-hadoop) - Using Hadoop with Scala
-* [beloglazov/couchdb-scala](https://github.com/beloglazov/couchdb-scala) - A purely functional Scala client for CouchDB
 * [aloiscochard/enum-paradise](https://github.com/aloiscochard/enum-paradise) - Scala enumeration implementation using type macros
-* [47deg/nine-cards-backend](https://github.com/47deg/nine-cards-backend) - An Open Source Android Launcher built with Scala on Android
-* [tonyskn/coursera-scala](https://github.com/tonyskn/coursera-scala) - My solutions to Coursera's "Functional Programming in Scala"
 * [sattvik/baitha](https://github.com/sattvik/baitha) - Baiṭha: The Scala/Android Toolkit
+* [playframework/play-scala-rest-api-example](https://github.com/playframework/play-scala-rest-api-example) - Example Play Scala application showing REST API
 * [newca12/scala-netty-examples](https://github.com/newca12/scala-netty-examples) - Scala port of the examples from Jboss Netty distribution
-* [kifi/franz](https://github.com/kifi/franz) - Better Api for using SQS with Scala
-* [japgolly/test-state](https://github.com/japgolly/test-state) - Scala Test-State.
-* [darkjh/scalaflow](https://github.com/darkjh/scalaflow) - Fluent Scala DSL for Google's Cloud Dataflow SDK
-* [DanielaSfregola/random-data-generator](https://github.com/DanielaSfregola/random-data-generator) - Random generator of test data in Scala based on Scalacheck
-* [xuwei-k/httpz](https://github.com/xuwei-k/httpz) - purely functional http client with scalaz.Free
-* [softprops/coffeescripted-sbt](https://github.com/softprops/coffeescripted-sbt) - pour some coffee for scala
 * [knutwalker/transducers-scala](https://github.com/knutwalker/transducers-scala) - Transducers are a way to build reusable transformations.
-* [kaeawc/play-cake-pattern](https://github.com/kaeawc/play-cake-pattern) - Play! Scala cake pattern implementation
-* [julianpeeters/avro-scala-macro-annotations](https://github.com/julianpeeters/avro-scala-macro-annotations) - Compile-time tools for working with Avros in Scala
+* [Kanaka-io/play-monadic-actions](https://github.com/Kanaka-io/play-monadic-actions) - A simple scala DSL to allow clean and monadic style for Play! Actions
 * [failurewall/failurewall](https://github.com/failurewall/failurewall) - Destroys failures.
+* [darkjh/scalaflow](https://github.com/darkjh/scalaflow) - Fluent Scala DSL for Google's Cloud Dataflow SDK
+* [xuwei-k/httpz](https://github.com/xuwei-k/httpz) - purely functional http client with scalaz.Free
 * [vigoo/scalafxml](https://github.com/vigoo/scalafxml) - Bridging the gap between scalafx and FXML with generated proxies
-* [twitter/grabby-hands](https://github.com/twitter/grabby-hands) - A JVM Kestrel client that aggregates queues from multiple servers. Implemented in Scala with Java bindings. In use at Twitter for all JVM Search and Streaming Kestrel interactions.
+* [softprops/coffeescripted-sbt](https://github.com/softprops/coffeescripted-sbt) - pour some coffee for scala
+* [kaeawc/play-cake-pattern](https://github.com/kaeawc/play-cake-pattern) - Play! Scala cake pattern implementation
+* [hywelandrews/nescala](https://github.com/hywelandrews/nescala) - A Nes Emulator written in Scala
+* [gaocegege/scrala](https://github.com/gaocegege/scrala) - Scala crawler(spider) framework, inspired by scrapy
+* [wheaties/TwoTails](https://github.com/wheaties/TwoTails) - A Scala compiler plugin for mutual tail recursion
+* [scala-js/scala-js-java-time](https://github.com/scala-js/scala-js-java-time) - Scala.js implementation for java.time in JDK8
 * [rst/positronic_net](https://github.com/rst/positronic_net) - Android programming in Scala, with less boilerplate.  Better brains for your droids!
 * [nodeta/scalandra](https://github.com/nodeta/scalandra) - Scala wrapper for Cassandra DB
-* [Kanaka-io/play-monadic-actions](https://github.com/Kanaka-io/play-monadic-actions) - A simple scala DSL to allow clean and monadic style for Play! Actions
 * [jmparsons/play-scala-backbone-todo](https://github.com/jmparsons/play-scala-backbone-todo) - Built on Play Framework, Slick, Backbone, Webjars, RequireJS, CoffeeScript and Dustjs using the H2 in-memory database.
-* [hywelandrews/nescala](https://github.com/hywelandrews/nescala) - A Nes Emulator written in Scala
 * [bmjames/scala-optparse-applicative](https://github.com/bmjames/scala-optparse-applicative) - Scala port of Paolo Capriotti's optparse-applicative library
+* [velvia/msgpack4s](https://github.com/velvia/msgpack4s) - A fast, streaming-friendly, type-safe, pure-Scala MessagePack library.  Supercharge your microservices today!
+* [twitter-archive/grabby-hands](https://github.com/twitter-archive/grabby-hands) - A JVM Kestrel client that aggregates queues from multiple servers. Implemented in Scala with Java bindings. In use at Twitter for all JVM Search and Streaming Kestrel interactions.
 * [softprops/ls](https://github.com/softprops/ls) - [discontinued] a scala card catalog
-* [scala-js/scala-js-java-time](https://github.com/scala-js/scala-js-java-time) - Scala.js implementation for java.time in JDK8
+* [rklaehn/radixtree](https://github.com/rklaehn/radixtree) - A fast and generic immutable radix tree for scala
 * [maffoo/jsonquote](https://github.com/maffoo/jsonquote) - build JSON in scala with string interpolation
 * [jfarcand/WCS](https://github.com/jfarcand/WCS) - An Asynchronous WebSocket Client Library for Scala
-* [wheaties/TwoTails](https://github.com/wheaties/TwoTails) - A Scala compiler plugin for mutual tail recursion
-* [velvia/msgpack4s](https://github.com/velvia/msgpack4s) - A fast, streaming-friendly, type-safe, pure-Scala MessagePack library.  Supercharge your microservices today!
+* [typesafehub/activator-akka-cluster-sharding-scala](https://github.com/typesafehub/activator-akka-cluster-sharding-scala) - Activator template for the Akka Cluster Sharding feature
 * [truerss/truerss](https://github.com/truerss/truerss) - convenient web rss-reader
 * [tomerd/scala-xmpp](https://github.com/tomerd/scala-xmpp) - A scala based xmpp framework
 * [stackmob/scaliak](https://github.com/stackmob/scaliak) - Riak Scala Client
-* [Spinoco/fs2-http](https://github.com/Spinoco/fs2-http) - Http Server and client using fs2
-* [paulgoldbaum/scala-influxdb-client](https://github.com/paulgoldbaum/scala-influxdb-client) - Asynchronous InfluxDB client for Scala
-* [lambdista/money](https://github.com/lambdista/money) - Scala DSL for money-related operations
-* [bsamaripa/Wonderland-Scala-Katas](https://github.com/bsamaripa/Wonderland-Scala-Katas) - Scala port of gigasquid/wonderland-clojure-katas
-* [TiarkRompf/replhtml](https://github.com/TiarkRompf/replhtml) - Scala REPL with a nice HTML GUI
 * [sksamuel/sbt-scapegoat](https://github.com/sksamuel/sbt-scapegoat) - sbt plugin for scapegoat scala static analysis plugin
-* [scala/collection-strawman](https://github.com/scala/collection-strawman) - Experimenting with Scala Collections designs for Scala 2.13
-* [sbt/zinc](https://github.com/sbt/zinc) - Scala incremental compiler library, originally part of sbt
-* [rklaehn/radixtree](https://github.com/rklaehn/radixtree) - A fast and generic immutable radix tree for scala
+* [paulgoldbaum/scala-influxdb-client](https://github.com/paulgoldbaum/scala-influxdb-client) - Asynchronous InfluxDB client for Scala
+* [nemoo/play-slick3-example](https://github.com/nemoo/play-slick3-example) - A simple skeleton for play scala slick applications.
+* [lambdista/money](https://github.com/lambdista/money) - Scala DSL for money-related operations
 * [ktoso/scala-rainbow](https://github.com/ktoso/scala-rainbow) - Super simple terminal output colorizing for Scala
 * [javaBin/scala-training-code](https://github.com/javaBin/scala-training-code) - --- LEGAZY!!! --- Contains code necessary participate in the Scala training course.
-* [greenTara/reactive-examples](https://github.com/greenTara/reactive-examples) - Unofficial Scala worksheet examples to accompany the Coursera Reactive Programming course
-* [gaocegege/scrala](https://github.com/gaocegege/scrala) - Scala crawler(spider) framework, inspired by scrapy
-* [codahale/logula](https://github.com/codahale/logula) - [ABANDONED] A Scala library which provides a sane log output format and an easy-to-use mixin for adding logging to your code.
-* [bchazalet/scalajs-electron-skeleton](https://github.com/bchazalet/scalajs-electron-skeleton) - A skeleton for a Scala.sj based electron application
-* [typesafehub/activator-akka-cluster-sharding-scala](https://github.com/typesafehub/activator-akka-cluster-sharding-scala) - Activator template for the Akka Cluster Sharding feature
+* [bsamaripa/Wonderland-Scala-Katas](https://github.com/bsamaripa/Wonderland-Scala-Katas) - Scala port of gigasquid/wonderland-clojure-katas
+* [TiarkRompf/replhtml](https://github.com/TiarkRompf/replhtml) - Scala REPL with a nice HTML GUI
 * [ThinkBigAnalytics/scalding-workshop](https://github.com/ThinkBigAnalytics/scalding-workshop) - A half-day workshop on Scalding, the Scala API for Cascading
 * [scala/scala-module-dependency-sample](https://github.com/scala/scala-module-dependency-sample) - Depend on Scala modules like a pro
+* [noelwelsh/pfennig](https://github.com/noelwelsh/pfennig) - A Probabilistic Functional Programming Language DSL in Scala
+* [greenTara/reactive-examples](https://github.com/greenTara/reactive-examples) - Unofficial Scala worksheet examples to accompany the Coursera Reactive Programming course
+* [dwins/mapnik2geotools](https://github.com/dwins/mapnik2geotools) - Using the Scala XML API to translate from Mapnik XML to GeoTools' SLD dialect
+* [codahale/logula](https://github.com/codahale/logula) - [ABANDONED] A Scala library which provides a sane log output format and an easy-to-use mixin for adding logging to your code.
+* [bchazalet/scalajs-electron-skeleton](https://github.com/bchazalet/scalajs-electron-skeleton) - A skeleton for a Scala.sj based electron application
+* [reactivecodes/scala-time](https://github.com/reactivecodes/scala-time) - Scala friendly wrapper for java.time and ThreeTen BP
 * [psliwa/idea-composer-plugin](https://github.com/psliwa/idea-composer-plugin) - PhpStorm plugin that adds code completion in composer.json file
 * [krasserm/scalaz-camel](https://github.com/krasserm/scalaz-camel) - A Scala(z)-based DSL for Apache Camel
+* [kakao/cuesheet](https://github.com/kakao/cuesheet) - A framework for writing Spark 2.x applications in a pretty way
+* [ingoem/scala-swing](https://github.com/ingoem/scala-swing) - Incubation project for the official scala.swing distribution. See the wiki page for details.
 * [inakata/ruby_scala](https://github.com/inakata/ruby_scala) - A parser of ISO Ruby written in Scala
-* [greencatsoft/scalajs-angular-todomvc](https://github.com/greencatsoft/scalajs-angular-todomvc) - TodoMVC example using scalajs-angular
 * [dlwh/oldsmr](https://github.com/dlwh/oldsmr) - Scala Map Reduce
 * [Atry/memcontinuationed](https://github.com/Atry/memcontinuationed) - Memcached client for Scala
 * [wg/jacks](https://github.com/wg/jacks) - Jackson module for Scala
 * [swagger-api/swagger-scala-module](https://github.com/swagger-api/swagger-scala-module) - Swagger support for scala
 * [shorrockin/cascal](https://github.com/shorrockin/cascal) - a high-level scala based cassandra library
-* [reactivecodes/scala-time](https://github.com/reactivecodes/scala-time) - Scala friendly wrapper for java.time and ThreeTen BP
+* [schaloner/deadbolt-2-scala](https://github.com/schaloner/deadbolt-2-scala) - Idiomatic Scala API for Deadbolt 2
 * [potigol/Potigol](https://github.com/potigol/Potigol) - Linguagem Potigol
 * [outr/scalarelational](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases
-* [nemoo/play-slick3-example](https://github.com/nemoo/play-slick3-example) - A simple skeleton for play scala slick applications.
+* [martincooper/scala-datatable](https://github.com/martincooper/scala-datatable) - Immutable DataTable implementation in Scala
 * [justwrote/scala-faker](https://github.com/justwrote/scala-faker) - A library for generating fake data written in scala.
 * [jamesgolick/statsd.scala](https://github.com/jamesgolick/statsd.scala) - statsd on the jvm
-* [ingoem/scala-swing](https://github.com/ingoem/scala-swing) - Incubation project for the official scala.swing distribution. See the wiki page for details.
+* [greencatsoft/scalajs-angular-todomvc](https://github.com/greencatsoft/scalajs-angular-todomvc) - TodoMVC example using scalajs-angular
+* [ghik/silencer](https://github.com/ghik/silencer) - Scala compiler plugin for annotation-based warning suppression
 * [firepile/firepile](https://github.com/firepile/firepile) - GPU programming in Scala
+* [ensime/scala-debugger](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
 * [eigengo/scalad](https://github.com/eigengo/scalad) - Scala Data access for NoSQL databases
-* [dwins/mapnik2geotools](https://github.com/dwins/mapnik2geotools) - Using the Scala XML API to translate from Mapnik XML to GeoTools' SLD dialect
 * [drdozer/graphviz-s](https://github.com/drdozer/graphviz-s) - Graphviz Scala bindings
 * [alexandru/sincron](https://github.com/alexandru/sincron) - Concurrency tools for Scala, with equivalents for Scala.js.
 * [tarao/bullet-scala](https://github.com/tarao/bullet-scala) - A monadic library to resolve object relations with the aim of avoiding the N+1 query problem.
-* [sptz45/sse-guice](https://github.com/sptz45/sse-guice) - Make the Guice EDSL more Scala friendly
-* [playframework/play-rest-api](https://github.com/playframework/play-rest-api) - Example Play Scala application showing REST API
-* [noelwelsh/pfennig](https://github.com/noelwelsh/pfennig) - A Probabilistic Functional Programming Language DSL in Scala
-* [martincooper/scala-datatable](https://github.com/martincooper/scala-datatable) - Immutable DataTable implementation in Scala
-* [fsist/future-streams](https://github.com/fsist/future-streams) - Scala Future-based implementation of Reactive Streams
-* [ensime/scala-debugger](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
-* [eamelink/swaggerkit](https://github.com/eamelink/swaggerkit) - A Scala Swagger toolkit with no JaxRS dependency and no magic.
 * [takezoe/resty](https://github.com/takezoe/resty) - Super easy REST API framework for Scala
+* [sptz45/sse-guice](https://github.com/sptz45/sse-guice) - Make the Guice EDSL more Scala friendly
+* [playframework/play-scala-starter-example](https://github.com/playframework/play-scala-starter-example) - Play Scala Starter Template (ideal for new users!)
+* [julianpeeters/avrohugger](https://github.com/julianpeeters/avrohugger) - Generate Scala case class definitions from Avro schemas
+* [fsist/future-streams](https://github.com/fsist/future-streams) - Scala Future-based implementation of Reactive Streams
+* [eamelink/swaggerkit](https://github.com/eamelink/swaggerkit) - A Scala Swagger toolkit with no JaxRS dependency and no magic.
 * [skinny-framework/skinny-micro](https://github.com/skinny-framework/skinny-micro) - :microphone: Micro Web framework to build Servlet applications in Scala, the core part of Skinny Framework 2
 * [seratch/scalikesolr](https://github.com/seratch/scalikesolr) - Apache Solr Client for Scala/Java
-* [schaloner/deadbolt-2-scala](https://github.com/schaloner/deadbolt-2-scala) - Idiomatic Scala API for Deadbolt 2
 * [Rovak/ScalaWebscraper](https://github.com/Rovak/ScalaWebscraper) - Scala Webscraper
-* [psuter/cafebabe](https://github.com/psuter/cafebabe) - Tiny Scala library to generate class files for the JVM
-* [MediaMath/scala-json](https://github.com/MediaMath/scala-json) - Compile-time JSON marshaling and abstraction for Scala and Scala.js
-* [julienrf/endpoints](https://github.com/julienrf/endpoints) - Scala library to define HTTP-based communication protocols
-* [dwins/geoscript.scala](https://github.com/dwins/geoscript.scala) - Scala implementation of the GeoScript API
-* [wspringer/monkeyman](https://github.com/wspringer/monkeyman) - Simple static site generator for Scala and middleman lovers
-* [samskivert/ios-scala-demo](https://github.com/samskivert/ios-scala-demo) - A demo of building an iOS app in Scala (via IKVM via MonoTouch)
 * [roboscala/roboscala-samples](https://github.com/roboscala/roboscala-samples) - Scala RoboVM sample projects
-* [MfgLabs/precepte](https://github.com/MfgLabs/precepte) - Précepte is an opinionated scala monitoring library
-* [kciesielski/macmemo](https://github.com/kciesielski/macmemo) - Scala macro-based utility for function memoization
-* [julianpeeters/avrohugger](https://github.com/julianpeeters/avrohugger) - Generate Scala case class definitions from Avro schemas
-* [DCI/scaladci](https://github.com/DCI/scaladci) - Exploring the DCI paradigm in Scala
-* [bmc/sqlshell](https://github.com/bmc/sqlshell) - A cross-database SQL command tool, written in Scala
+* [psuter/cafebabe](https://github.com/psuter/cafebabe) - Tiny Scala library to generate class files for the JVM
+* [orrsella/scala-e2e-testing](https://github.com/orrsella/scala-e2e-testing) - A sample project that shows how to write truly end-to-end tests in Scala
+* [MediaMath/scala-json](https://github.com/MediaMath/scala-json) - Compile-time JSON marshaling and abstraction for Scala, Scala Native and Scala.js
+* [dwins/geoscript.scala](https://github.com/dwins/geoscript.scala) - Scala implementation of the GeoScript API
 * [benhutchison/prickle](https://github.com/benhutchison/prickle) - Prickle is a library for easily pickling (serializing) object graphs between Scala and Scala.js.
-* [archie/raft](https://github.com/archie/raft) - Distributed consensus algorithm implemented in Scala and Akka
-* [xuwei-k/sbt-class-diagram](https://github.com/xuwei-k/sbt-class-diagram) - sbt plugin to create a class diagram
+* [wspringer/monkeyman](https://github.com/wspringer/monkeyman) - Simple static site generator for Scala and middleman lovers
 * [tetrao-eu/template-site](https://github.com/tetrao-eu/template-site) - Web application based on Play Framework, Play2-auth, Slick, Slick-pg (and Scala, SBT, PostgreSQL, Foundation...)
 * [scalamacros/sbt-example](https://github.com/scalamacros/sbt-example) - An example SBT project which uses macros (Scala 2.11, SBT 0.13)
 * [scala-ide/scala-refactoring](https://github.com/scala-ide/scala-refactoring) - A library providing automated refactoring support for Scala.
-* [orrsella/scala-e2e-testing](https://github.com/orrsella/scala-e2e-testing) - A sample project that shows how to write truly end-to-end tests in Scala
-* [MonsantoCo/stoop](https://github.com/MonsantoCo/stoop) - Monadic Scala API for CouchDB
-* [jboner/scala-otp](https://github.com/jboner/scala-otp) - Development have been discontinued. The successor is the Akka Project: http://akka.io
-* [jaceklaskowski/spark-activator](https://github.com/jaceklaskowski/spark-activator) - Spark Streaming with Scala and Akka Activator template
+* [samskivert/ios-scala-demo](https://github.com/samskivert/ios-scala-demo) - A demo of building an iOS app in Scala (via IKVM via MonoTouch)
+* [MfgLabs/precepte](https://github.com/MfgLabs/precepte) - Précepte is an opinionated scala monitoring library
+* [kciesielski/macmemo](https://github.com/kciesielski/macmemo) - Scala macro-based utility for function memoization
 * [dirkraft/ScalaImpatient-AnswersAndNotes](https://github.com/dirkraft/ScalaImpatient-AnswersAndNotes) - (reference only) eBook "Scala for the Impatient" answers and notes. Learned against Scala 2.9.1
-* [arjanblokzijl/scala-conduits](https://github.com/arjanblokzijl/scala-conduits) - A port to Scala of the Conduit library by Michael Snoyman
-* [scalaj/scalaj-time](https://github.com/scalaj/scalaj-time) - Idiomatic Scala wrappers for Joda Time
-* [renchunxiao/scala-learn](https://github.com/renchunxiao/scala-learn) - scala 编程的基础知识，以及 快学scala 书中的习题
-* [prystupa/scala-cucumber-matching-engine](https://github.com/prystupa/scala-cucumber-matching-engine) - This repo backs a series of posts that walk through developing an equity exchange prototype using Scala and test driving the development with Cucumber
-* [nestorpersist/ostore](https://github.com/nestorpersist/ostore) - A NoSql database and continuous map-reduce system written in Scala and Akka.
-* [jeffplaisance/scala-protobuf](https://github.com/jeffplaisance/scala-protobuf) - protoc plugin that generates type safe scala wrappers for java protoc output
-* [unicredit/sbt-swagger-codegen](https://github.com/unicredit/sbt-swagger-codegen) - sbt Plugin for Scala code generation for Swagger specs
-* [snowplow/aws-lambda-scala-example-project](https://github.com/snowplow/aws-lambda-scala-example-project) - An AWS Lambda function in Scala reading events from Amazon Kinesis and writing event counts to DynamoDB
+* [DCI/scaladci](https://github.com/DCI/scaladci) - Exploring the DCI paradigm in Scala
+* [bmc/sqlshell](https://github.com/bmc/sqlshell) - A cross-database SQL command tool, written in Scala
+* [archie/raft](https://github.com/archie/raft) - Distributed consensus algorithm implemented in Scala and Akka
+* [xuwei-k/sbt-class-diagram](https://github.com/xuwei-k/sbt-class-diagram) - sbt plugin to create a class diagram
+* [SidneyXu/JGSK](https://github.com/SidneyXu/JGSK) - Java,Groovy,Scala,Kotlin 四种语言的特点对比
 * [scala-exercises/exercises-stdlib](https://github.com/scala-exercises/exercises-stdlib) - Scala Exercises' lessons for the standard library
-* [p3t0r/scala-sql-dsl](https://github.com/p3t0r/scala-sql-dsl) - Example of an implementation of SQL as a DSL in scala
 * [mfirry/web-frameworks-templates](https://github.com/mfirry/web-frameworks-templates) - Comparing different frameworks for building RESTful API in Scala
 * [Ldpe2G/PCANet](https://github.com/Ldpe2G/PCANet) - convert the matlab code of PCANet to C++ & Scala
 * [KarelCemus/play-redis](https://github.com/KarelCemus/play-redis) - Play framework 2 cache plugin as an adapter to redis-server
+* [jboner/scala-otp](https://github.com/jboner/scala-otp) - Development have been discontinued. The successor is the Akka Project: http://akka.io
+* [jaceklaskowski/spark-activator](https://github.com/jaceklaskowski/spark-activator) - Spark Streaming with Scala and Akka Activator template
+* [arjanblokzijl/scala-conduits](https://github.com/arjanblokzijl/scala-conduits) - A port to Scala of the Conduit library by Michael Snoyman
+* [unicredit/sbt-swagger-codegen](https://github.com/unicredit/sbt-swagger-codegen) - sbt Plugin for Scala code generation for Swagger specs
+* [sterglee/scalalab](https://github.com/sterglee/scalalab) - ScalaLab: Efficient MATLAB like scientific computing for the Java platform
+* [scalaj/scalaj-time](https://github.com/scalaj/scalaj-time) - Idiomatic Scala wrappers for Joda Time
+* [renchunxiao/scala-learn](https://github.com/renchunxiao/scala-learn) - scala 编程的基础知识，以及 快学scala 书中的习题
+* [prystupa/scala-cucumber-matching-engine](https://github.com/prystupa/scala-cucumber-matching-engine) - This repo backs a series of posts that walk through developing an equity exchange prototype using Scala and test driving the development with Cucumber
+* [MonsantoCo/stoop](https://github.com/MonsantoCo/stoop) - Monadic Scala API for CouchDB
+* [jeffplaisance/scala-protobuf](https://github.com/jeffplaisance/scala-protobuf) - protoc plugin that generates type safe scala wrappers for java protoc output
+* [ACINQ/eclair](https://github.com/ACINQ/eclair) - A scala implementation of the Lightning Network.
+* [zmanio/atmos](https://github.com/zmanio/atmos) - Minimalist retry-on-failure behavior for Scala.
+* [snowplow/aws-lambda-scala-example-project](https://github.com/snowplow/aws-lambda-scala-example-project) - An AWS Lambda function in Scala reading events from Amazon Kinesis and writing event counts to DynamoDB
+* [p3t0r/scala-sql-dsl](https://github.com/p3t0r/scala-sql-dsl) - Example of an implementation of SQL as a DSL in scala
+* [nestorpersist/ostore](https://github.com/nestorpersist/ostore) - A NoSql database and continuous map-reduce system written in Scala and Akka.
+* [nativelibs4java/scalaxy-streams](https://github.com/nativelibs4java/scalaxy-streams) - Scalaxy/Streams: make your Scala collections faster!
+* [m50d/paperdoll](https://github.com/m50d/paperdoll) - Scala implementation of "Freer Monads, More Extensible Effects" - see http://okmij.org/ftp/Haskell/extensible/more.pdf
+* [knoldus/playing-microservices](https://github.com/knoldus/playing-microservices) - This activator project describes Microservice architecture design using Play 2.4.x and Scala
 * [jsuereth/viewducers](https://github.com/jsuereth/viewducers) - Scala collection views meet Transducers hype
 * [inoio/solrs](https://github.com/inoio/solrs) - An async, non-blocking solr client for java/scala, providing a query interface like SolrJ
 * [gkossakowski/kentuckymule](https://github.com/gkossakowski/kentuckymule) - Limits of Scala typechecking speed
+* [fthomas/singleton-ops](https://github.com/fthomas/singleton-ops) - Operations for primitive and String singleton types
 * [dchenbecker/scalajpa](https://github.com/dchenbecker/scalajpa) - A framework for making JPA easier to use with Scala code
-* [zmanio/atmos](https://github.com/zmanio/atmos) - Minimalist retry-on-failure behavior for Scala.
+* [alvinj/ScalaApacheAccessLogParser](https://github.com/alvinj/ScalaApacheAccessLogParser) - An Apache access log parser written in Scala
 * [xiaodongw/swagger-finatra](https://github.com/xiaodongw/swagger-finatra) - Finatra Swagger Support
-* [Sciss/FingerTree](https://github.com/Sciss/FingerTree) - A Scala implementation of the versatile purely functional data structure of the same name.
+* [vert-x3/vertx-lang-scala](https://github.com/vert-x3/vertx-lang-scala) - Vert.x for Scala
 * [scalafx/ScalaFX-Tutorials](https://github.com/scalafx/ScalaFX-Tutorials) - Examples of using ScalaFX
-* [nativelibs4java/scalaxy-streams](https://github.com/nativelibs4java/scalaxy-streams) - Scalaxy/Streams: make your Scala collections faster!
-* [knoldus/playing-microservices](https://github.com/knoldus/playing-microservices) - This activator project describes Microservice architecture design using Play 2.4.x and Scala
-* [kakao/cuesheet](https://github.com/kakao/cuesheet) - A framework for writing Spark 2.x applications in a pretty way
+* [playframework/scalatestplus-play](https://github.com/playframework/scalatestplus-play) - ScalaTest plus Play
 * [henrikengstrom/akka-meetup-sthlm](https://github.com/henrikengstrom/akka-meetup-sthlm) - Akka kata to be used during the Stockholm Scala Meetup group
-* [ChrisNeveu/macrame](https://github.com/ChrisNeveu/macrame) - Macrame provides macro-based replacements for parts of the Scala standard library.
+* [ClaireNeveu/macrame](https://github.com/ClaireNeveu/macrame) - Macrame provides macro-based replacements for parts of the Scala standard library.
+* [albuch/sbt-dependency-check](https://github.com/albuch/sbt-dependency-check) - SBT Plugin for OWASP DependencyCheck. This can be used to monitor dependencies used in an application and report if there are any publicly known vulnerabilities (e.g. CVEs).
+* [wvlet/log](https://github.com/wvlet/log) - Fancy logging library for Scala
 * [svalaskevicius/eventflow](https://github.com/svalaskevicius/eventflow) - cqrs+es in scala
 * [stevej/scala-stats](https://github.com/stevej/scala-stats) - Scala library for tracking runtime metrics. Use it to keep track of latency, events, exception counts, etc.
+* [scredis/scredis](https://github.com/scredis/scredis) -  Non-blocking, ultra-fast Scala Redis client built on top of Akka IO.
+* [Sciss/FingerTree](https://github.com/Sciss/FingerTree) - A Scala implementation of the versatile purely functional data structure of the same name.
 * [rohansingh/android-scala-test](https://github.com/rohansingh/android-scala-test) - Simple proof-of-concept for an Android project using Scala and Maven.
-* [playframework/scalatestplus-play](https://github.com/playframework/scalatestplus-play) - ScalaTest plus Play
+* [reggoodwin/ferrit](https://github.com/reggoodwin/ferrit) - Ferrit is a web crawler service written in Scala using Akka, Spray and Cassandra.
 * [novus/rugu](https://github.com/novus/rugu) - A scala dsl for ssh.
 * [nicolasstucki/multisets](https://github.com/nicolasstucki/multisets) - Open source implementation of multi-sets (or bags) for Scala collection
 * [mpilquist/local-implicits](https://github.com/mpilquist/local-implicits) - Scala compiler plugin which provides syntax for working with locally declared implicit values
+* [molecule-labs/molecule](https://github.com/molecule-labs/molecule) - A concurrent programming library combining monadic and streaming I/O in Scala
+* [mandubian/scala-xmlsoap-ersatz](https://github.com/mandubian/scala-xmlsoap-ersatz) - XML/SOAP Ersatz tools, for Scala (developed & used with Play Framework 2.0 Scala) to read/write XML/SOAP without code generation, annotations or whatever magic
 * [japgolly/scalajs-benchmark](https://github.com/japgolly/scalajs-benchmark) - Benchmarks: write in Scala or JS, run in your browser. Live demo:
 * [hotzen/ScalaFlow](https://github.com/hotzen/ScalaFlow) - DataFlow-implementation for Scala using Continuations
-* [alvinj/ScalaApacheAccessLogParser](https://github.com/alvinj/ScalaApacheAccessLogParser) - An Apache access log parser written in Scala
+* [gatling/jsonpath](https://github.com/gatling/jsonpath) - A JSONPath interpretor in Scala
+* [bitcoin-s/bitcoin-s-core](https://github.com/bitcoin-s/bitcoin-s-core) - Bitcoin Implementation in Scala (core module)
+* [backuity/clist](https://github.com/backuity/clist) - Command Line Interface Scala Toolkit
 * [tixxit/delimited](https://github.com/tixxit/delimited) - Scala library for working with {tab,colon,semicolon,comma,pipe,etc}-separated files.
+* [ThoughtWorksInc/enableIf.scala](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that toggles Scala code at compile-time, like #if in C/C++
 * [skrusche63/spark-piwik](https://github.com/skrusche63/spark-piwik) - Beyond Piwik Analytics with Scala and Apache Spark
-* [scredis/scredis](https://github.com/scredis/scredis) -  Non-blocking, ultra-fast Scala Redis client built on top of Akka IO.
+* [shadaj/scalapy](https://github.com/shadaj/scalapy) - use the world of Python from the comfort of Scala!
+* [scalation/scalation](https://github.com/scalation/scalation) - Scala Library and Domain-Specific Language (DSL) for Modeling & Simulation
+* [sap1ens/akka-microservice](https://github.com/sap1ens/akka-microservice) - Example of a microservice with Scala, Akka, Spray and Camel/ActiveMQ
 * [samuelgruetter/rx-playground](https://github.com/samuelgruetter/rx-playground) - Some GUI examples in Java/Scala using Reactive Extensions
-* [reggoodwin/ferrit](https://github.com/reggoodwin/ferrit) - Ferrit is a web crawler service written in Scala using Akka, Spray and Cassandra.
-* [playframework/play-scala](https://github.com/playframework/play-scala) - Play starter project in Scala
-* [mandubian/scala-xmlsoap-ersatz](https://github.com/mandubian/scala-xmlsoap-ersatz) - XML/SOAP Ersatz tools, for Scala (developed & used with Play Framework 2.0 Scala) to read/write XML/SOAP without code generation, annotations or whatever magic
-* [m50d/paperdoll](https://github.com/m50d/paperdoll) - Scala implementation of "Freer Monads, More Extensible Effects" - see http://okmij.org/ftp/Haskell/extensible/more.pdf
 * [jboner/scala-dataflow](https://github.com/jboner/scala-dataflow) - Oz-style dataflow (single-assignment) variables and streams for Scala
 * [fcabestre/Scala-MQTT-client](https://github.com/fcabestre/Scala-MQTT-client) - A Scala MQTT client library
-* [bmc/grizzled-slf4j](https://github.com/bmc/grizzled-slf4j) - Simple Scala-friendly front-end to SLF4J
-* [bitcoin-s/bitcoin-s-core](https://github.com/bitcoin-s/bitcoin-s-core) - Bitcoin Implementation in Scala (core module)
-* [antonkulaga/scala-js-binding](https://github.com/antonkulaga/scala-js-binding) - ScalaJS html binding library
-* [albuch/sbt-dependency-check](https://github.com/albuch/sbt-dependency-check) - SBT Plugin for OWASP DependencyCheck. This can be used to monitor dependencies used in an application and report if there are any publicly known vulnerabilities (e.g. CVEs).
-* [vert-x3/vertx-lang-scala](https://github.com/vert-x3/vertx-lang-scala) - Vert.x for Scala
-* [utcompling/Scalabha](https://github.com/utcompling/Scalabha) - Scala utilities for teaching computational linguistics and prototyping algorithms.
-* [ThoughtWorksInc/enableIf.scala](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that toggles Scala code at compile-time, like #if in C/C++
-* [SidneyXu/JGSK](https://github.com/SidneyXu/JGSK) - Java,Groovy,Scala,Kotlin 四种语言的特点对比
-* [shadaj/scalapy](https://github.com/shadaj/scalapy) - use the world of Python from the comfort of Scala!
-* [scodec/scodec-stream](https://github.com/scodec/scodec-stream) - Binding between scodec and FS2
-* [scalation/scalation](https://github.com/scalation/scalation) - Scala Library and Domain-Specific Language (DSL) for Modeling & Simulation
-* [scalatest/scalatest-eclipse-plugin](https://github.com/scalatest/scalatest-eclipse-plugin) - ScalaTest plugin for Scala IDE
-* [sap1ens/akka-microservice](https://github.com/sap1ens/akka-microservice) - Example of a microservice with Scala, Akka, Spray and Camel/ActiveMQ
-* [okomok/sing](https://github.com/okomok/sing) - Type-Level Metaprogramming Library in Scala
-* [Nitro/streamcollections](https://github.com/Nitro/streamcollections) - Streams abstracted as Scala collections.
-* [molecule-labs/molecule](https://github.com/molecule-labs/molecule) - A concurrent programming library combining monadic and streaming I/O in Scala
-* [holdenk/spark-validator](https://github.com/holdenk/spark-validator) - A library you can include in your Spark job to validate the counters and perform operations on success. Goal is scala/java/python support.
-* [ghik/silencer](https://github.com/ghik/silencer) - Scala compiler plugin for annotation-based warning suppression
-* [gatling/jsonpath](https://github.com/gatling/jsonpath) - A JSONPath interpretor in Scala
-* [fwbrasil/radon-stm](https://github.com/fwbrasil/radon-stm) - Timestamp based STM in Scala
-* [datasift/dropwizard-scala](https://github.com/datasift/dropwizard-scala) - Scala language integration for Dropwizard
+* [fancellu/scalajs-vue](https://github.com/fancellu/scalajs-vue) - Scala.js bindings for Vue.js and an example application
 * [Chymyst/chymyst-core](https://github.com/Chymyst/chymyst-core) - Declarative concurrency in Scala - The implementation of the chemical machine
-* [abbruzze/kernal64](https://github.com/abbruzze/kernal64) - A Scala Commodore 64 emulator
+* [bmc/grizzled-slf4j](https://github.com/bmc/grizzled-slf4j) - Simple Scala-friendly front-end to SLF4J
+* [47deg/LambdaTest](https://github.com/47deg/LambdaTest) - Functional testing for Scala.
+* [vasnake/Principles-of-Reactive-Programming](https://github.com/vasnake/Principles-of-Reactive-Programming) - Principles of Reactive Programming, Scala: assignments and other code from Coursera https://class.coursera.org/reactive-002
+* [utcompling/Scalabha](https://github.com/utcompling/Scalabha) - Scala utilities for teaching computational linguistics and prototyping algorithms.
 * [underscoreio/advanced-scala-code](https://github.com/underscoreio/advanced-scala-code) - Code examples for Underscore's Advanced Scala course
 * [snowplow/scala-maxmind-iplookups](https://github.com/snowplow/scala-maxmind-iplookups) - Scala client for MaxMind Geo-IP
+* [scodec/scodec-stream](https://github.com/scodec/scodec-stream) - Binding between scodec and FS2
+* [scalatest/scalatest-eclipse-plugin](https://github.com/scalatest/scalatest-eclipse-plugin) - ScalaTest plugin for Scala IDE
+* [scala-native/sbt-crossproject](https://github.com/scala-native/sbt-crossproject) - Cross-platform compilation support for sbt.
 * [PagerDuty/scheduler](https://github.com/PagerDuty/scheduler) - A Scala library for scheduling arbitrary code to run at an arbitrary time.
+* [okomok/sing](https://github.com/okomok/sing) - Type-Level Metaprogramming Library in Scala
 * [notyy/scalaSnippet](https://github.com/notyy/scalaSnippet) - 在工作中和各种scala培训中积累的代码片段
-* [noelmarkham/scalaexchange-2015](https://github.com/noelmarkham/scalaexchange-2015) - Code for my talk, "A purely functional approach to building large applications"
-* [njin-fr/play-oauth](https://github.com/njin-fr/play-oauth) - Oauth2 kit for Play! Framework 2.2 Scala
+* [Nitro/streamcollections](https://github.com/Nitro/streamcollections) - Streams abstracted as Scala collections.
 * [milessabin/si2712fix-plugin](https://github.com/milessabin/si2712fix-plugin) - Fix for SI-2712 implemented as a compiler plugin for Scala 2.11.8 and 2.10.6
 * [lightning-viz/lightning-scala](https://github.com/lightning-viz/lightning-scala) - Scala client for the Lightning data visualization server (WIP)
+* [jcazevedo/moultingyaml](https://github.com/jcazevedo/moultingyaml) - Scala wrapper for SnakeYAML
+* [holdenk/spark-validator](https://github.com/holdenk/spark-validator) - A library you can include in your Spark job to validate the counters and perform operations on success. Goal is scala/java/python support.
+* [gengstrand/clojure-news-feed](https://github.com/gengstrand/clojure-news-feed) - evaluating various technologies by implementing a news feed micro-service
+* [fwbrasil/radon-stm](https://github.com/fwbrasil/radon-stm) - Timestamp based STM in Scala
+* [dcos/cosmos](https://github.com/dcos/cosmos) - Provides an API for the orderly, harmonious, and complete management of DC/OS service packages
+* [antonkulaga/scala-js-binding](https://github.com/antonkulaga/scala-js-binding) - ScalaJS html binding library
+* [adelbertc/aiyou](https://github.com/adelbertc/aiyou) - IO types and classes for Scala.
+* [abbruzze/kernal64](https://github.com/abbruzze/kernal64) - A Scala Commodore 64 emulator
+* [51zero/eel-sdk](https://github.com/51zero/eel-sdk) - Big Data Toolkit for the JVM
+* [unicredit/shocon](https://github.com/unicredit/shocon) - Simple pure-scala Typesafe HOCON implementation using FastParse
+* [scala-js/scala-js-pickling](https://github.com/scala-js/scala-js-pickling) - Pickling for Scala.js
+* [Project-ShangriLa/sora-playframework-scala](https://github.com/Project-ShangriLa/sora-playframework-scala) - Anime API Server. (Play Framework. Scala)
+* [noelmarkham/scalaexchange-2015](https://github.com/noelmarkham/scalaexchange-2015) - Code for my talk, "A purely functional approach to building large applications"
+* [njin-fr/play-oauth](https://github.com/njin-fr/play-oauth) - Oauth2 kit for Play! Framework 2.2 Scala
 * [konstructs/server](https://github.com/konstructs/server) - A voxel based game server.
 * [kjellwinblad/ScalaEdit](https://github.com/kjellwinblad/ScalaEdit) - A text editor for Scala programmers
-* [gengstrand/clojure-news-feed](https://github.com/gengstrand/clojure-news-feed) - evaluating various technologies by implementing a news feed micro-service
+* [jpzk/mockedstreams](https://github.com/jpzk/mockedstreams) - Scala Library for Unit-Testing Processing Topologies in Apache Kafka / Kafka Streams
 * [gaocegege/scala-renren](https://github.com/gaocegege/scala-renren) - scala 实现的人人网好友关系图
-* [dcos/cosmos](https://github.com/dcos/cosmos) - An orderly, harmonious, complete system for DC/OS - package management
+* [ElderResearch/ssc](https://github.com/ElderResearch/ssc) - Simple Scala Config: Typesafe Config wrapped in a `Dynamic` blanket.
+* [datasift/dropwizard-scala](https://github.com/datasift/dropwizard-scala) - Scala language integration for Dropwizard
 * [dacr/jassh](https://github.com/dacr/jassh) - High level scala SSH API for easy and fast operations on remote servers.
-* [backuity/clist](https://github.com/backuity/clist) - Command Line Interface Scala Toolkit
 * [arosenberger/nalloc](https://github.com/arosenberger/nalloc) - Allocation Free Option Types in Scala
-* [adelbertc/aiyou](https://github.com/adelbertc/aiyou) - IO types and classes for Scala.
+* [adornes/spark_scala_ml_examples](https://github.com/adornes/spark_scala_ml_examples) - Spark 2.0 Scala Machine Learning examples
 * [upeter/Scala-Spring-Integration](https://github.com/upeter/Scala-Spring-Integration) - Library to ease the integration with the Springframework for Scala
 * [ThoughtWorksInc/sbt-api-mappings](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that fills apiMappings for common Scala libraries.
-* [scala-js/scala-js-pickling](https://github.com/scala-js/scala-js-pickling) - Pickling for Scala.js
+* [rtimush/scalatags-rx](https://github.com/rtimush/scalatags-rx) - Integration between scalatags and scala.rx
 * [paypal/horizon](https://github.com/paypal/horizon) - An SBT plugin to help with building, testing, analyzing and releasing Scala
+* [payalabs/scalajs-react-bridge](https://github.com/payalabs/scalajs-react-bridge) - A simple way to make React components in the wild usable in scalajs-react apps. Write a case class for each component and start using it in a type-safe manner in scalajs-react apps.
+* [newhoggy/hashids-scala](https://github.com/newhoggy/hashids-scala) - Implement Hashids latest v1.0.0
 * [kotancode/ScalaMud](https://github.com/kotancode/ScalaMud) - A sample project to teach myself the Scala language combined with the fun of building a MUD
-* [jcazevedo/moultingyaml](https://github.com/jcazevedo/moultingyaml) - Scala wrapper for SnakeYAML
-* [ElderResearch/ssc](https://github.com/ElderResearch/ssc) - Simple Scala Config: Typesafe Config wrapped in a `Dynamic` blanket.
 * [daggerrz/Scwilio](https://github.com/daggerrz/Scwilio) - A Scala Twilio library
 * [asinghal/SlateIDE](https://github.com/asinghal/SlateIDE) - A simple light weight IDE for Scala
-* [9len/followbackbot](https://github.com/9len/followbackbot) - A scala library for twitter bots that follow/unfollow back and @reply based on custom criterea
-* [wvlet/log](https://github.com/wvlet/log) - Fancy logging library for Scala
-* [sksamuel/eel-sdk](https://github.com/sksamuel/eel-sdk) - Big Data Toolkit for the JVM
+* [47deg/case-classy](https://github.com/47deg/case-classy) - configuration with less hassle
+* [typesafehub/scala-sbt.g8](https://github.com/typesafehub/scala-sbt.g8) - giter8 template for Scala projects using sbt
 * [SimpleFinance/simplespec](https://github.com/SimpleFinance/simplespec) - A small Scala library for writing specs as simple classes and methods (no longer maintained).
-* [scalatra/scalatra-sbt-prototype](https://github.com/scalatra/scalatra-sbt-prototype) - A minimal Scalatra application with an SBT build to kickstart your project.
-* [rtimush/scalatags-rx](https://github.com/rtimush/scalatags-rx) - Integration between scalatags and scala.rx
-* [Project-ShangriLa/sora-playframework-scala](https://github.com/Project-ShangriLa/sora-playframework-scala) - Anime API Server. (Play Framework. Scala)
-* [payalabs/scalajs-react-bridge](https://github.com/payalabs/scalajs-react-bridge) - A simple way to make React components in the wild usable in scalajs-react apps. Write a case class for each component and start using it in a type-safe manner in scalajs-react apps.
+* [scala-native/scala-native-example](https://github.com/scala-native/scala-native-example) - Example sbt project that uses Scala Native.
 * [paulbutcher/borachio](https://github.com/paulbutcher/borachio) - Native Scala mocking framework
 * [openmole/mgo](https://github.com/openmole/mgo) - Purely functionnal genetic algorithms
 * [mkroli/dns4s](https://github.com/mkroli/dns4s) - Scala DNS implementation with Akka and Netty extension
 * [maxaf/numerato](https://github.com/maxaf/numerato) - You deserve a better Scala enumeration
-* [fancellu/scalajs-vue](https://github.com/fancellu/scalajs-vue) - Scala.js bindings for Vue.js and an example application
+* [kakao/mango](https://github.com/kakao/mango) - Core utility library & data connectors designed for simpler usage in Scala
+* [jeremyrsmith/patchless](https://github.com/jeremyrsmith/patchless) - Patch data type for Scala and shapeless
+* [gapt/gapt](https://github.com/gapt/gapt) - GAPT: General Architecture for Proof Theory
 * [deanwampler/SICPExerciseSolutions](https://github.com/deanwampler/SICPExerciseSolutions) - My Scheme, Scala, and Clojure solutions to some of the SICP exercises
+* [apache/incubator-predictionio-template-recommender](https://github.com/apache/incubator-predictionio-template-recommender) - PredictionIO Recommendation Engine Template (Scala-based parallelized engine)
+* [anskarl/LoMRF](https://github.com/anskarl/LoMRF) - LoMRF is an open-source implementation of Markov Logic Networks
 * [ambiata/introduction-to-fp-in-scala](https://github.com/ambiata/introduction-to-fp-in-scala) - A softer introduction to fp in scala course, based on patterns-in-types and the nicta course.
 * [ainterface/ainterface](https://github.com/ainterface/ainterface) - Runs an Erlang node on an ActorSystem of Akka.
+* [Ahnfelt/react4s](https://github.com/Ahnfelt/react4s) - A React wrapper for Scala.js - write simple Scala code - get shouldComponentUpdate() for free.
+* [47deg/scalacheck-toolbox](https://github.com/47deg/scalacheck-toolbox) - A helping hand for generating sensible data with ScalaCheck
 * [wfaler/ScaHAL](https://github.com/wfaler/ScaHAL) - Machine learning for Scala
 * [velvia/filo](https://github.com/velvia/filo) - Fast, memory-efficient, minimal-serialization, binary data vectors for Scala and other languages
-* [unicredit/shocon](https://github.com/unicredit/shocon) - Simple pure-scala Typesafe HOCON implementation using FastParse
-* [typesafehub/scala-sbt.g8](https://github.com/typesafehub/scala-sbt.g8) - giter8 template for Scala projects using sbt
+* [SumoLogic/elasticsearch-client](https://github.com/SumoLogic/elasticsearch-client) - Elasticsearch Client for Scala that operates against the REST Endpoint
 * [strelec/Advent-of-Scala-2015](https://github.com/strelec/Advent-of-Scala-2015) - :evergreen_tree: Solutions for the Advent of Code 2015 in Scala.
+* [scalatra/scalatra-sbt-prototype](https://github.com/scalatra/scalatra-sbt-prototype) - A minimal Scalatra application with an SBT build to kickstart your project.
+* [scalastuff/esclient](https://github.com/scalastuff/esclient) - Elastic Search Client for Scala
+* [razie/gremlins](https://github.com/razie/gremlins) - scala workflow DSL - see examples below or post questions to the forum
 * [pac4j/play-pac4j-scala-demo](https://github.com/pac4j/play-pac4j-scala-demo) - Play Scala demo to test the play-pac4j security library
 * [ogrodnek/spark-plug](https://github.com/ogrodnek/spark-plug) - scala driver for launching Amazon EMR jobs
 * [nremond/pbkdf2-scala](https://github.com/nremond/pbkdf2-scala) - PBKDF2 implementation in Scala
-* [newhoggy/hashids-scala](https://github.com/newhoggy/hashids-scala) - Implement Hashids latest v1.0.0
 * [melezov/scala-uuid](https://github.com/melezov/scala-uuid) - An optimized Scala wrapper for java.util.UUID - inspired by scala-time
-* [knoldus/ScalaJs_Weather_Report](https://github.com/knoldus/ScalaJs_Weather_Report) - Weather Information System- Get the mood of your city on one click using Scala.js.
 * [keplar/google-analytics-export-to-csv](https://github.com/keplar/google-analytics-export-to-csv) - A command-line tool for exporting data from Google Analytics to CSV. Use it to feed Tableau, R etc. Built in Scala
-* [kakao/mango](https://github.com/kakao/mango) - Core utility library & data connectors designed for simpler usage in Scala
 * [jonifreeman/literaljson](https://github.com/jonifreeman/literaljson) - JSON toolkit for Scala (discontinued, see lift-json)
-* [jeremyrsmith/patchless](https://github.com/jeremyrsmith/patchless) - Patch data type for Scala and shapeless
-* [gapt/gapt](https://github.com/gapt/gapt) - GAPT: General Architecture for Proof Theory
+* [iain-logan/jwt](https://github.com/iain-logan/jwt) - A Scala implementation of the JWT specification
+* [gonmarques/slick-repo](https://github.com/gonmarques/slick-repo) - CRUD Repositories for Slick based persistence Scala projects.
 * [ept/neo4j-scala-template](https://github.com/ept/neo4j-scala-template) - Template for a new Scala project using the Neo4j graph database and Jersey JSON REST API, including build config and example tests
+* [eHarmony/aloha](https://github.com/eHarmony/aloha) - A scala-based feature generation and modeling framework
+* [cretz/scala-web-ideal](https://github.com/cretz/scala-web-ideal) - Akka HTTP + Scala.js + ScalaTags + ScalaCSS + Autowire + Prickle + akka-sse + Gradle + etc... (outdated/stale)
+* [blemale/scaffeine](https://github.com/blemale/scaffeine) - Thin Scala wrapper for Caffeine (https://github.com/ben-manes/caffeine)
 * [bfil/scala-automapper](https://github.com/bfil/scala-automapper) - Hassle-free case class mapping!
-* [anskarl/LoMRF](https://github.com/anskarl/LoMRF) - LoMRF is an open-source implementation of Markov Logic Networks
-* [Ahnfelt/react4s](https://github.com/Ahnfelt/react4s) - A React wrapper for Scala.js - write simple Scala code - get shouldComponentUpdate() for free.
-* [ACINQ/eclair](https://github.com/ACINQ/eclair) - A scala implementation of the Lightning Network.
+* [atomist/rug](https://github.com/atomist/rug) - Runtime for Rugs
+* [9len/followbackbot](https://github.com/9len/followbackbot) - A scala library for twitter bots that follow/unfollow back and @reply based on custom criterea
+* [Verizon/helm](https://github.com/Verizon/helm) - A native Scala client for interacting with Consul
 * [typelevel/scalaz-specs2](https://github.com/typelevel/scalaz-specs2) - Specs2 bindings for Scalaz
 * [tmbo/deep-nlp-scala](https://github.com/tmbo/deep-nlp-scala) - Using deep learning to POS tag sentences using scala + DL4J
 * [stew/scatur](https://github.com/stew/scatur) - A Turing Machine encoded in the scala type system
-* [scalastuff/esclient](https://github.com/scalastuff/esclient) - Elastic Search Client for Scala
-* [scala/scala-continuations](https://github.com/scala/scala-continuations) - the Scala delimited continuations plugin and library
+* [smarter/dotty-example-project](https://github.com/smarter/dotty-example-project) - An example sbt project that compiles using Dotty
+* [scalafiddle/scalafiddle-editor](https://github.com/scalafiddle/scalafiddle-editor) - Web user interface for ScalaFiddle
 * [scala-android-libs/scala-android-libs](https://github.com/scala-android-libs/scala-android-libs) - Scala Libs for Android Installer
-* [razie/gremlins](https://github.com/razie/gremlins) - scala workflow DSL - see examples below or post questions to the forum
+* [playframework/play-json](https://github.com/playframework/play-json) - The Play JSON library
 * [ofrasergreen/chafed](https://github.com/ofrasergreen/chafed) - Web scraper for Scala
 * [nraychaudhuri/scala-webmachine](https://github.com/nraychaudhuri/scala-webmachine) - Port of Basho's webmachine in scala, A REST-based system for building web applications
 * [mandubian/scaledn](https://github.com/mandubian/scaledn) - Scala EDN parser based on Parboiled2
+* [knoldus/ScalaJs_Weather_Report](https://github.com/knoldus/ScalaJs_Weather_Report) - Weather Information System- Get the mood of your city on one click using Scala.js.
 * [jinntrance/douban-scala](https://github.com/jinntrance/douban-scala) - Scala SDK for http://www.douban.com
 * [jinntrance/douban-android](https://github.com/jinntrance/douban-android) - An Android client developed in Scala for Douban Books (http://book.douban.com)
 * [japgolly/univeq](https://github.com/japgolly/univeq) - Safer universal equivalence (==) for Scala.
-* [iain-logan/jwt](https://github.com/iain-logan/jwt) - A Scala implementation of the JWT specification
+* [hzengin/telegrambot](https://github.com/hzengin/telegrambot) - "Batteries Included" Telegram Bot API wrapper for Scala
 * [gupta-himanshu/play-reactive-slick](https://github.com/gupta-himanshu/play-reactive-slick) - This is Play Template with a nice User Interface. If you want to use Play as web framework and Postgres as Database then this demo project can be used as a starting point for your application.
+* [coursera/autoschema](https://github.com/coursera/autoschema) - Generates JSON Schema from Scala classes
 * [chrislewis/highchair](https://github.com/chrislewis/highchair) - A simple query library for scala and the Google data store.
-* [apache/incubator-predictionio-template-recommender](https://github.com/apache/incubator-predictionio-template-recommender) - PredictionIO Recommendation Engine Template (Scala-based parallelized engine)
 * [apache/incubator-predictionio-template-ecom-recommender](https://github.com/apache/incubator-predictionio-template-ecom-recommender) - PredictionIO E-Commerce Recommendation Engine Template (Scala-based parallelized engine)
-* [adornes/spark_scala_ml_examples](https://github.com/adornes/spark_scala_ml_examples) - Spark 2.0 Scala Machine Learning examples
 * [47deg/scala-commas](https://github.com/47deg/scala-commas) - A compiler plugin to add support for trailing commas in Scala 2.11
-* [47deg/scalacheck-toolbox](https://github.com/47deg/scalacheck-toolbox) - A helping hand for generating sensible data with ScalaCheck
 * [tsers/zeison](https://github.com/tsers/zeison) - Small, fast and easy-to-use JSON library for Scala.
-* [TouK/pscheduler](https://github.com/TouK/pscheduler) - Simple, lightweight, persistent scheduler written in Scala. Currently there are implemented Akka scheduler module and Slick jdbc persistence.
+* [trananh/word2vec-scala](https://github.com/trananh/word2vec-scala) - Scala port of the word2vec toolkit.
 * [tel/scala-tk](https://github.com/tel/scala-tk) - General, extensible effect monad for Scala with message-passing semantics
 * [sharethrough/hive-udfs](https://github.com/sharethrough/hive-udfs) - Collection of useful Scala-based Hive UDFs.
-* [scalafiddle/scalafiddle-editor](https://github.com/scalafiddle/scalafiddle-editor) - Web user interface for ScalaFiddle
+* [scala/scala-continuations](https://github.com/scala/scala-continuations) - the Scala delimited continuations plugin and library
 * [pygmalios/reactiveinflux](https://github.com/pygmalios/reactiveinflux) - Non-blocking, reactive InfluxDB driver for Scala and Java.
 * [Mononofu/Scalisp](https://github.com/Mononofu/Scalisp) - A lisp interpreter and compiler, written in Scala. Compiles Lisp to Scala !
 * [Mironor/Play-2.0-Scala-MongoDb-Salat-exemple](https://github.com/Mironor/Play-2.0-Scala-MongoDb-Salat-exemple) - This is a small todo application from the official site but with mongodb support instead of anorm.
-* [jpzk/mockedstreams](https://github.com/jpzk/mockedstreams) - Scala Library for Unit-Testing Processing Topologies in Apache Kafka / Kafka Streams
-* [hzengin/telegrambot](https://github.com/hzengin/telegrambot) - "Batteries Included" Telegram Bot API wrapper for Scala
-* [gonmarques/slick-repo](https://github.com/gonmarques/slick-repo) - CRUD Repositories for Slick based persistence Scala projects.
+* [MetaStack-pl/MetaRx](https://github.com/MetaStack-pl/MetaRx) - Reactive data structures for Scala and Scala.js
 * [gangeli/CoreNLP-Scala](https://github.com/gangeli/CoreNLP-Scala) - A Scala wrapper for CoreNLP
 * [forty/scala-js-flux-example](https://github.com/forty/scala-js-flux-example) - Reimplementation of Facebook Flux chat example with Scala.js
 * [erikrozendaal/immutable-domain-example](https://github.com/erikrozendaal/immutable-domain-example) - Example of an immutable "Invoice" domain object in Scala
 * [dph01/scala-sbt-template](https://github.com/dph01/scala-sbt-template) - A template for starting a scala project with sbt
-* [cretz/scala-web-ideal](https://github.com/cretz/scala-web-ideal) - Akka HTTP + Scala.js + ScalaTags + ScalaCSS + Autowire + Prickle + akka-sse + Gradle + etc...
-* [coursera/autoschema](https://github.com/coursera/autoschema) - Generates JSON Schema from Scala classes
 * [aloiscochard/sherpa](https://github.com/aloiscochard/sherpa) - Sherpa - A serialization toolkit for Scala with macro-oriented case classes mapping
-* [47deg/case-classy](https://github.com/47deg/case-classy) - configuration with less hassle
-* [vasnake/Principles-of-Reactive-Programming](https://github.com/vasnake/Principles-of-Reactive-Programming) - Principles of Reactive Programming, Scala: assignments and other code from Coursera https://class.coursera.org/reactive-002
-* [ummels/scala-prioritymap](https://github.com/ummels/scala-prioritymap) - Immutable priority maps for Scala
-* [trananh/word2vec-scala](https://github.com/trananh/word2vec-scala) - Scala port of the word2vec toolkit.
-* [SumoLogic/elasticsearch-client](https://github.com/SumoLogic/elasticsearch-client) - Elasticsearch Client for Scala that operates against the REST Endpoint
-* [smarter/dotty-example-project](https://github.com/smarter/dotty-example-project) - An example sbt project that compiles using Dotty
-* [shekhargulati/youtube-dl-scala](https://github.com/shekhargulati/youtube-dl-scala) - Youtube Video downloader for the JVM
-* [scalamacros/sbt-example-paradise](https://github.com/scalamacros/sbt-example-paradise) - An example SBT project which uses macro paradise (Scala 2.10/2.11 with the macro paradise plugin, SBT 0.13)
+* [TheAlgorithms/Scala](https://github.com/TheAlgorithms/Scala) - All Algorithms implemented in Scala
 * [kaliber-scala/scala-mailer](https://github.com/kaliber-scala/scala-mailer) - Play mailer module based on Amazon SES
 * [codahale/jersey-scala](https://github.com/codahale/jersey-scala) - [ABANDONED] A Scala library which adds support to native Scala types in Jersey applications.
-* [blemale/scaffeine](https://github.com/blemale/scaffeine) - Thin Scala wrapper for Caffeine (https://github.com/ben-manes/caffeine)
+* [alexarchambault/coursier](https://github.com/alexarchambault/coursier) - Pure Scala Artifact Fetching
+* [olafurpg/scalafmt](https://github.com/olafurpg/scalafmt) - Code formatter for Scala
+* [playframework/play-websocket-scala](https://github.com/playframework/play-websocket-scala) - Example Play Scala application showing WebSocket use with Akka actors
+* [cassandra-scala/troy](https://github.com/cassandra-scala/troy) - Type-safe and Schema-safe Scala wrapper for Cassandra driver
+* [twitter/grabby-hands](https://github.com/twitter/grabby-hands) - A JVM Kestrel client that aggregates queues from multiple servers. Implemented in Scala with Java bindings. In use at Twitter for all JVM Search and Streaming Kestrel interactions.
+* [playframework/play-rest-api](https://github.com/playframework/play-rest-api) - Example Play Scala application showing REST API
+* [ChrisNeveu/macrame](https://github.com/ChrisNeveu/macrame) - Macrame provides macro-based replacements for parts of the Scala standard library.
+* [playframework/play-scala](https://github.com/playframework/play-scala) - Play starter project in Scala
+* [sksamuel/eel-sdk](https://github.com/sksamuel/eel-sdk) - Big Data Toolkit for the JVM
+* [TouK/pscheduler](https://github.com/TouK/pscheduler) - Simple, lightweight, persistent scheduler written in Scala. Currently there are implemented Akka scheduler module and Slick jdbc persistence.
+* [ummels/scala-prioritymap](https://github.com/ummels/scala-prioritymap) - Immutable priority maps for Scala
+* [shekhargulati/youtube-dl-scala](https://github.com/shekhargulati/youtube-dl-scala) - Youtube Video downloader for the JVM
+* [scalamacros/sbt-example-paradise](https://github.com/scalamacros/sbt-example-paradise) - An example SBT project which uses macro paradise (Scala 2.10/2.11 with the macro paradise plugin, SBT 0.13)
 * [ambiata/origami](https://github.com/ambiata/origami) - Monadic folds for Scala
 * [scala-js/scalajs-tutorial](https://github.com/scala-js/scalajs-tutorial) - Source code accompanying the Scala.js tutorial
 * [rathboma/scala-libgdx-examples](https://github.com/rathboma/scala-libgdx-examples) - Libgdx examples built with scala
@@ -871,7 +900,6 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [Karasiq/scalajs-bootstrap](https://github.com/Karasiq/scalajs-bootstrap) - Scala.js bootstrap components
 * [KadekM/orientdb-scala-stream](https://github.com/KadekM/orientdb-scala-stream) - OrientDB scala reactive-streams (akka streams) library for non-blocking and live queries.
 * [gitbucket/scalatra-forms](https://github.com/gitbucket/scalatra-forms) - A library to validate and map request parameters for Scalatra.
-* [fthomas/singleton-ops](https://github.com/fthomas/singleton-ops) - Operations for primitive and String singleton types
 * [fancellu/xqs](https://github.com/fancellu/xqs) - XQuery for Scala
 * [docopt/docopt.scala](https://github.com/docopt/docopt.scala) - Scala implementation of docopt language
 * [dickwall/activator-play-oauth2-scala](https://github.com/dickwall/activator-play-oauth2-scala) - An example of OAuth2 for login auth and API usage against github using play and Scala
@@ -891,7 +919,6 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [renesca/renesca-magic](https://github.com/renesca/renesca-magic) - Type Safe Graph Database Schemas in Scala for Neo4j
 * [reallylabs/jwt-scala](https://github.com/reallylabs/jwt-scala) - JSON Web Token (JWT) Scala implementation
 * [mpollmeier/gremlin-scala-examples](https://github.com/mpollmeier/gremlin-scala-examples) - Examples for different graph dbs
-* [MetaStack-pl/MetaRx](https://github.com/MetaStack-pl/MetaRx) - Reactive data structures for Scala and Scala.js
 * [magro/play2-scala-cassandra-sample](https://github.com/magro/play2-scala-cassandra-sample) - Play Framework 2 Scala sample application that shows how to access Cassandra using the DataStax driver and its asynchronous API.
 * [kaja47/sketches](https://github.com/kaja47/sketches) - Scala library for sketching, locality sensitive hashing, approximate similarity search and other things
 * [hseeberger/scala-in-action](https://github.com/hseeberger/scala-in-action) - Demos for the awesome Scala programming language
@@ -900,13 +927,11 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [everpeace/ml-examples-by-scalala](https://github.com/everpeace/ml-examples-by-scalala) - Machine Learning Algorithms Samples By Scalala
 * [erikrozendaal/scala-reactive](https://github.com/erikrozendaal/scala-reactive) - Small framework for reactive programming in Scala
 * [enshahar/BasicFPinScala](https://github.com/enshahar/BasicFPinScala) - Leaning functional program in Scala
-* [eHarmony/aloha](https://github.com/eHarmony/aloha) - A scala-based feature generation and modeling framework
 * [backchatio/xsbt-scalate-generate](https://github.com/backchatio/xsbt-scalate-generate) - Generate scala sources for sbt 0.10
 * [arosien/configz](https://github.com/arosien/configz) - Oddly enough, a Scala wrapper for Typesafe's (pure-Java) Config library.
 * [xitrum-framework/scaposer](https://github.com/xitrum-framework/scaposer) - GNU Gettext .po file loader for Scala
 * [vpavkin/scala-js-momentjs](https://github.com/vpavkin/scala-js-momentjs) - Scala.js façade for Moment.js
 * [solverit/akka-server](https://github.com/solverit/akka-server) - Scala + Akka Game Server
-* [scala-native/scala-native-example](https://github.com/scala-native/scala-native-example) - Example sbt project that uses Scala Native.
 * [razie/snakked](https://github.com/razie/snakked) - scala naked objects with a twist
 * [piotrMocz/scalajs-java](https://github.com/piotrMocz/scalajs-java) - Project aims to compile Java sources into Scala.js IR
 * [nicolasstucki/scala-rrb-vector](https://github.com/nicolasstucki/scala-rrb-vector) - Implementation and benchmarking of Scala Vectors with relaxed radix balanced trees for more efficient concatenations
@@ -934,7 +959,6 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [adelbertc/gazette](https://github.com/adelbertc/gazette) - Toy project serving to illustrate that it's possible to write pure functional systems in Scala.
 * [underscoreio/scalax15-slick](https://github.com/underscoreio/scalax15-slick) - Slick workshop for Scala Exchange 2015
 * [underscoreio/scalax15-interpreters](https://github.com/underscoreio/scalax15-interpreters) - Source code for the Interpreters workshop at Scala Exchange 2015.
-* [TheAlgorithms/Scala](https://github.com/TheAlgorithms/Scala) - All Algorithms implemented in Scala
 * [strelec/QuantumLearn](https://github.com/strelec/QuantumLearn) - :thought_balloon: An improved Machine Learning library in Scala.
 * [stacycurl/pimpathon](https://github.com/stacycurl/pimpathon) - Adds useful methods to scala & java classes.
 * [ScalaWilliam/xs4s](https://github.com/ScalaWilliam/xs4s) - XML Streaming for Scala
@@ -1240,7 +1264,6 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [twitter/iago](https://github.com/twitter/iago) - A load generator, built for engineers
 * [amplab/shark](https://github.com/amplab/shark) - Development in Shark has been ended.
 * [mpeltonen/sbt-idea](https://github.com/mpeltonen/sbt-idea) - A simple-build-tool (sbt) plugin/processor for creating IntelliJ IDEA project files
-* [PkmX/lcamera](https://github.com/PkmX/lcamera) - A camera app using the new camera2 API in Android Lollipop
 * [laurilehmijoki/s3_website](https://github.com/laurilehmijoki/s3_website) - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
 * [n8han/giter8](https://github.com/n8han/giter8) - a command line tool to apply templates defined on github
 * [twitter/cassovary](https://github.com/twitter/cassovary) - Cassovary is a simple big graph processing library for the JVM
