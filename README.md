@@ -1481,7 +1481,6 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [leon/play-salat](https://github.com/leon/play-salat) - MongoDB / Salat plugin for Play 2
 * [amplab/keystone](https://github.com/amplab/keystone) - Simplifying robust end-to-end machine learning on Apache Spark.
 * [softwaremill/reactive-kafka](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka
-* [soundcloud/sketchy-core](https://github.com/soundcloud/sketchy-core) - A framework for reducing text-based spam and other malicious user activity.  Battle-tested in production at SoundCloud.
 * [stackmob/newman](https://github.com/stackmob/newman) - A REST Client Made For Humans
 * [guardian/grid](https://github.com/guardian/grid) - The Guardian’s new image management system
 * [47deg/translate-bubble-android](https://github.com/47deg/translate-bubble-android) - Translations without interruptions
