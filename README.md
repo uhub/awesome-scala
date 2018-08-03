@@ -17,7 +17,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [twitter/scalding](https://github.com/twitter/scalding) - A Scala API for Cascading
 * [lampepfl/dotty](https://github.com/lampepfl/dotty) - Research compiler that will become Scala 3
 * [scalanlp/breeze](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
-* [spray/spray](https://github.com/spray/spray) - A suite of scala libraries for building and consuming RESTful web services on top of Akka: lightweight, asynchronous, non-blocking, actor-based, testable
+* [akka/akka-http](https://github.com/akka/akka-http) - A full server- and client-side HTTP stack on top of akka-actor and akka-stream
 * [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - BigDL: Distributed Deep Learning Library for Apache Spark
 * [milessabin/shapeless](https://github.com/milessabin/shapeless) - Generic programming for Scala
 * [scalatra/scalatra](https://github.com/scalatra/scalatra) - Tiny Scala high-performance, async web framework, inspired by Sinatra
