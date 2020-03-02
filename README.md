@@ -1994,3 +1994,4 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [kifi/ReactiveLDA](https://github.com/kifi/ReactiveLDA) - ReactiveLDA is a fast, lightweight implementation of the Latent Dirichlet Allocation (LDA) algorithm, using a parallel vanilla Gibbs sampling algorithm.
 * [gilt/gatling-websocket](https://github.com/gilt/gatling-websocket) - WebSocket addon for http://gatling-tool.org/
 * [dscleaver/sbt-quickfix](https://github.com/dscleaver/sbt-quickfix) - SBT plugin that routes compiler and test errors into a quickfix file
+* [Scala INI reader](https://github.com/sitetester/scala-ini-reader) - Reads configuration from INI file type
