@@ -309,7 +309,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [spotify/ratatool](https://github.com/spotify/ratatool) - A tool for data sampling, data generation, and data diffing
 * [scala/scala3-example-project](https://github.com/scala/scala3-example-project) - An example sbt project that compiles using Dotty
 * [opencypher/morpheus](https://github.com/opencypher/morpheus) - Morpheus brings the leading graph query language, Cypher, onto the leading distributed processing platform, Spark.
-* [doriordan/skuber](https://github.com/doriordan/skuber) - A Scala Kubernetes client library
+* [hagay3/skuber](https://github.com/hagay3/skuber) - A Scala Kubernetes client library
 * [softwaremill/scala-clippy](https://github.com/softwaremill/scala-clippy) - Good advice for Scala compiler errors
 * [scalikejdbc/scalikejdbc-async](https://github.com/scalikejdbc/scalikejdbc-async) - ScalikeJDBC Extension: Non-blocking APIs in the JDBC way
 * [streaming-with-flink/examples-scala](https://github.com/streaming-with-flink/examples-scala) - Stream Processing with Apache Flink - Scala Examples
