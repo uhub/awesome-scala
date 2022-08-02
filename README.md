@@ -1037,3 +1037,4 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [mslinn/web3j-scala](https://github.com/mslinn/web3j-scala) - Lightweight and idiomatic Scala wrapper around Web3J for Ethereum.
 * [jmparsons/play-scala-backbone-todo](https://github.com/jmparsons/play-scala-backbone-todo) - Built on Play Framework, Slick, Backbone, Webjars, RequireJS, CoffeeScript and Dustjs using the H2 in-memory database.
 * [anskarl/LoMRF](https://github.com/anskarl/LoMRF) - LoMRF is an open-source implementation of Markov Logic Networks
+* [Explore Scala](https://kandi.openweaver.com/explore/scala) - A curated list of Scala libraries, authors, kits, tutorials & learning resources.
