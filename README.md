@@ -136,6 +136,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [spray/sbt-revolver](https://github.com/spray/sbt-revolver) - An SBT plugin for dangerously fast development turnaround in Scala
 * [nscala-time/nscala-time](https://github.com/nscala-time/nscala-time) - A new Scala wrapper for Joda Time based on scala-time
 * [ReactiveMongo/ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) - :leaves: Non-blocking, Reactive MongoDB Driver for Scala
+* [mongo4s/mongo4s](https://github.com/mongo4s/mongo4s) - Effect- and codec-agnostic MongoDB client for Scala 3, with an AST-free in-house BSON codec.
 * [softwaremill/quicklens](https://github.com/softwaremill/quicklens) - Modify deeply nested case class fields
 * [tminglei/slick-pg](https://github.com/tminglei/slick-pg) - Slick extensions for PostgreSQL
 * [raquo/Laminar](https://github.com/raquo/Laminar) - Simple, expressive, and safe UI library for Scala.js
@@ -274,6 +275,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [softwaremill/akka-http-session](https://github.com/softwaremill/akka-http-session) - Web & mobile client-side akka-http sessions, with optional JWT support
 * [typelevel/jawn](https://github.com/typelevel/jawn) - Jawn is for parsing jay-sawn (JSON)
 * [LEGO/woof](https://github.com/LEGO/woof) - A pure Scala 3 logging library with no reflection
+* [logging4s/logging4s](https://github.com/logging4s/logging4s) - Effect-, backend-, and codec-agnostic structured logging for Scala 3.
 * [whisklabs/docker-it-scala](https://github.com/whisklabs/docker-it-scala) - Docker integration testing kit with Scala
 * [akka/akka-grpc](https://github.com/akka/akka-grpc) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
 * [pathikrit/scalgos](https://github.com/pathikrit/scalgos) - algorithms in scala
