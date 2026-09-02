@@ -5,13 +5,11 @@ A curated list of awesome Scala frameworks, libraries and software.
 * Learning and Reference
 	* [Tutorials and Books](#tutorials-and-books)
 	* [Examples and Exercises](#examples-and-exercises)
-	* [Awesome Lists and Collections](#awesome-lists-and-collections)
 * Language and Tooling
 	* [Compilers and Interpreters](#compilers-and-interpreters)
 	* [Build Systems](#build-systems)
 	* [Package Management](#package-management)
 	* [Linters and Formatters](#linters-and-formatters)
-	* [Debugging and Profiling](#debugging-and-profiling)
 	* [Editor and IDE Support](#editor-and-ide-support)
 * Web
 	* [Web Frameworks](#web-frameworks)
@@ -19,7 +17,6 @@ A curated list of awesome Scala frameworks, libraries and software.
 	* [API and GraphQL](#api-and-graphql)
 	* [Frontend and UI Components](#frontend-and-ui-components)
 	* [Web Servers and Proxies](#web-servers-and-proxies)
-	* [Scraping and Crawling](#scraping-and-crawling)
 * Data and Storage
 	* [Databases](#databases)
 	* [Database Clients and ORMs](#database-clients-and-orms)
@@ -27,9 +24,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 	* [Caching and Queues](#caching-and-queues)
 	* [Search and Indexing](#search-and-indexing)
 * Machine Learning and AI
-	* [LLM and Inference](#llm-and-inference)
 	* [Machine Learning Frameworks](#machine-learning-frameworks)
-	* [Natural Language Processing](#natural-language-processing)
 	* [Data Science and Analytics](#data-science-and-analytics)
 * Networking and Distributed
 	* [Networking](#networking)
@@ -38,16 +33,11 @@ A curated list of awesome Scala frameworks, libraries and software.
 	* [Cloud and Infrastructure](#cloud-and-infrastructure)
 	* [Monitoring and Observability](#monitoring-and-observability)
 * User Interface
-	* [GUI Toolkits](#gui-toolkits)
 	* [Terminal and Console UI](#terminal-and-console-ui)
-	* [Mobile](#mobile)
 	* [Applications and End User Tools](#applications-and-end-user-tools)
 * Graphics and Media
-	* [Graphics and Rendering](#graphics-and-rendering)
 	* [Game Development](#game-development)
-	* [Image and Video](#image-and-video)
 * Security
-	* [Cryptography](#cryptography)
 	* [Security Tools](#security-tools)
 	* [Authentication and Authorization](#authentication-and-authorization)
 * Concurrency and Performance
@@ -199,10 +189,6 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [tonyskn/coursera-scala](https://github.com/tonyskn/coursera-scala) - My solutions to Coursera's "Functional Programming in Scala"
 * [AtomicScala/atomic-scala-examples](https://github.com/AtomicScala/atomic-scala-examples) - Examples from the book "Atomic Scala" 2nd Edition by Bruce Eckel & Dianne Marsh
 
-### Awesome Lists and Collections
-
-* [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
-
 ## Language and Tooling
 
 ### Compilers and Interpreters
@@ -326,13 +312,6 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [scalacenter/scala3-migrate](https://github.com/scalacenter/scala3-migrate) - A tool to help migrating from Scala 2 to Scala 3
 * [rorygraves/ScalaClean](https://github.com/rorygraves/ScalaClean) - Full program static analysis for Scala
 
-### Debugging and Profiling
-
-* [LucaCanali/sparkMeasure](https://github.com/LucaCanali/sparkMeasure) - This repository contains the development code for sparkMeasure, an Apache Spark performance analysis and troubleshooting library. It simplifies collecting, aggregating, and exporting Spark task/stage metrics, and is designed for practical use by developers and data engineers in interactive analysis, testing, and production monitoring workflows.
-* [qubole/sparklens](https://github.com/qubole/sparklens) - Qubole Sparklens tool for performance tuning Apache Spark
-* [scalacenter/scalac-profiling](https://github.com/scalacenter/scalac-profiling) - Compilation profiling tool for Scala 2 projects
-* [JohnReedLOL/scala-trace-debug](https://github.com/JohnReedLOL/scala-trace-debug) - Macro based print debugging. Locates log statements in your IDE.
-
 ### Editor and IDE Support
 
 * [scalameta/metals](https://github.com/scalameta/metals) - Scala language server with rich IDE features 🚀
@@ -448,13 +427,6 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [Spinoco/fs2-http](https://github.com/Spinoco/fs2-http) - Http Server and client using fs2
 * [polynote/uzhttp](https://github.com/polynote/uzhttp) - Minimal HTTP server for Scala+ZIO
 * [criteo/lolhttp](https://github.com/criteo/lolhttp) - An HTTP Server and Client library for Scala.
-
-### Scraping and Crawling
-
-* [GravityLabs/goose](https://github.com/GravityLabs/goose) - Html Content / Article Extractor in Scala - open sourced from Gravity Labs *(archived)*
-* [ruippeixotog/scala-scraper](https://github.com/ruippeixotog/scala-scraper) - A Scala library for scraping content from HTML pages
-* [bplawler/crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling
-* [dyweb/scrala](https://github.com/dyweb/scrala) - Unmaintained :whale: :coffee: :spider: Scala crawler(spider) framework, inspired by scrapy, created by @gaocegege
 
 ## Data and Storage
 
@@ -619,11 +591,6 @@ A curated list of awesome Scala frameworks, libraries and software.
 
 ## Machine Learning and AI
 
-### LLM and Inference
-
-* [llm4s/llm4s](https://github.com/llm4s/llm4s) - Agentic and LLM Programming in Scala
-* [cequence-io/openai-scala-client](https://github.com/cequence-io/openai-scala-client) - Scala client for OpenAI API and other major LLM providers
-
 ### Machine Learning Frameworks
 
 * [apache/predictionio](https://github.com/apache/predictionio) - PredictionIO, a machine learning server for developers and ML engineers. *(archived)*
@@ -659,12 +626,6 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [zenecture/neuroflow](https://github.com/zenecture/neuroflow) - Artificial Neural Networks for Scala
 * [bobye/neuron](https://github.com/bobye/neuron) - Scala library for neural networks
 * [OndraFiedler/spark-recommender](https://github.com/OndraFiedler/spark-recommender) - Scalable recommendation system written in Scala using the Apache Spark framework
-
-### Natural Language Processing
-
-* [dlwh/epic](https://github.com/dlwh/epic) - **Archived** Epic is a high performance statistical parser written in Scala, along with a framework for building complex structured prediction models. *(archived)*
-* [P7h/Spark-MLlib-Twitter-Sentiment-Analysis](https://github.com/P7h/Spark-MLlib-Twitter-Sentiment-Analysis) - :star2: :sparkles: Analyze and visualize Twitter Sentiment on a world map using Spark MLlib
-* [STHSF/TextRank](https://github.com/STHSF/TextRank) - 基于PageRank的TextRank方法, 可以应用于中文关键词、短语、摘要提取程序，代码使用Scala编写。
 
 ### Data Science and Analytics
 
@@ -801,25 +762,13 @@ A curated list of awesome Scala frameworks, libraries and software.
 
 ## User Interface
 
-### GUI Toolkits
-
-* [scalafx/scalafx](https://github.com/scalafx/scalafx) - ScalaFX simplifies creation of JavaFX-based user interfaces in Scala
-* [scala/scala-swing](https://github.com/scala/scala-swing) - Scala wrappers for Java's Swing API for desktop GUIs
-
 ### Terminal and Console UI
 
 * [marconilanna/REPLesent](https://github.com/marconilanna/REPLesent) - A neat little tool to build presentations using the Scala REPL
 * [mattlianje/layoutz](https://github.com/mattlianje/layoutz) - Simple, beautiful CLI output
+* [oyvindberg/jatatui](https://github.com/oyvindberg/jatatui) - A Java port of ratatui — build rich terminal UIs from Java
 * [Tenchi2xh/Scurses](https://github.com/Tenchi2xh/Scurses) - Scurses, terminal drawing API for Scala, and Onions, a Scurses framework for easy terminal UI
 * [com-lihaoyi/fansi](https://github.com/com-lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
-* [oyvindberg/jatatui](https://github.com/oyvindberg/jatatui) - Beautiful Text-based User Interfaces for Scala
-
-### Mobile
-
-* [pocorall/scaloid](https://github.com/pocorall/scaloid) - Scaloid makes your Android code easy to understand and maintain.
-* [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native
-* [xebia-functional/nine-cards-v2](https://github.com/xebia-functional/nine-cards-v2) - An Open Source Android Launcher built with Scala on Android *(archived)*
-* [roboscala/sbt-robovm](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
 
 ### Applications and End User Tools
 
@@ -846,12 +795,6 @@ A curated list of awesome Scala frameworks, libraries and software.
 
 ## Graphics and Media
 
-### Graphics and Rendering
-
-* [stanch/reftree](https://github.com/stanch/reftree) - Automatically generated diagrams and animations for Scala data structures
-* [creativescala/doodle](https://github.com/creativescala/doodle) - Compositional vector graphics in Scala / Scala.JS
-* [mikolak-net/travesty](https://github.com/mikolak-net/travesty) - Diagram- and graph-generating library for Akka Streams
-
 ### Game Development
 
 * [MightyPirates/OpenComputers](https://github.com/MightyPirates/OpenComputers) - Home of the OpenComputers mod for Minecraft. *(archived)*
@@ -863,18 +806,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [regb/scala-game-library](https://github.com/regb/scala-game-library) - Scala library for cross-platform game development
 * [abbruzze/kernal64](https://github.com/abbruzze/kernal64) - A Scala Commodore 64, 128, VIC20, CBM2 and SuperCPU emulator
 
-### Image and Video
-
-* [peregin/gps-overlay-on-video](https://github.com/peregin/gps-overlay-on-video) - Telemetry (GPS) data overlay on videos
-
 ## Security
-
-### Cryptography
-
-* [jmcardon/tsec](https://github.com/jmcardon/tsec) - Type-safe general-cryptography library - https://jmcardon.github.io/tsec/ *(archived)*
-* [input-output-hk/scrypto](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala
-* [Nycto/Hasher](https://github.com/Nycto/Hasher) - A small Scala library for easily generating hashes (md5, sha1, sha256, sha512, crc32, bcrypt, hmacs, pbkdf2)
-* [t3hnar/scala-bcrypt](https://github.com/t3hnar/scala-bcrypt) - Scala wrapper for jBcrypt + pom.xml inside
 
 ### Security Tools
 
@@ -1228,6 +1160,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 * [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated] *(archived)*
 * [akka/akka-core](https://github.com/akka/akka-core) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+* [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 * [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 * [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees. *(archived)*
 * [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor
@@ -1253,6 +1186,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [twitter-archive/gizzard](https://github.com/twitter-archive/gizzard) - [Archived] A flexible sharding framework for creating eventually-consistent distributed datastores *(archived)*
 * [laurilehmijoki/s3_website](https://github.com/laurilehmijoki/s3_website) - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
 * [twitter/summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm *(archived)*
+* [pocorall/scaloid](https://github.com/pocorall/scaloid) - Scaloid makes your Android code easy to understand and maintain.
 * [ValeLang/Vale](https://github.com/ValeLang/Vale) - Compiler for the Vale programming language - http://vale.dev/
 * [MojoJolo/textteaser](https://github.com/MojoJolo/textteaser) - TextTeaser is an automatic summarization algorithm.
 * [feathr-ai/feathr](https://github.com/feathr-ai/feathr) - Feathr – A scalable, unified data and AI engineering platform for enterprise
@@ -1263,6 +1197,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [apache/gluten](https://github.com/apache/gluten) - Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
 * [holdenk/spark-testing-base](https://github.com/holdenk/spark-testing-base) - Base classes to use when writing tests with Spark
 * [OSCPU/NutShell](https://github.com/OSCPU/NutShell) - RISC-V SoC designed by students in UCAS
+* [GravityLabs/goose](https://github.com/GravityLabs/goose) - Html Content / Article Extractor in Scala - open sourced from Gravity Labs *(archived)*
 * [sryza/aas](https://github.com/sryza/aas) - Code to accompany Advanced Analytics with Spark from O'Reilly Media
 * [smallnest/C1000K-Servers](https://github.com/smallnest/C1000K-Servers) - :zap: High performance websocket servers implemented by Spray-can, Netty, undertow, jetty, Vert.x, Grizzly, node.js and Go. It supports 1,200,000 active websocket connections *(archived)*
 * [locationtech/geomesa](https://github.com/locationtech/geomesa) - GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.
@@ -1305,6 +1240,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [BIDData/BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library
 * [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) - Korean tokenizer
 * [pingcap/tispark](https://github.com/pingcap/tispark) - TiSpark is built for running Apache Spark on top of TiDB/TiKV
+* [LucaCanali/sparkMeasure](https://github.com/LucaCanali/sparkMeasure) - This repository contains the development code for sparkMeasure, an Apache Spark performance analysis and troubleshooting library. It simplifies collecting, aggregating, and exporting Spark task/stage metrics, and is designed for practical use by developers and data engineers in interactive analysis, testing, and production monitoring workflows.
 * [XiaoMi/MiNLP](https://github.com/XiaoMi/MiNLP) - XiaoMi Natural Language Processing Toolkits
 * [akka/akka-samples](https://github.com/akka/akka-samples) - Akka Sample Projects *(archived)*
 * [fehmicansaglam/progressed.io](https://github.com/fehmicansaglam/progressed.io) - progressbar microservice *(archived)*
@@ -1320,9 +1256,11 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [ezhulenev/orderbook-dynamics](https://github.com/ezhulenev/orderbook-dynamics) - Modeling high-frequency limit order book dynamics with support vector machines
 * [gregdurrett/berkeley-doc-summarizer](https://github.com/gregdurrett/berkeley-doc-summarizer) - The Berkeley Document Summarizer is a learning-based, single-document summarization system that extracts source document content, exploits syntactic information to compress it, and uses coreference constraints to ensure clarity.
 * [databricks/tensorframes](https://github.com/databricks/tensorframes) - [DEPRECATED] Tensorflow wrapper for DataFrames on Apache Spark
+* [ruippeixotog/scala-scraper](https://github.com/ruippeixotog/scala-scraper) - A Scala library for scraping content from HTML pages
 * [sbt/sbt-eclipse](https://github.com/sbt/sbt-eclipse) - Plugin for sbt to create Eclipse project definitions
 * [Normation/rudder](https://github.com/Normation/rudder) - Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
 * [RBMHTechnology/eventuate](https://github.com/RBMHTechnology/eventuate) - Global-scale event sourcing and event collaboration with causal consistency (This project is in maintenance mode. Only critical bugs will be fixed, but there is no more feature development.). *(archived)*
+* [scalafx/scalafx](https://github.com/scalafx/scalafx) - ScalaFX simplifies creation of JavaFX-based user interfaces in Scala
 * [CSUG/HouseMD](https://github.com/CSUG/HouseMD) - HouseMD is an awesome diagnosing tool better than BTrace *(archived)*
 * [rchain/rchain](https://github.com/rchain/rchain) - Blockchain (smart contract) platform using CBC-Casper proof of stake + Rholang for concurrent execution.
 * [TalkingData/Fregata](https://github.com/TalkingData/Fregata) - A light weight, super fast, large scale machine learning library on spark .
@@ -1334,6 +1272,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [scoverage/sbt-scoverage](https://github.com/scoverage/sbt-scoverage) - sbt plugin for scoverage
 * [databricks/reference-apps](https://github.com/databricks/reference-apps) - Spark reference applications
 * [softwaremill/codebrag](https://github.com/softwaremill/codebrag) - Your daily code review tool *(archived)*
+* [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native
 * [CircleCI-Archived/vamp](https://github.com/CircleCI-Archived/vamp) - Vamp - canary releasing and autoscaling for microservice systems *(archived)*
 * [ucb-bar/riscv-mini](https://github.com/ucb-bar/riscv-mini) - Simple RISC-V 3-stage Pipeline in Chisel *(archived)*
 * [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) - Hybrid search engine, combining best features of text and semantic search worlds
@@ -1345,6 +1284,8 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [apalache-mc/apalache](https://github.com/apalache-mc/apalache) - APALACHE: symbolic model checker for TLA+ and Quint
 * [ShiftLeftSecurity/codepropertygraph](https://github.com/ShiftLeftSecurity/codepropertygraph) - Code Property Graph: specification, query language, and utilities
 * [xubo245/SparkLearning](https://github.com/xubo245/SparkLearning) - Learning Apache spark,including code and data .Most part can run local.
+* [qubole/sparklens](https://github.com/qubole/sparklens) - Qubole Sparklens tool for performance tuning Apache Spark
+* [stanch/reftree](https://github.com/stanch/reftree) - Automatically generated diagrams and animations for Scala data structures
 * [tumblr/collins](https://github.com/tumblr/collins) - groovy kind of love
 * [apicollective/apibuilder](https://github.com/apicollective/apibuilder) - Simple, Comprehensive Tooling for Modern APIs
 * [Netflix/edda](https://github.com/Netflix/edda) - AWS API Read Cache
@@ -1374,6 +1315,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [salat/salat](https://github.com/salat/salat) - Salat is a simple serialization library for case classes. *(archived)*
 * [topshell-language/topshell](https://github.com/topshell-language/topshell) - TopShell - a purely functional, reactive scripting language
 * [amplab/keystone](https://github.com/amplab/keystone) - Simplifying robust end-to-end machine learning on Apache Spark.
+* [dlwh/epic](https://github.com/dlwh/epic) - **Archived** Epic is a high performance statistical parser written in Scala, along with a framework for building complex structured prediction models. *(archived)*
 * [knowitall/openie](https://github.com/knowitall/openie) - Quality information extraction at web scale.
 * [debasishg/frdomain](https://github.com/debasishg/frdomain) - Code repo for Functional and Reactive Domain Modeling
 * [twitter/storehaus](https://github.com/twitter/storehaus) - Storehaus is a library that makes it easy to work with asynchronous key value stores
@@ -1420,12 +1362,15 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [nylonee/watchlistarr](https://github.com/nylonee/watchlistarr) - Customizable sync of Plex Watchlist to Sonarr/Radarr
 * [nymanjens/facto](https://github.com/nymanjens/facto) - Family Accounting Tool
 * [apache/tvm-vta](https://github.com/apache/tvm-vta) - Open, Modular, Deep Learning Accelerator
+* [peregin/gps-overlay-on-video](https://github.com/peregin/gps-overlay-on-video) - Telemetry (GPS) data overlay on videos
 * [pawelkaczor/akka-ddd](https://github.com/pawelkaczor/akka-ddd) - Akka CQRS/ES framework
 * [amplab/graphx](https://github.com/amplab/graphx) - Former GraphX development repository. GraphX has been merged into Apache Spark; please submit pull requests there.
 * [arhelmus/akka-http-rest](https://github.com/arhelmus/akka-http-rest) - Example of reactive REST service written on akka-http with slick
 * [inanna-malick/akka-streams-example](https://github.com/inanna-malick/akka-streams-example)
 * [sbt/sbt-git](https://github.com/sbt/sbt-git) - A git plugin for sbt
 * [vinyldns/vinyldns](https://github.com/vinyldns/vinyldns) - DNS automation and governance for streamlining DNS operations and enabling safe and secure DNS self-service
+* [jmcardon/tsec](https://github.com/jmcardon/tsec) - Type-safe general-cryptography library - https://jmcardon.github.io/tsec/ *(archived)*
+* [creativescala/doodle](https://github.com/creativescala/doodle) - Compositional vector graphics in Scala / Scala.JS
 * [baolibin/Bigdata](https://github.com/baolibin/Bigdata) - 大数据处理相关技术学习之路(持续更新中...)。 Bigdata整理 --> 慢慢滴~ 大数据相关技术包括离线处理，实时处理，OLAP等，如hadoop、spark、flink、hive、hbase、oozie...以及大数据项目，如用户画像、数据仓库等，欢迎感兴趣的小伙伴一起来开发...
 * [datamechanics/delight](https://github.com/datamechanics/delight) - A Spark UI and Spark History Server alternative with CPU and Memory metrics! Delight is free, cross-platform, and open-source. *(archived)*
 * [boundary/ordasity](https://github.com/boundary/ordasity) - Ordasity is Boundary's library for building stateful clustered services on the JVM.
@@ -1506,6 +1451,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [mbknor/mbknor-jackson-jsonSchema](https://github.com/mbknor/mbknor-jackson-jsonSchema) - Generate JSON Schema with Polymorphism using Jackson annotations
 * [amplab/spark-indexedrdd](https://github.com/amplab/spark-indexedrdd) - An efficient updatable key-value store for Apache Spark
 * [bazeltools/bazel-deps](https://github.com/bazeltools/bazel-deps) - Generate bazel dependencies for maven artifacts
+* [llm4s/llm4s](https://github.com/llm4s/llm4s) - Agentic and LLM Programming in Scala
 * [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin) - Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations. *(archived)*
 * [getclump/clump](https://github.com/getclump/clump) - A library for expressive and efficient service composition
 * [kitlangton/zio-magic](https://github.com/kitlangton/zio-magic) - Construct ZLayers automagically (w/ helpful compile-time errors) *(archived)*
@@ -1521,6 +1467,7 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [ucb-bar/dsptools](https://github.com/ucb-bar/dsptools) - A Library of Chisel3 Tools for Digital Signal Processing
 * [zhengruifeng/spark-libFM](https://github.com/zhengruifeng/spark-libFM) - An implement of Factorization Machines (LibFM)
 * [SpinalHDL/VexiiRiscv](https://github.com/SpinalHDL/VexiiRiscv) - Like VexRiscv, but, Harder, Better, Faster, Stronger
+* [cequence-io/openai-scala-client](https://github.com/cequence-io/openai-scala-client) - Scala client for OpenAI API and other major LLM providers
 * [kakao/s2graph](https://github.com/kakao/s2graph) - This code base is retained for historical interest only, please visit Apache Incubator Repo for latest one *(archived)*
 * [apache/hbase-connectors](https://github.com/apache/hbase-connectors) - Apache HBase Connectors
 * [vaquarkhan/Apache-Kafka-poc-and-notes](https://github.com/vaquarkhan/Apache-Kafka-poc-and-notes)
@@ -1596,13 +1543,14 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [echen/link-prediction](https://github.com/echen/link-prediction) - Solution to Facebook's link prediction contest on Kaggle.
 * [walfie/gbf-raidfinder](https://github.com/walfie/gbf-raidfinder) - Granblue Raid Finder (Archived: Granblue no longer has raid tweets) *(archived)*
 * [deng0515001/lnglat2Geo](https://github.com/deng0515001/lnglat2Geo) - 经纬度转省市区县乡镇离线包，采用空间查询算法，速度快(单线程5w次/s)，省市区县100%准确率。
+* [input-output-hk/scrypto](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala
+* [Adi23041999/UpstateLiberty](https://github.com/Adi23041999/UpstateLiberty)
 * [cookeem/CookIM](https://github.com/cookeem/CookIM) - Distributed web chat application base websocket built on akka.
 * [Duhemm/sbt-errors-summary](https://github.com/Duhemm/sbt-errors-summary) - sbt plugin to show a summary of compilation messages.
 * [krasserm/akka-persistence-kafka](https://github.com/krasserm/akka-persistence-kafka) - A replicated Akka Persistence journal backed by Apache Kafka
 * [leon/play-salat](https://github.com/leon/play-salat) - MongoDB / Salat plugin for Play 2 [MOVED] *(archived)*
 * [non/antimirov](https://github.com/non/antimirov) - algebraic manipulation of regular expressions
 * [wuhx/shelldroid](https://github.com/wuhx/shelldroid) - Create Virtual Environment for your Android Apps
-* [Adi23041999/UpstateLiberty](https://github.com/Adi23041999/UpstateLiberty)
 * [nadimbahadoor/allaboutscala](https://github.com/nadimbahadoor/allaboutscala) - Source code for www.allaboutscala.com tutorials
 * [arguslab/Argus-SAF](https://github.com/arguslab/Argus-SAF) - Argus static analysis framework
 * [jflanigan/jamr](https://github.com/jflanigan/jamr) - JAMR Parser and Generator
@@ -1628,12 +1576,14 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [typelevel/grackle](https://github.com/typelevel/grackle) - Grackle: Functional GraphQL for the Typelevel stack
 * [cb372/scala-typed-holes](https://github.com/cb372/scala-typed-holes)
 * [gregdurrett/berkeley-entity](https://github.com/gregdurrett/berkeley-entity) - The Berkeley Entity Resolution System jointly solves the problems of named entity recognition, coreference resolution, and entity linking with a feature-rich discriminative model.
+* [Nycto/Hasher](https://github.com/Nycto/Hasher) - A small Scala library for easily generating hashes (md5, sha1, sha256, sha512, crc32, bcrypt, hmacs, pbkdf2)
 * [typelevel/machinist](https://github.com/typelevel/machinist) - Spire's macros for zero-cost operator enrichment *(archived)*
 * [mdr/ascii-graphs](https://github.com/mdr/ascii-graphs) - Parse ASCII art diagrams of graphs (nodes and edges)
 * [banzaicloud/spark-metrics](https://github.com/banzaicloud/spark-metrics) - Spark metrics related custom classes and sinks (e.g. Prometheus)
 * [polomarcus/Spark-Structured-Streaming-Examples](https://github.com/polomarcus/Spark-Structured-Streaming-Examples) - Spark Structured Streaming / Kafka / Cassandra / Elastic
 * [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) - A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 * [txbits/txbits](https://github.com/txbits/txbits) - DISCLAIMER: TxBits is not affiliated with any active exchanges. Use them at your own risk and beware of any that violate the AGPL license terms by not releasing their source code as required.
+* [xebia-functional/nine-cards-v2](https://github.com/xebia-functional/nine-cards-v2) - An Open Source Android Launcher built with Scala on Android *(archived)*
 * [dbpedia-spotlight/dbpedia-spotlight-model](https://github.com/dbpedia-spotlight/dbpedia-spotlight-model) - DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text. Improving Efficiency and Accuracy in Multilingual Entity Extraction approach
 * [tofu-tf/derevo](https://github.com/tofu-tf/derevo) - Multiple instance derivations inside a single macro annotation
 * [unibas-gravis/basel-face-model-viewer](https://github.com/unibas-gravis/basel-face-model-viewer) - Simple Viewer for the Basel Face Model 2017
@@ -1641,4 +1591,14 @@ A curated list of awesome Scala frameworks, libraries and software.
 * [CM-Well/CM-Well](https://github.com/CM-Well/CM-Well) - CM-Well - a data warehouse for your knowledge graph
 * [sclasen/akka-kafka](https://github.com/sclasen/akka-kafka)
 * [yaooqinn/spark-authorizer](https://github.com/yaooqinn/spark-authorizer) - A Spark SQL extension which provides SQL Standard Authorization for Apache Spark | This repo is contributed to Apache Kyuubi | 项目已迁移至 Apache Kyuubi
+* [t3hnar/scala-bcrypt](https://github.com/t3hnar/scala-bcrypt) - Scala wrapper for jBcrypt + pom.xml inside
+* [bplawler/crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling
+* [P7h/Spark-MLlib-Twitter-Sentiment-Analysis](https://github.com/P7h/Spark-MLlib-Twitter-Sentiment-Analysis) - :star2: :sparkles: Analyze and visualize Twitter Sentiment on a world map using Spark MLlib
+* [scala/scala-swing](https://github.com/scala/scala-swing) - Scala wrappers for Java's Swing API for desktop GUIs
+* [STHSF/TextRank](https://github.com/STHSF/TextRank) - 基于PageRank的TextRank方法, 可以应用于中文关键词、短语、摘要提取程序，代码使用Scala编写。
+* [scalacenter/scalac-profiling](https://github.com/scalacenter/scalac-profiling) - Compilation profiling tool for Scala 2 projects
+* [JohnReedLOL/scala-trace-debug](https://github.com/JohnReedLOL/scala-trace-debug) - Macro based print debugging. Locates log statements in your IDE.
+* [dyweb/scrala](https://github.com/dyweb/scrala) - Unmaintained :whale: :coffee: :spider: Scala crawler(spider) framework, inspired by scrapy, created by @gaocegege
+* [roboscala/sbt-robovm](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
 * [scalacenter/advisoryboard](https://github.com/scalacenter/advisoryboard) - Scala Center Advisory Board planning
+* [mikolak-net/travesty](https://github.com/mikolak-net/travesty) - Diagram- and graph-generating library for Akka Streams
